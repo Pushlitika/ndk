@@ -1,0 +1,2517 @@
+{
+  "ABIRoot": {
+    "kind": "Root",
+    "name": "TopLevel",
+    "printedName": "TopLevel",
+    "children": [
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "Pushlitica",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "Pushlitica"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "Pushlitica",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "Pushlitica",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "Pushlitica"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "Pushlitica",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "Pushlitica"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "Pushlitica",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "Pushlitica"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "Pushlitica",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "Pushlitica"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "Pushlitica",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "Pushlitica"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "Pushlitica",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "Pushlitica"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "Pushlitica",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "Pushlitica"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "Pushlitica",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "Pushlitica"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "Pushlitica",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "Pushlitica"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "Pushlitica",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "Pushlitica"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "Pushlitica",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "Pushlitica"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "Pushlitica"
+      },
+      {
+        "kind": "Import",
+        "name": "OneSignalNotifications",
+        "printedName": "OneSignalNotifications",
+        "declKind": "Import",
+        "moduleName": "Pushlitica"
+      },
+      {
+        "kind": "Import",
+        "name": "OneSignalFramework",
+        "printedName": "OneSignalFramework",
+        "declKind": "Import",
+        "moduleName": "Pushlitica"
+      },
+      {
+        "kind": "Import",
+        "name": "OneSignalUser",
+        "printedName": "OneSignalUser",
+        "declKind": "Import",
+        "moduleName": "Pushlitica"
+      },
+      {
+        "kind": "Import",
+        "name": "AppsFlyerLib",
+        "printedName": "AppsFlyerLib",
+        "declKind": "Import",
+        "moduleName": "Pushlitica"
+      },
+      {
+        "kind": "Import",
+        "name": "CoreAudioTypes",
+        "printedName": "CoreAudioTypes",
+        "declKind": "Import",
+        "moduleName": "Pushlitica"
+      },
+      {
+        "kind": "Import",
+        "name": "TikTokOpenSDK",
+        "printedName": "TikTokOpenSDK",
+        "declKind": "Import",
+        "moduleName": "Pushlitica"
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "Pushlitica"
+      },
+      {
+        "kind": "Import",
+        "name": "AdSupport",
+        "printedName": "AdSupport",
+        "declKind": "Import",
+        "moduleName": "Pushlitica"
+      },
+      {
+        "kind": "Import",
+        "name": "FacebookCore",
+        "printedName": "FacebookCore",
+        "declKind": "Import",
+        "moduleName": "Pushlitica"
+      },
+      {
+        "kind": "Import",
+        "name": "AVFoundation",
+        "printedName": "AVFoundation",
+        "declKind": "Import",
+        "moduleName": "Pushlitica"
+      },
+      {
+        "kind": "Import",
+        "name": "AppTrackingTransparency",
+        "printedName": "AppTrackingTransparency",
+        "declKind": "Import",
+        "moduleName": "Pushlitica"
+      },
+      {
+        "kind": "Import",
+        "name": "SwiftUI",
+        "printedName": "SwiftUI",
+        "declKind": "Import",
+        "moduleName": "Pushlitica"
+      },
+      {
+        "kind": "Import",
+        "name": "FBSDKCoreKit",
+        "printedName": "FBSDKCoreKit",
+        "declKind": "Import",
+        "moduleName": "Pushlitica"
+      },
+      {
+        "kind": "Import",
+        "name": "Disk",
+        "printedName": "Disk",
+        "declKind": "Import",
+        "moduleName": "Pushlitica"
+      },
+      {
+        "kind": "Import",
+        "name": "ConfigCat",
+        "printedName": "ConfigCat",
+        "declKind": "Import",
+        "moduleName": "Pushlitica"
+      },
+      {
+        "kind": "Import",
+        "name": "AVKit",
+        "printedName": "AVKit",
+        "declKind": "Import",
+        "moduleName": "Pushlitica"
+      },
+      {
+        "kind": "Import",
+        "name": "SystemConfiguration",
+        "printedName": "SystemConfiguration",
+        "declKind": "Import",
+        "moduleName": "Pushlitica"
+      },
+      {
+        "kind": "Import",
+        "name": "Sentry",
+        "printedName": "Sentry",
+        "declKind": "Import",
+        "moduleName": "Pushlitica"
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "Pushlitica",
+        "printedName": "Pushlitica",
+        "children": [
+          {
+            "kind": "Var",
+            "name": "userDefineKeys",
+            "printedName": "userDefineKeys",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Dictionary",
+                "printedName": "[Swift.String : Swift.String]",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "usr": "s:SD"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "c:@M@Pushlitica@objc(cs)Pushlitica(py)userDefineKeys",
+            "mangledName": "$s10PushliticaAAC14userDefineKeysSDyS2SGvp",
+            "moduleName": "Pushlitica",
+            "declAttributes": [
+              "HasInitialValue",
+              "Final",
+              "HasStorage",
+              "AccessControl",
+              "ObjC"
+            ],
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Dictionary",
+                    "printedName": "[Swift.String : Swift.String]",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "String",
+                        "printedName": "Swift.String",
+                        "usr": "s:SS"
+                      },
+                      {
+                        "kind": "TypeNominal",
+                        "name": "String",
+                        "printedName": "Swift.String",
+                        "usr": "s:SS"
+                      }
+                    ],
+                    "usr": "s:SD"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "c:@M@Pushlitica@objc(cs)Pushlitica(im)userDefineKeys",
+                "mangledName": "$s10PushliticaAAC14userDefineKeysSDyS2SGvg",
+                "moduleName": "Pushlitica",
+                "implicit": true,
+                "declAttributes": [
+                  "Final",
+                  "ObjC"
+                ],
+                "accessorKind": "get"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Set",
+                "printedName": "Set()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Dictionary",
+                    "printedName": "[Swift.String : Swift.String]",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "String",
+                        "printedName": "Swift.String",
+                        "usr": "s:SS"
+                      },
+                      {
+                        "kind": "TypeNominal",
+                        "name": "String",
+                        "printedName": "Swift.String",
+                        "usr": "s:SS"
+                      }
+                    ],
+                    "usr": "s:SD"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "c:@M@Pushlitica@objc(cs)Pushlitica(im)setUserDefineKeys:",
+                "mangledName": "$s10PushliticaAAC14userDefineKeysSDyS2SGvs",
+                "moduleName": "Pushlitica",
+                "implicit": true,
+                "declAttributes": [
+                  "Final",
+                  "ObjC"
+                ],
+                "accessorKind": "set"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Modify",
+                "printedName": "Modify()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:10PushliticaAAC14userDefineKeysSDyS2SGvM",
+                "mangledName": "$s10PushliticaAAC14userDefineKeysSDyS2SGvM",
+                "moduleName": "Pushlitica",
+                "implicit": true,
+                "declAttributes": [
+                  "Final"
+                ],
+                "accessorKind": "_modify"
+              }
+            ]
+          },
+          {
+            "kind": "Function",
+            "name": "setup",
+            "printedName": "setup(ukey:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "c:@M@Pushlitica@objc(cs)Pushlitica(cm)setupWithUkey:",
+            "mangledName": "$s10PushliticaAAC5setup4ukeyySS_tFZ",
+            "moduleName": "Pushlitica",
+            "static": true,
+            "objc_name": "setupWithUkey:",
+            "declAttributes": [
+              "Final",
+              "AccessControl",
+              "ObjC"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "enabled",
+            "printedName": "enabled()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:10PushliticaAAC7enabledyyF",
+            "mangledName": "$s10PushliticaAAC7enabledyyF",
+            "moduleName": "Pushlitica",
+            "declAttributes": [
+              "Final",
+              "AccessControl"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "mute",
+            "printedName": "mute(_:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Bool",
+                "printedName": "Swift.Bool",
+                "usr": "s:Sb"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:10PushliticaAAC4muteyySbF",
+            "mangledName": "$s10PushliticaAAC4muteyySbF",
+            "moduleName": "Pushlitica",
+            "declAttributes": [
+              "Final",
+              "AccessControl"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "onConversionDataSuccess",
+            "printedName": "onConversionDataSuccess(_:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Dictionary",
+                "printedName": "[Swift.AnyHashable : Any]",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "AnyHashable",
+                    "printedName": "Swift.AnyHashable",
+                    "usr": "s:s11AnyHashableV"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "ProtocolComposition",
+                    "printedName": "Any"
+                  }
+                ],
+                "usr": "s:SD"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "c:@M@Pushlitica@objc(cs)Pushlitica(im)onConversionDataSuccess:",
+            "mangledName": "$s10PushliticaAAC23onConversionDataSuccessyySDys11AnyHashableVypGF",
+            "moduleName": "Pushlitica",
+            "objc_name": "onConversionDataSuccess:",
+            "declAttributes": [
+              "Final",
+              "ObjC",
+              "AccessControl"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "onConversionDataFail",
+            "printedName": "onConversionDataFail(_:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Error",
+                "printedName": "Swift.Error",
+                "usr": "s:s5ErrorP"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "c:@M@Pushlitica@objc(cs)Pushlitica(im)onConversionDataFail:",
+            "mangledName": "$s10PushliticaAAC20onConversionDataFailyys5Error_pF",
+            "moduleName": "Pushlitica",
+            "objc_name": "onConversionDataFail:",
+            "declAttributes": [
+              "Final",
+              "ObjC",
+              "AccessControl"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "onAppOpenAttribution",
+            "printedName": "onAppOpenAttribution(_:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Dictionary",
+                "printedName": "[Swift.AnyHashable : Any]",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "AnyHashable",
+                    "printedName": "Swift.AnyHashable",
+                    "usr": "s:s11AnyHashableV"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "ProtocolComposition",
+                    "printedName": "Any"
+                  }
+                ],
+                "usr": "s:SD"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "c:@M@Pushlitica@objc(cs)Pushlitica(im)onAppOpenAttribution:",
+            "mangledName": "$s10PushliticaAAC20onAppOpenAttributionyySDys11AnyHashableVypGF",
+            "moduleName": "Pushlitica",
+            "objc_name": "onAppOpenAttribution:",
+            "declAttributes": [
+              "Final",
+              "ObjC",
+              "AccessControl"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "onAppOpenAttributionFailure",
+            "printedName": "onAppOpenAttributionFailure(_:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Error",
+                "printedName": "Swift.Error",
+                "usr": "s:s5ErrorP"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "c:@M@Pushlitica@objc(cs)Pushlitica(im)onAppOpenAttributionFailure:",
+            "mangledName": "$s10PushliticaAAC27onAppOpenAttributionFailureyys5Error_pF",
+            "moduleName": "Pushlitica",
+            "objc_name": "onAppOpenAttributionFailure:",
+            "declAttributes": [
+              "Final",
+              "ObjC",
+              "AccessControl"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Pushlitica",
+                "printedName": "Pushlitica.Pushlitica",
+                "usr": "c:@M@Pushlitica@objc(cs)Pushlitica"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "c:@M@Pushlitica@objc(cs)Pushlitica(im)init",
+            "mangledName": "$s10PushliticaAACABycfc",
+            "moduleName": "Pushlitica",
+            "overriding": true,
+            "implicit": true,
+            "objc_name": "init",
+            "declAttributes": [
+              "Dynamic",
+              "ObjC",
+              "Override"
+            ],
+            "init_kind": "Designated"
+          }
+        ],
+        "declKind": "Class",
+        "usr": "c:@M@Pushlitica@objc(cs)Pushlitica",
+        "mangledName": "$s10PushliticaAAC",
+        "moduleName": "Pushlitica",
+        "objc_name": "Pushlitica",
+        "declAttributes": [
+          "Final",
+          "AccessControl",
+          "ObjC",
+          "RawDocComment"
+        ],
+        "superclassUsr": "c:objc(cs)NSObject",
+        "inheritsConvenienceInitializers": true,
+        "superclassNames": [
+          "ObjectiveC.NSObject"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Equatable",
+            "printedName": "Equatable",
+            "usr": "s:SQ",
+            "mangledName": "$sSQ"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Hashable",
+            "printedName": "Hashable",
+            "usr": "s:SH",
+            "mangledName": "$sSH"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CVarArg",
+            "printedName": "CVarArg",
+            "usr": "s:s7CVarArgP",
+            "mangledName": "$ss7CVarArgP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "_KeyValueCodingAndObservingPublishing",
+            "printedName": "_KeyValueCodingAndObservingPublishing",
+            "usr": "s:10Foundation37_KeyValueCodingAndObservingPublishingP",
+            "mangledName": "$s10Foundation37_KeyValueCodingAndObservingPublishingP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "_KeyValueCodingAndObserving",
+            "printedName": "_KeyValueCodingAndObserving",
+            "usr": "s:10Foundation27_KeyValueCodingAndObservingP",
+            "mangledName": "$s10Foundation27_KeyValueCodingAndObservingP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CustomStringConvertible",
+            "printedName": "CustomStringConvertible",
+            "usr": "s:s23CustomStringConvertibleP",
+            "mangledName": "$ss23CustomStringConvertibleP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CustomDebugStringConvertible",
+            "printedName": "CustomDebugStringConvertible",
+            "usr": "s:s28CustomDebugStringConvertibleP",
+            "mangledName": "$ss28CustomDebugStringConvertibleP"
+          }
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "Pushlitica",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "Pushlitica"
+      }
+    ],
+    "json_format_version": 8
+  },
+  "ConstValues": [
+    {
+      "filePath": "\/Users\/user249774\/Library\/Mobile Documents\/com~apple~CloudDocs\/MivinaSource\/FirelyticsSDK\/Classes\/LiquittableCircle.swift",
+      "kind": "Array",
+      "offset": 256,
+      "length": 2,
+      "value": "[]"
+    },
+    {
+      "filePath": "\/Users\/user249774\/Library\/Mobile Documents\/com~apple~CloudDocs\/MivinaSource\/FirelyticsSDK\/Classes\/LiquittableCircle.swift",
+      "kind": "BooleanLiteral",
+      "offset": 276,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/user249774\/Library\/Mobile Documents\/com~apple~CloudDocs\/MivinaSource\/FirelyticsSDK\/Classes\/LiquittableCircle.swift",
+      "kind": "IntegerLiteral",
+      "offset": 670,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/user249774\/Library\/Mobile Documents\/com~apple~CloudDocs\/MivinaSource\/FirelyticsSDK\/Classes\/LiquittableCircle.swift",
+      "kind": "IntegerLiteral",
+      "offset": 690,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/user249774\/Library\/Mobile Documents\/com~apple~CloudDocs\/MivinaSource\/FirelyticsSDK\/Classes\/LiquittableCircle.swift",
+      "kind": "StringLiteral",
+      "offset": 959,
+      "length": 39,
+      "value": "\"init(coder:) has not been implemented\""
+    },
+    {
+      "filePath": "\/Users\/user249774\/Library\/Mobile Documents\/com~apple~CloudDocs\/MivinaSource\/FirelyticsSDK\/Classes\/LiquittableCircle.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1249,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/user249774\/Library\/Mobile Documents\/com~apple~CloudDocs\/MivinaSource\/FirelyticsSDK\/Classes\/LiquittableCircle.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1269,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/user249774\/Library\/Mobile Documents\/com~apple~CloudDocs\/MivinaSource\/FirelyticsSDK\/Classes\/LiquittableCircle.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1353,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/user249774\/Library\/Mobile Documents\/com~apple~CloudDocs\/MivinaSource\/FirelyticsSDK\/Classes\/LiquittableCircle.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1359,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/user249774\/Library\/Mobile Documents\/com~apple~CloudDocs\/MivinaSource\/FirelyticsSDK\/Classes\/LiquittableCircle.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1392,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/user249774\/Library\/Mobile Documents\/com~apple~CloudDocs\/MivinaSource\/FirelyticsSDK\/Classes\/LiquittableCircle.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1412,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/user249774\/Library\/Mobile Documents\/com~apple~CloudDocs\/MivinaSource\/FirelyticsSDK\/Classes\/LiquittableCircle.swift",
+      "kind": "FloatLiteral",
+      "offset": 1634,
+      "length": 3,
+      "value": "3.0"
+    },
+    {
+      "filePath": "\/Users\/user249774\/Library\/Mobile Documents\/com~apple~CloudDocs\/MivinaSource\/FirelyticsSDK\/Classes\/LiquittableCircle.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1799,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/user249774\/Library\/Mobile Documents\/com~apple~CloudDocs\/MivinaSource\/FirelyticsSDK\/Classes\/LiquittableCircle.swift",
+      "kind": "FloatLiteral",
+      "offset": 1941,
+      "length": 3,
+      "value": "1.6"
+    },
+    {
+      "filePath": "\/Users\/user249774\/Library\/Mobile Documents\/com~apple~CloudDocs\/MivinaSource\/FirelyticsSDK\/Classes\/LiquittableCircle.swift",
+      "kind": "IntegerLiteral",
+      "offset": 2001,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/user249774\/Library\/Mobile Documents\/com~apple~CloudDocs\/MivinaSource\/FirelyticsSDK\/Classes\/LiquittableCircle.swift",
+      "kind": "IntegerLiteral",
+      "offset": 2042,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/user249774\/Library\/Mobile Documents\/com~apple~CloudDocs\/MivinaSource\/FirelyticsSDK\/Classes\/LiquittableCircle.swift",
+      "kind": "StringLiteral",
+      "offset": 194,
+      "length": 17,
+      "value": "\"Pushlitica.LiquittableCircle\""
+    },
+    {
+      "filePath": "\/Users\/user249774\/Library\/Mobile Documents\/com~apple~CloudDocs\/MivinaSource\/FirelyticsSDK\/Classes\/ArrayEx.swift",
+      "kind": "IntegerLiteral",
+      "offset": 255,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/user249774\/Library\/Mobile Documents\/com~apple~CloudDocs\/MivinaSource\/FirelyticsSDK\/Classes\/ArrayEx.swift",
+      "kind": "Array",
+      "offset": 278,
+      "length": 2,
+      "value": "[]"
+    },
+    {
+      "filePath": "\/Users\/user249774\/Library\/Mobile Documents\/com~apple~CloudDocs\/MivinaSource\/FirelyticsSDK\/Classes\/ArrayEx.swift",
+      "kind": "Array",
+      "offset": 374,
+      "length": 2,
+      "value": "[]"
+    },
+    {
+      "filePath": "\/Users\/user249774\/Library\/Mobile Documents\/com~apple~CloudDocs\/MivinaSource\/FirelyticsSDK\/Classes\/ArrayEx.swift",
+      "kind": "IntegerLiteral",
+      "offset": 398,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/user249774\/Library\/Mobile Documents\/com~apple~CloudDocs\/MivinaSource\/FirelyticsSDK\/Classes\/ArrayEx.swift",
+      "kind": "IntegerLiteral",
+      "offset": 407,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/user249774\/Library\/Mobile Documents\/com~apple~CloudDocs\/MivinaSource\/FirelyticsSDK\/Classes\/ArrayEx.swift",
+      "kind": "IntegerLiteral",
+      "offset": 694,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/user249774\/Library\/Mobile Documents\/com~apple~CloudDocs\/MivinaSource\/FirelyticsSDK\/Classes\/ArrayEx.swift",
+      "kind": "IntegerLiteral",
+      "offset": 744,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/user249774\/Library\/Mobile Documents\/com~apple~CloudDocs\/MivinaSource\/FirelyticsSDK\/Classes\/ArrayEx.swift",
+      "kind": "IntegerLiteral",
+      "offset": 759,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/user249774\/Library\/Mobile Documents\/com~apple~CloudDocs\/MivinaSource\/FirelyticsSDK\/Classes\/ArrayEx.swift",
+      "kind": "Array",
+      "offset": 1544,
+      "length": 2,
+      "value": "[]"
+    },
+    {
+      "filePath": "\/Users\/user249774\/Library\/Mobile Documents\/com~apple~CloudDocs\/MivinaSource\/FirelyticsSDK\/Classes\/ArrayEx.swift",
+      "kind": "Array",
+      "offset": 1585,
+      "length": 2,
+      "value": "[]"
+    },
+    {
+      "filePath": "\/Users\/user249774\/Library\/Mobile Documents\/com~apple~CloudDocs\/MivinaSource\/FirelyticsSDK\/Classes\/ArrayEx.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1605,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/user249774\/Library\/Mobile Documents\/com~apple~CloudDocs\/MivinaSource\/FirelyticsSDK\/Classes\/ArrayEx.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1620,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/user249774\/Library\/Mobile Documents\/com~apple~CloudDocs\/MivinaSource\/FirelyticsSDK\/Classes\/ArrayEx.swift",
+      "kind": "Array",
+      "offset": 1863,
+      "length": 2,
+      "value": "[]"
+    },
+    {
+      "filePath": "\/Users\/user249774\/Library\/Mobile Documents\/com~apple~CloudDocs\/MivinaSource\/FirelyticsSDK\/Classes\/ArrayEx.swift",
+      "kind": "Array",
+      "offset": 2242,
+      "length": 2,
+      "value": "[]"
+    },
+    {
+      "filePath": "\/Users\/user249774\/Library\/Mobile Documents\/com~apple~CloudDocs\/MivinaSource\/FirelyticsSDK\/Classes\/LiquidLoader.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1127,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/user249774\/Library\/Mobile Documents\/com~apple~CloudDocs\/MivinaSource\/FirelyticsSDK\/Classes\/LiquidLoader.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1396,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/user249774\/Library\/Mobile Documents\/com~apple~CloudDocs\/MivinaSource\/FirelyticsSDK\/Classes\/LiquidLoader.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1850,
+      "length": 1,
+      "value": "5"
+    },
+    {
+      "filePath": "\/Users\/user249774\/Library\/Mobile Documents\/com~apple~CloudDocs\/MivinaSource\/FirelyticsSDK\/Classes\/LiquidLoader.swift",
+      "kind": "FloatLiteral",
+      "offset": 1853,
+      "length": 3,
+      "value": "3.0"
+    },
+    {
+      "filePath": "\/Users\/user249774\/Library\/Mobile Documents\/com~apple~CloudDocs\/MivinaSource\/FirelyticsSDK\/Classes\/LiquidLoader.swift",
+      "kind": "BooleanLiteral",
+      "offset": 2027,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/user249774\/Library\/Mobile Documents\/com~apple~CloudDocs\/MivinaSource\/FirelyticsSDK\/Classes\/LiquidLoader.swift",
+      "kind": "BooleanLiteral",
+      "offset": 2091,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/user249774\/Library\/Mobile Documents\/com~apple~CloudDocs\/MivinaSource\/FirelyticsSDK\/Classes\/LiquidLoader.swift",
+      "kind": "StringLiteral",
+      "offset": 1462,
+      "length": 12,
+      "value": "\"Pushlitica.LiquidLoader\""
+    },
+    {
+      "filePath": "\/Users\/user249774\/Library\/Mobile Documents\/com~apple~CloudDocs\/MivinaSource\/FirelyticsSDK\/Classes\/CGPointEx.swift",
+      "kind": "FloatLiteral",
+      "offset": 2447,
+      "length": 3,
+      "value": "1.0"
+    },
+    {
+      "filePath": "\/Users\/user249774\/Library\/Mobile Documents\/com~apple~CloudDocs\/MivinaSource\/FirelyticsSDK\/Classes\/CGPointEx.swift",
+      "kind": "FloatLiteral",
+      "offset": 2551,
+      "length": 3,
+      "value": "0.5"
+    },
+    {
+      "filePath": "\/Users\/user249774\/Library\/Mobile Documents\/com~apple~CloudDocs\/MivinaSource\/FirelyticsSDK\/Classes\/CGPointEx.swift",
+      "kind": "FloatLiteral",
+      "offset": 3405,
+      "length": 3,
+      "value": "0.1"
+    },
+    {
+      "filePath": "\/Users\/user249774\/Library\/Mobile Documents\/com~apple~CloudDocs\/MivinaSource\/FirelyticsSDK\/Classes\/LiquidLoadEffect.swift",
+      "kind": "FloatLiteral",
+      "offset": 315,
+      "length": 4,
+      "value": "1.17"
+    },
+    {
+      "filePath": "\/Users\/user249774\/Library\/Mobile Documents\/com~apple~CloudDocs\/MivinaSource\/FirelyticsSDK\/Classes\/LiquidLoadEffect.swift",
+      "kind": "FloatLiteral",
+      "offset": 349,
+      "length": 4,
+      "value": "0.80"
+    },
+    {
+      "filePath": "\/Users\/user249774\/Library\/Mobile Documents\/com~apple~CloudDocs\/MivinaSource\/FirelyticsSDK\/Classes\/LiquidLoadEffect.swift",
+      "kind": "BooleanLiteral",
+      "offset": 637,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/user249774\/Library\/Mobile Documents\/com~apple~CloudDocs\/MivinaSource\/FirelyticsSDK\/Classes\/LiquidLoadEffect.swift",
+      "kind": "FloatLiteral",
+      "offset": 879,
+      "length": 3,
+      "value": "0.0"
+    },
+    {
+      "filePath": "\/Users\/user249774\/Library\/Mobile Documents\/com~apple~CloudDocs\/MivinaSource\/FirelyticsSDK\/Classes\/LiquidLoadEffect.swift",
+      "kind": "FloatLiteral",
+      "offset": 1202,
+      "length": 4,
+      "value": "0.05"
+    },
+    {
+      "filePath": "\/Users\/user249774\/Library\/Mobile Documents\/com~apple~CloudDocs\/MivinaSource\/FirelyticsSDK\/Classes\/LiquidLoadEffect.swift",
+      "kind": "Array",
+      "offset": 2604,
+      "length": 2,
+      "value": "[]"
+    },
+    {
+      "filePath": "\/Users\/user249774\/Library\/Mobile Documents\/com~apple~CloudDocs\/MivinaSource\/FirelyticsSDK\/Classes\/LiquidLoadEffect.swift",
+      "kind": "FloatLiteral",
+      "offset": 2999,
+      "length": 3,
+      "value": "1.0"
+    },
+    {
+      "filePath": "\/Users\/user249774\/Library\/Mobile Documents\/com~apple~CloudDocs\/MivinaSource\/FirelyticsSDK\/Classes\/LiquidLoadEffect.swift",
+      "kind": "StringLiteral",
+      "offset": 198,
+      "length": 16,
+      "value": "\"Pushlitica.LiquidLoadEffect\""
+    },
+    {
+      "filePath": "\/Users\/user249774\/Library\/Mobile Documents\/com~apple~CloudDocs\/MivinaSource\/FirelyticsSDK\/Classes\/CircularGradientLayer.swift",
+      "kind": "StringLiteral",
+      "offset": 445,
+      "length": 39,
+      "value": "\"init(coder:) has not been implemented\""
+    },
+    {
+      "filePath": "\/Users\/user249774\/Library\/Mobile Documents\/com~apple~CloudDocs\/MivinaSource\/FirelyticsSDK\/Classes\/CircularGradientLayer.swift",
+      "kind": "FloatLiteral",
+      "offset": 577,
+      "length": 3,
+      "value": "0.0"
+    },
+    {
+      "filePath": "\/Users\/user249774\/Library\/Mobile Documents\/com~apple~CloudDocs\/MivinaSource\/FirelyticsSDK\/Classes\/CircularGradientLayer.swift",
+      "kind": "FloatLiteral",
+      "offset": 586,
+      "length": 3,
+      "value": "1.0"
+    },
+    {
+      "filePath": "\/Users\/user249774\/Library\/Mobile Documents\/com~apple~CloudDocs\/MivinaSource\/FirelyticsSDK\/Classes\/CircularGradientLayer.swift",
+      "kind": "FloatLiteral",
+      "offset": 650,
+      "length": 3,
+      "value": "1.0"
+    },
+    {
+      "filePath": "\/Users\/user249774\/Library\/Mobile Documents\/com~apple~CloudDocs\/MivinaSource\/FirelyticsSDK\/Classes\/CircularGradientLayer.swift",
+      "kind": "FloatLiteral",
+      "offset": 963,
+      "length": 3,
+      "value": "0.0"
+    },
+    {
+      "filePath": "\/Users\/user249774\/Library\/Mobile Documents\/com~apple~CloudDocs\/MivinaSource\/FirelyticsSDK\/Classes\/CircularGradientLayer.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1096,
+      "length": 2,
+      "value": "10"
+    },
+    {
+      "filePath": "\/Users\/user249774\/Library\/Mobile Documents\/com~apple~CloudDocs\/MivinaSource\/FirelyticsSDK\/Classes\/CircularGradientLayer.swift",
+      "kind": "StringLiteral",
+      "offset": 207,
+      "length": 21,
+      "value": "\"Pushlitica.CircularGradientLayer\""
+    },
+    {
+      "filePath": "\/Users\/user249774\/Library\/Mobile Documents\/com~apple~CloudDocs\/MivinaSource\/FirelyticsSDK\/Classes\/CircularGradientLayer.swift",
+      "kind": "StringLiteral",
+      "offset": 207,
+      "length": 21,
+      "value": "\"Pushlitica.CircularGradientLayer\""
+    },
+    {
+      "filePath": "\/Users\/user249774\/Library\/Mobile Documents\/com~apple~CloudDocs\/MivinaSource\/FirelyticsSDK\/Classes\/SimpleCircleLiquidEngine.swift",
+      "kind": "FloatLiteral",
+      "offset": 448,
+      "length": 3,
+      "value": "0.3"
+    },
+    {
+      "filePath": "\/Users\/user249774\/Library\/Mobile Documents\/com~apple~CloudDocs\/MivinaSource\/FirelyticsSDK\/Classes\/SimpleCircleLiquidEngine.swift",
+      "kind": "FloatLiteral",
+      "offset": 483,
+      "length": 3,
+      "value": "0.5"
+    },
+    {
+      "filePath": "\/Users\/user249774\/Library\/Mobile Documents\/com~apple~CloudDocs\/MivinaSource\/FirelyticsSDK\/Classes\/SimpleCircleLiquidEngine.swift",
+      "kind": "Array",
+      "offset": 957,
+      "length": 2,
+      "value": "[]"
+    },
+    {
+      "filePath": "\/Users\/user249774\/Library\/Mobile Documents\/com~apple~CloudDocs\/MivinaSource\/FirelyticsSDK\/Classes\/SimpleCircleLiquidEngine.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1460,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/user249774\/Library\/Mobile Documents\/com~apple~CloudDocs\/MivinaSource\/FirelyticsSDK\/Classes\/SimpleCircleLiquidEngine.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1466,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/user249774\/Library\/Mobile Documents\/com~apple~CloudDocs\/MivinaSource\/FirelyticsSDK\/Classes\/SimpleCircleLiquidEngine.swift",
+      "kind": "FloatLiteral",
+      "offset": 2159,
+      "length": 3,
+      "value": "1.0"
+    },
+    {
+      "filePath": "\/Users\/user249774\/Library\/Mobile Documents\/com~apple~CloudDocs\/MivinaSource\/FirelyticsSDK\/Classes\/SimpleCircleLiquidEngine.swift",
+      "kind": "IntegerLiteral",
+      "offset": 2220,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/user249774\/Library\/Mobile Documents\/com~apple~CloudDocs\/MivinaSource\/FirelyticsSDK\/Classes\/SimpleCircleLiquidEngine.swift",
+      "kind": "FloatLiteral",
+      "offset": 2592,
+      "length": 3,
+      "value": "1.0"
+    },
+    {
+      "filePath": "\/Users\/user249774\/Library\/Mobile Documents\/com~apple~CloudDocs\/MivinaSource\/FirelyticsSDK\/Classes\/SimpleCircleLiquidEngine.swift",
+      "kind": "FloatLiteral",
+      "offset": 2758,
+      "length": 3,
+      "value": "0.0"
+    },
+    {
+      "filePath": "\/Users\/user249774\/Library\/Mobile Documents\/com~apple~CloudDocs\/MivinaSource\/FirelyticsSDK\/Classes\/SimpleCircleLiquidEngine.swift",
+      "kind": "IntegerLiteral",
+      "offset": 3462,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/user249774\/Library\/Mobile Documents\/com~apple~CloudDocs\/MivinaSource\/FirelyticsSDK\/Classes\/SimpleCircleLiquidEngine.swift",
+      "kind": "FloatLiteral",
+      "offset": 3491,
+      "length": 4,
+      "value": "1.25"
+    },
+    {
+      "filePath": "\/Users\/user249774\/Library\/Mobile Documents\/com~apple~CloudDocs\/MivinaSource\/FirelyticsSDK\/Classes\/SimpleCircleLiquidEngine.swift",
+      "kind": "FloatLiteral",
+      "offset": 3498,
+      "length": 4,
+      "value": "0.25"
+    },
+    {
+      "filePath": "\/Users\/user249774\/Library\/Mobile Documents\/com~apple~CloudDocs\/MivinaSource\/FirelyticsSDK\/Classes\/SimpleCircleLiquidEngine.swift",
+      "kind": "IntegerLiteral",
+      "offset": 3645,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/user249774\/Library\/Mobile Documents\/com~apple~CloudDocs\/MivinaSource\/FirelyticsSDK\/Classes\/SimpleCircleLiquidEngine.swift",
+      "kind": "FloatLiteral",
+      "offset": 3674,
+      "length": 4,
+      "value": "1.25"
+    },
+    {
+      "filePath": "\/Users\/user249774\/Library\/Mobile Documents\/com~apple~CloudDocs\/MivinaSource\/FirelyticsSDK\/Classes\/SimpleCircleLiquidEngine.swift",
+      "kind": "FloatLiteral",
+      "offset": 3681,
+      "length": 4,
+      "value": "0.25"
+    },
+    {
+      "filePath": "\/Users\/user249774\/Library\/Mobile Documents\/com~apple~CloudDocs\/MivinaSource\/FirelyticsSDK\/Classes\/SimpleCircleLiquidEngine.swift",
+      "kind": "IntegerLiteral",
+      "offset": 4010,
+      "length": 2,
+      "value": "40"
+    },
+    {
+      "filePath": "\/Users\/user249774\/Library\/Mobile Documents\/com~apple~CloudDocs\/MivinaSource\/FirelyticsSDK\/Classes\/SimpleCircleLiquidEngine.swift",
+      "kind": "IntegerLiteral",
+      "offset": 4104,
+      "length": 2,
+      "value": "40"
+    },
+    {
+      "filePath": "\/Users\/user249774\/Library\/Mobile Documents\/com~apple~CloudDocs\/MivinaSource\/FirelyticsSDK\/Classes\/SimpleCircleLiquidEngine.swift",
+      "kind": "IntegerLiteral",
+      "offset": 4271,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/user249774\/Library\/Mobile Documents\/com~apple~CloudDocs\/MivinaSource\/FirelyticsSDK\/Classes\/SimpleCircleLiquidEngine.swift",
+      "kind": "IntegerLiteral",
+      "offset": 4355,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/user249774\/Library\/Mobile Documents\/com~apple~CloudDocs\/MivinaSource\/FirelyticsSDK\/Classes\/SimpleCircleLiquidEngine.swift",
+      "kind": "IntegerLiteral",
+      "offset": 4489,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/user249774\/Library\/Mobile Documents\/com~apple~CloudDocs\/MivinaSource\/FirelyticsSDK\/Classes\/SimpleCircleLiquidEngine.swift",
+      "kind": "IntegerLiteral",
+      "offset": 4702,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/user249774\/Library\/Mobile Documents\/com~apple~CloudDocs\/MivinaSource\/FirelyticsSDK\/Classes\/SimpleCircleLiquidEngine.swift",
+      "kind": "Array",
+      "offset": 4920,
+      "length": 2,
+      "value": "[]"
+    },
+    {
+      "filePath": "\/Users\/user249774\/Library\/Mobile Documents\/com~apple~CloudDocs\/MivinaSource\/FirelyticsSDK\/Classes\/SimpleCircleLiquidEngine.swift",
+      "kind": "FloatLiteral",
+      "offset": 5117,
+      "length": 3,
+      "value": "1.0"
+    },
+    {
+      "filePath": "\/Users\/user249774\/Library\/Mobile Documents\/com~apple~CloudDocs\/MivinaSource\/FirelyticsSDK\/Classes\/SimpleCircleLiquidEngine.swift",
+      "kind": "FloatLiteral",
+      "offset": 5227,
+      "length": 3,
+      "value": "0.0"
+    },
+    {
+      "filePath": "\/Users\/user249774\/Library\/Mobile Documents\/com~apple~CloudDocs\/MivinaSource\/FirelyticsSDK\/Classes\/SimpleCircleLiquidEngine.swift",
+      "kind": "FloatLiteral",
+      "offset": 5233,
+      "length": 3,
+      "value": "1.0"
+    },
+    {
+      "filePath": "\/Users\/user249774\/Library\/Mobile Documents\/com~apple~CloudDocs\/MivinaSource\/FirelyticsSDK\/Classes\/ObjC.swift",
+      "kind": "IntegerLiteral",
+      "offset": 257,
+      "length": 6,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/user249774\/Library\/Mobile Documents\/com~apple~CloudDocs\/MivinaSource\/FirelyticsSDK\/Classes\/ObjC.swift",
+      "kind": "IntegerLiteral",
+      "offset": 273,
+      "length": 8,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/user249774\/Library\/Mobile Documents\/com~apple~CloudDocs\/MivinaSource\/FirelyticsSDK\/Classes\/ObjC.swift",
+      "kind": "IntegerLiteral",
+      "offset": 291,
+      "length": 10,
+      "value": "3"
+    },
+    {
+      "filePath": "\/Users\/user249774\/Library\/Mobile Documents\/com~apple~CloudDocs\/MivinaSource\/FirelyticsSDK\/Classes\/ObjC.swift",
+      "kind": "IntegerLiteral",
+      "offset": 257,
+      "length": 6,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/user249774\/Library\/Mobile Documents\/com~apple~CloudDocs\/MivinaSource\/FirelyticsSDK\/Classes\/ObjC.swift",
+      "kind": "IntegerLiteral",
+      "offset": 273,
+      "length": 8,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/user249774\/Library\/Mobile Documents\/com~apple~CloudDocs\/MivinaSource\/FirelyticsSDK\/Classes\/ObjC.swift",
+      "kind": "IntegerLiteral",
+      "offset": 291,
+      "length": 10,
+      "value": "3"
+    },
+    {
+      "filePath": "\/Users\/user249774\/Library\/Mobile Documents\/com~apple~CloudDocs\/MivinaSource\/FirelyticsSDK\/Classes\/ObjC.swift",
+      "kind": "IntegerLiteral",
+      "offset": 257,
+      "length": 6,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/user249774\/Library\/Mobile Documents\/com~apple~CloudDocs\/MivinaSource\/FirelyticsSDK\/Classes\/ObjC.swift",
+      "kind": "IntegerLiteral",
+      "offset": 273,
+      "length": 8,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/user249774\/Library\/Mobile Documents\/com~apple~CloudDocs\/MivinaSource\/FirelyticsSDK\/Classes\/ObjC.swift",
+      "kind": "IntegerLiteral",
+      "offset": 291,
+      "length": 10,
+      "value": "3"
+    },
+    {
+      "filePath": "\/Users\/user249774\/Library\/Mobile Documents\/com~apple~CloudDocs\/MivinaSource\/FirelyticsSDK\/Classes\/LiquidCircleEffect.swift",
+      "kind": "FloatLiteral",
+      "offset": 317,
+      "length": 3,
+      "value": "0.5"
+    },
+    {
+      "filePath": "\/Users\/user249774\/Library\/Mobile Documents\/com~apple~CloudDocs\/MivinaSource\/FirelyticsSDK\/Classes\/LiquidCircleEffect.swift",
+      "kind": "IntegerLiteral",
+      "offset": 419,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/user249774\/Library\/Mobile Documents\/com~apple~CloudDocs\/MivinaSource\/FirelyticsSDK\/Classes\/LiquidCircleEffect.swift",
+      "kind": "IntegerLiteral",
+      "offset": 496,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/user249774\/Library\/Mobile Documents\/com~apple~CloudDocs\/MivinaSource\/FirelyticsSDK\/Classes\/LiquidCircleEffect.swift",
+      "kind": "FloatLiteral",
+      "offset": 513,
+      "length": 3,
+      "value": "8.0"
+    },
+    {
+      "filePath": "\/Users\/user249774\/Library\/Mobile Documents\/com~apple~CloudDocs\/MivinaSource\/FirelyticsSDK\/Classes\/LiquidCircleEffect.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1262,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/user249774\/Library\/Mobile Documents\/com~apple~CloudDocs\/MivinaSource\/FirelyticsSDK\/Classes\/LiquidCircleEffect.swift",
+      "kind": "FloatLiteral",
+      "offset": 1357,
+      "length": 3,
+      "value": "0.0"
+    },
+    {
+      "filePath": "\/Users\/user249774\/Library\/Mobile Documents\/com~apple~CloudDocs\/MivinaSource\/FirelyticsSDK\/Classes\/LiquidCircleEffect.swift",
+      "kind": "FloatLiteral",
+      "offset": 1363,
+      "length": 3,
+      "value": "1.0"
+    },
+    {
+      "filePath": "\/Users\/user249774\/Library\/Mobile Documents\/com~apple~CloudDocs\/MivinaSource\/FirelyticsSDK\/Classes\/LiquidCircleEffect.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1387,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/user249774\/Library\/Mobile Documents\/com~apple~CloudDocs\/MivinaSource\/FirelyticsSDK\/Classes\/LiquidCircleEffect.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1399,
+      "length": 2,
+      "value": "60"
+    },
+    {
+      "filePath": "\/Users\/user249774\/Library\/Mobile Documents\/com~apple~CloudDocs\/MivinaSource\/FirelyticsSDK\/Classes\/LiquidCircleEffect.swift",
+      "kind": "FloatLiteral",
+      "offset": 1444,
+      "length": 3,
+      "value": "1.0"
+    },
+    {
+      "filePath": "\/Users\/user249774\/Library\/Mobile Documents\/com~apple~CloudDocs\/MivinaSource\/FirelyticsSDK\/Classes\/LiquidCircleEffect.swift",
+      "kind": "FloatLiteral",
+      "offset": 1546,
+      "length": 4,
+      "value": "0.09"
+    },
+    {
+      "filePath": "\/Users\/user249774\/Library\/Mobile Documents\/com~apple~CloudDocs\/MivinaSource\/FirelyticsSDK\/Classes\/LiquidCircleEffect.swift",
+      "kind": "FloatLiteral",
+      "offset": 1578,
+      "length": 4,
+      "value": "1.10"
+    },
+    {
+      "filePath": "\/Users\/user249774\/Library\/Mobile Documents\/com~apple~CloudDocs\/MivinaSource\/FirelyticsSDK\/Classes\/LiquidCircleEffect.swift",
+      "kind": "FloatLiteral",
+      "offset": 1664,
+      "length": 4,
+      "value": "0.85"
+    },
+    {
+      "filePath": "\/Users\/user249774\/Library\/Mobile Documents\/com~apple~CloudDocs\/MivinaSource\/FirelyticsSDK\/Classes\/LiquidCircleEffect.swift",
+      "kind": "FloatLiteral",
+      "offset": 1683,
+      "length": 3,
+      "value": "0.5"
+    },
+    {
+      "filePath": "\/Users\/user249774\/Library\/Mobile Documents\/com~apple~CloudDocs\/MivinaSource\/FirelyticsSDK\/Classes\/LiquidCircleEffect.swift",
+      "kind": "FloatLiteral",
+      "offset": 1804,
+      "length": 3,
+      "value": "0.0"
+    },
+    {
+      "filePath": "\/Users\/user249774\/Library\/Mobile Documents\/com~apple~CloudDocs\/MivinaSource\/FirelyticsSDK\/Classes\/LiquidCircleEffect.swift",
+      "kind": "FloatLiteral",
+      "offset": 2329,
+      "length": 4,
+      "value": "0.75"
+    },
+    {
+      "filePath": "\/Users\/user249774\/Library\/Mobile Documents\/com~apple~CloudDocs\/MivinaSource\/FirelyticsSDK\/Classes\/LiquidCircleEffect.swift",
+      "kind": "FloatLiteral",
+      "offset": 2350,
+      "length": 3,
+      "value": "1.0"
+    },
+    {
+      "filePath": "\/Users\/user249774\/Library\/Mobile Documents\/com~apple~CloudDocs\/MivinaSource\/FirelyticsSDK\/Classes\/LiquidCircleEffect.swift",
+      "kind": "FloatLiteral",
+      "offset": 2396,
+      "length": 4,
+      "value": "0.75"
+    },
+    {
+      "filePath": "\/Users\/user249774\/Library\/Mobile Documents\/com~apple~CloudDocs\/MivinaSource\/FirelyticsSDK\/Classes\/LiquidCircleEffect.swift",
+      "kind": "FloatLiteral",
+      "offset": 2404,
+      "length": 4,
+      "value": "0.25"
+    },
+    {
+      "filePath": "\/Users\/user249774\/Library\/Mobile Documents\/com~apple~CloudDocs\/MivinaSource\/FirelyticsSDK\/Classes\/LiquidLineEffect.swift",
+      "kind": "Array",
+      "offset": 380,
+      "length": 2,
+      "value": "[]"
+    },
+    {
+      "filePath": "\/Users\/user249774\/Library\/Mobile Documents\/com~apple~CloudDocs\/MivinaSource\/FirelyticsSDK\/Classes\/LiquidLineEffect.swift",
+      "kind": "IntegerLiteral",
+      "offset": 400,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/user249774\/Library\/Mobile Documents\/com~apple~CloudDocs\/MivinaSource\/FirelyticsSDK\/Classes\/LiquidLineEffect.swift",
+      "kind": "IntegerLiteral",
+      "offset": 482,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/user249774\/Library\/Mobile Documents\/com~apple~CloudDocs\/MivinaSource\/FirelyticsSDK\/Classes\/LiquidLineEffect.swift",
+      "kind": "FloatLiteral",
+      "offset": 636,
+      "length": 3,
+      "value": "0.5"
+    },
+    {
+      "filePath": "\/Users\/user249774\/Library\/Mobile Documents\/com~apple~CloudDocs\/MivinaSource\/FirelyticsSDK\/Classes\/LiquidLineEffect.swift",
+      "kind": "FloatLiteral",
+      "offset": 1169,
+      "length": 3,
+      "value": "0.5"
+    },
+    {
+      "filePath": "\/Users\/user249774\/Library\/Mobile Documents\/com~apple~CloudDocs\/MivinaSource\/FirelyticsSDK\/Classes\/LiquidLineEffect.swift",
+      "kind": "FloatLiteral",
+      "offset": 1361,
+      "length": 3,
+      "value": "0.5"
+    },
+    {
+      "filePath": "\/Users\/user249774\/Library\/Mobile Documents\/com~apple~CloudDocs\/MivinaSource\/FirelyticsSDK\/Classes\/LiquidLineEffect.swift",
+      "kind": "FloatLiteral",
+      "offset": 1367,
+      "length": 3,
+      "value": "0.5"
+    },
+    {
+      "filePath": "\/Users\/user249774\/Library\/Mobile Documents\/com~apple~CloudDocs\/MivinaSource\/FirelyticsSDK\/Classes\/LiquidLineEffect.swift",
+      "kind": "FloatLiteral",
+      "offset": 1441,
+      "length": 3,
+      "value": "0.0"
+    },
+    {
+      "filePath": "\/Users\/user249774\/Library\/Mobile Documents\/com~apple~CloudDocs\/MivinaSource\/FirelyticsSDK\/Classes\/LiquidLineEffect.swift",
+      "kind": "FloatLiteral",
+      "offset": 1447,
+      "length": 3,
+      "value": "2.0"
+    },
+    {
+      "filePath": "\/Users\/user249774\/Library\/Mobile Documents\/com~apple~CloudDocs\/MivinaSource\/FirelyticsSDK\/Classes\/LiquidLineEffect.swift",
+      "kind": "FloatLiteral",
+      "offset": 1471,
+      "length": 3,
+      "value": "2.0"
+    },
+    {
+      "filePath": "\/Users\/user249774\/Library\/Mobile Documents\/com~apple~CloudDocs\/MivinaSource\/FirelyticsSDK\/Classes\/LiquidLineEffect.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1485,
+      "length": 2,
+      "value": "60"
+    },
+    {
+      "filePath": "\/Users\/user249774\/Library\/Mobile Documents\/com~apple~CloudDocs\/MivinaSource\/FirelyticsSDK\/Classes\/LiquidLineEffect.swift",
+      "kind": "FloatLiteral",
+      "offset": 1524,
+      "length": 3,
+      "value": "0.0"
+    },
+    {
+      "filePath": "\/Users\/user249774\/Library\/Mobile Documents\/com~apple~CloudDocs\/MivinaSource\/FirelyticsSDK\/Classes\/LiquidLineEffect.swift",
+      "kind": "FloatLiteral",
+      "offset": 1662,
+      "length": 4,
+      "value": "0.05"
+    },
+    {
+      "filePath": "\/Users\/user249774\/Library\/Mobile Documents\/com~apple~CloudDocs\/MivinaSource\/FirelyticsSDK\/Classes\/LiquidLineEffect.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1726,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/user249774\/Library\/Mobile Documents\/com~apple~CloudDocs\/MivinaSource\/FirelyticsSDK\/Classes\/LiquidLineEffect.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1799,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/user249774\/Library\/Mobile Documents\/com~apple~CloudDocs\/MivinaSource\/FirelyticsSDK\/Classes\/LiquidLineEffect.swift",
+      "kind": "FloatLiteral",
+      "offset": 1895,
+      "length": 3,
+      "value": "0.2"
+    },
+    {
+      "filePath": "\/Users\/user249774\/Library\/Mobile Documents\/com~apple~CloudDocs\/MivinaSource\/FirelyticsSDK\/Classes\/LiquidLineEffect.swift",
+      "kind": "IntegerLiteral",
+      "offset": 2019,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/user249774\/Library\/Mobile Documents\/com~apple~CloudDocs\/MivinaSource\/FirelyticsSDK\/Classes\/LiquidLineEffect.swift",
+      "kind": "FloatLiteral",
+      "offset": 2047,
+      "length": 3,
+      "value": "0.5"
+    },
+    {
+      "filePath": "\/Users\/user249774\/Library\/Mobile Documents\/com~apple~CloudDocs\/MivinaSource\/FirelyticsSDK\/Classes\/LiquidLineEffect.swift",
+      "kind": "FloatLiteral",
+      "offset": 2338,
+      "length": 3,
+      "value": "1.0"
+    },
+    {
+      "filePath": "\/Users\/user249774\/Library\/Mobile Documents\/com~apple~CloudDocs\/MivinaSource\/FirelyticsSDK\/Classes\/LiquidLineEffect.swift",
+      "kind": "FloatLiteral",
+      "offset": 2422,
+      "length": 3,
+      "value": "0.0"
+    },
+    {
+      "filePath": "\/Users\/user249774\/Library\/Mobile Documents\/com~apple~CloudDocs\/MivinaSource\/FirelyticsSDK\/Classes\/CGRectEx.swift",
+      "kind": "FloatLiteral",
+      "offset": 417,
+      "length": 3,
+      "value": "0.5"
+    },
+    {
+      "filePath": "\/Users\/user249774\/Library\/Mobile Documents\/com~apple~CloudDocs\/MivinaSource\/FirelyticsSDK\/Classes\/LiquidUtil.swift",
+      "kind": "IntegerLiteral",
+      "offset": 692,
+      "length": 3,
+      "value": "180"
+    },
+    {
+      "filePath": "\/Users\/user249774\/Library\/Mobile Documents\/com~apple~CloudDocs\/MivinaSource\/FirelyticsSDK\/Classes\/LiquidUtil.swift",
+      "kind": "IntegerLiteral",
+      "offset": 824,
+      "length": 3,
+      "value": "180"
+    },
+    {
+      "filePath": "\/Users\/user249774\/Library\/Mobile Documents\/com~apple~CloudDocs\/MivinaSource\/FirelyticsSDK\/Classes\/LiquidUtil.swift",
+      "kind": "Array",
+      "offset": 1176,
+      "length": 2,
+      "value": "[]"
+    },
+    {
+      "filePath": "\/Users\/user249774\/Library\/Mobile Documents\/com~apple~CloudDocs\/MivinaSource\/FirelyticsSDK\/Classes\/LiquidUtil.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1196,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/user249774\/Library\/Mobile Documents\/com~apple~CloudDocs\/MivinaSource\/FirelyticsSDK\/Classes\/LiquidUtil.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1269,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/user249774\/Library\/Mobile Documents\/com~apple~CloudDocs\/MivinaSource\/FirelyticsSDK\/Pushlitica.swift",
+      "kind": "Dictionary",
+      "offset": 653,
+      "length": 3,
+      "value": "[]"
+    },
+    {
+      "filePath": "\/Users\/user249774\/Library\/Mobile Documents\/com~apple~CloudDocs\/MivinaSource\/FirelyticsSDK\/Pushlitica.swift",
+      "kind": "StringLiteral",
+      "offset": 1101,
+      "length": 16,
+      "value": "\"0.1 Pushlitika\""
+    },
+    {
+      "filePath": "\/Users\/user249774\/Library\/Mobile Documents\/com~apple~CloudDocs\/MivinaSource\/FirelyticsSDK\/Pushlitica.swift",
+      "kind": "StringLiteral",
+      "offset": 1284,
+      "length": 10,
+      "value": "\"portrait\""
+    },
+    {
+      "filePath": "\/Users\/user249774\/Library\/Mobile Documents\/com~apple~CloudDocs\/MivinaSource\/FirelyticsSDK\/Pushlitica.swift",
+      "kind": "StringLiteral",
+      "offset": 1429,
+      "length": 11,
+      "value": "\"landscape\""
+    },
+    {
+      "filePath": "\/Users\/user249774\/Library\/Mobile Documents\/com~apple~CloudDocs\/MivinaSource\/FirelyticsSDK\/Pushlitica.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1600,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/user249774\/Library\/Mobile Documents\/com~apple~CloudDocs\/MivinaSource\/FirelyticsSDK\/Pushlitica.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1625,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/user249774\/Library\/Mobile Documents\/com~apple~CloudDocs\/MivinaSource\/FirelyticsSDK\/Pushlitica.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1725,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/user249774\/Library\/Mobile Documents\/com~apple~CloudDocs\/MivinaSource\/FirelyticsSDK\/Pushlitica.swift",
+      "kind": "StringLiteral",
+      "offset": 1759,
+      "length": 11,
+      "value": "\"af_status\""
+    },
+    {
+      "filePath": "\/Users\/user249774\/Library\/Mobile Documents\/com~apple~CloudDocs\/MivinaSource\/FirelyticsSDK\/Pushlitica.swift",
+      "kind": "StringLiteral",
+      "offset": 1786,
+      "length": 9,
+      "value": "\"Organic\""
+    },
+    {
+      "filePath": "\/Users\/user249774\/Library\/Mobile Documents\/com~apple~CloudDocs\/MivinaSource\/FirelyticsSDK\/Pushlitica.swift",
+      "kind": "StringLiteral",
+      "offset": 1884,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/user249774\/Library\/Mobile Documents\/com~apple~CloudDocs\/MivinaSource\/FirelyticsSDK\/Pushlitica.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1922,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/user249774\/Library\/Mobile Documents\/com~apple~CloudDocs\/MivinaSource\/FirelyticsSDK\/Pushlitica.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1971,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/user249774\/Library\/Mobile Documents\/com~apple~CloudDocs\/MivinaSource\/FirelyticsSDK\/Pushlitica.swift",
+      "kind": "BooleanLiteral",
+      "offset": 2025,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/user249774\/Library\/Mobile Documents\/com~apple~CloudDocs\/MivinaSource\/FirelyticsSDK\/Pushlitica.swift",
+      "kind": "StringLiteral",
+      "offset": 2234,
+      "length": 11,
+      "value": "\"temp.json\""
+    },
+    {
+      "filePath": "\/Users\/user249774\/Library\/Mobile Documents\/com~apple~CloudDocs\/MivinaSource\/FirelyticsSDK\/Pushlitica.swift",
+      "kind": "BooleanLiteral",
+      "offset": 2597,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/user249774\/Library\/Mobile Documents\/com~apple~CloudDocs\/MivinaSource\/FirelyticsSDK\/Pushlitica.swift",
+      "kind": "BooleanLiteral",
+      "offset": 3388,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/user249774\/Library\/Mobile Documents\/com~apple~CloudDocs\/MivinaSource\/FirelyticsSDK\/Pushlitica.swift",
+      "kind": "IntegerLiteral",
+      "offset": 3684,
+      "length": 3,
+      "value": "130"
+    },
+    {
+      "filePath": "\/Users\/user249774\/Library\/Mobile Documents\/com~apple~CloudDocs\/MivinaSource\/FirelyticsSDK\/Pushlitica.swift",
+      "kind": "BooleanLiteral",
+      "offset": 4053,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/user249774\/Library\/Mobile Documents\/com~apple~CloudDocs\/MivinaSource\/FirelyticsSDK\/Pushlitica.swift",
+      "kind": "BooleanLiteral",
+      "offset": 4318,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/user249774\/Library\/Mobile Documents\/com~apple~CloudDocs\/MivinaSource\/FirelyticsSDK\/Pushlitica.swift",
+      "kind": "StringLiteral",
+      "offset": 4688,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/user249774\/Library\/Mobile Documents\/com~apple~CloudDocs\/MivinaSource\/FirelyticsSDK\/Pushlitica.swift",
+      "kind": "BooleanLiteral",
+      "offset": 4848,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/user249774\/Library\/Mobile Documents\/com~apple~CloudDocs\/MivinaSource\/FirelyticsSDK\/Pushlitica.swift",
+      "kind": "FloatLiteral",
+      "offset": 5730,
+      "length": 4,
+      "value": "0.01"
+    },
+    {
+      "filePath": "\/Users\/user249774\/Library\/Mobile Documents\/com~apple~CloudDocs\/MivinaSource\/FirelyticsSDK\/Pushlitica.swift",
+      "kind": "BooleanLiteral",
+      "offset": 5745,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/user249774\/Library\/Mobile Documents\/com~apple~CloudDocs\/MivinaSource\/FirelyticsSDK\/Pushlitica.swift",
+      "kind": "StringLiteral",
+      "offset": 7090,
+      "length": 42,
+      "value": "\"User accepted notifications: \""
+    },
+    {
+      "filePath": "\/Users\/user249774\/Library\/Mobile Documents\/com~apple~CloudDocs\/MivinaSource\/FirelyticsSDK\/Pushlitica.swift",
+      "kind": "StringLiteral",
+      "offset": 7131,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/user249774\/Library\/Mobile Documents\/com~apple~CloudDocs\/MivinaSource\/FirelyticsSDK\/Pushlitica.swift",
+      "kind": "BooleanLiteral",
+      "offset": 7177,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/user249774\/Library\/Mobile Documents\/com~apple~CloudDocs\/MivinaSource\/FirelyticsSDK\/Pushlitica.swift",
+      "kind": "StringLiteral",
+      "offset": 7367,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/user249774\/Library\/Mobile Documents\/com~apple~CloudDocs\/MivinaSource\/FirelyticsSDK\/Pushlitica.swift",
+      "kind": "StringLiteral",
+      "offset": 8084,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/user249774\/Library\/Mobile Documents\/com~apple~CloudDocs\/MivinaSource\/FirelyticsSDK\/Pushlitica.swift",
+      "kind": "StringLiteral",
+      "offset": 8327,
+      "length": 8,
+      "value": "\"config\""
+    },
+    {
+      "filePath": "\/Users\/user249774\/Library\/Mobile Documents\/com~apple~CloudDocs\/MivinaSource\/FirelyticsSDK\/Pushlitica.swift",
+      "kind": "StringLiteral",
+      "offset": 8351,
+      "length": 4,
+      "value": "\"{}\""
+    },
+    {
+      "filePath": "\/Users\/user249774\/Library\/Mobile Documents\/com~apple~CloudDocs\/MivinaSource\/FirelyticsSDK\/Pushlitica.swift",
+      "kind": "StringLiteral",
+      "offset": 8645,
+      "length": 13,
+      "value": "\"config.json\""
+    },
+    {
+      "filePath": "\/Users\/user249774\/Library\/Mobile Documents\/com~apple~CloudDocs\/MivinaSource\/FirelyticsSDK\/Pushlitica.swift",
+      "kind": "BooleanLiteral",
+      "offset": 8879,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/user249774\/Library\/Mobile Documents\/com~apple~CloudDocs\/MivinaSource\/FirelyticsSDK\/Pushlitica.swift",
+      "kind": "StringLiteral",
+      "offset": 8913,
+      "length": 11,
+      "value": "\"af_status\""
+    },
+    {
+      "filePath": "\/Users\/user249774\/Library\/Mobile Documents\/com~apple~CloudDocs\/MivinaSource\/FirelyticsSDK\/Pushlitica.swift",
+      "kind": "StringLiteral",
+      "offset": 8940,
+      "length": 9,
+      "value": "\"Organic\""
+    },
+    {
+      "filePath": "\/Users\/user249774\/Library\/Mobile Documents\/com~apple~CloudDocs\/MivinaSource\/FirelyticsSDK\/Pushlitica.swift",
+      "kind": "StringLiteral",
+      "offset": 9034,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/user249774\/Library\/Mobile Documents\/com~apple~CloudDocs\/MivinaSource\/FirelyticsSDK\/Pushlitica.swift",
+      "kind": "BooleanLiteral",
+      "offset": 9085,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/user249774\/Library\/Mobile Documents\/com~apple~CloudDocs\/MivinaSource\/FirelyticsSDK\/Pushlitica.swift",
+      "kind": "StringLiteral",
+      "offset": 9199,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/user249774\/Library\/Mobile Documents\/com~apple~CloudDocs\/MivinaSource\/FirelyticsSDK\/Pushlitica.swift",
+      "kind": "BooleanLiteral",
+      "offset": 9325,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/user249774\/Library\/Mobile Documents\/com~apple~CloudDocs\/MivinaSource\/FirelyticsSDK\/Pushlitica.swift",
+      "kind": "StringLiteral",
+      "offset": 9332,
+      "length": 29,
+      "value": "\"didBecomeActiveNotification\""
+    },
+    {
+      "filePath": "\/Users\/user249774\/Library\/Mobile Documents\/com~apple~CloudDocs\/MivinaSource\/FirelyticsSDK\/Pushlitica.swift",
+      "kind": "StringLiteral",
+      "offset": 9364,
+      "length": 30,
+      "value": "\"willBecomeActiveNotification\""
+    },
+    {
+      "filePath": "\/Users\/user249774\/Library\/Mobile Documents\/com~apple~CloudDocs\/MivinaSource\/FirelyticsSDK\/Pushlitica.swift",
+      "kind": "BooleanLiteral",
+      "offset": 9603,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/user249774\/Library\/Mobile Documents\/com~apple~CloudDocs\/MivinaSource\/FirelyticsSDK\/Pushlitica.swift",
+      "kind": "StringLiteral",
+      "offset": 9704,
+      "length": 54,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/user249774\/Library\/Mobile Documents\/com~apple~CloudDocs\/MivinaSource\/FirelyticsSDK\/Pushlitica.swift",
+      "kind": "StringLiteral",
+      "offset": 9712,
+      "length": 1,
+      "value": "\"|\""
+    },
+    {
+      "filePath": "\/Users\/user249774\/Library\/Mobile Documents\/com~apple~CloudDocs\/MivinaSource\/FirelyticsSDK\/Pushlitica.swift",
+      "kind": "StringLiteral",
+      "offset": 9754,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/user249774\/Library\/Mobile Documents\/com~apple~CloudDocs\/MivinaSource\/FirelyticsSDK\/Pushlitica.swift",
+      "kind": "StringLiteral",
+      "offset": 9757,
+      "length": 13,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/user249774\/Library\/Mobile Documents\/com~apple~CloudDocs\/MivinaSource\/FirelyticsSDK\/Pushlitica.swift",
+      "kind": "StringLiteral",
+      "offset": 9769,
+      "length": 4,
+      "value": "\"id\""
+    },
+    {
+      "filePath": "\/Users\/user249774\/Library\/Mobile Documents\/com~apple~CloudDocs\/MivinaSource\/FirelyticsSDK\/Pushlitica.swift",
+      "kind": "FloatLiteral",
+      "offset": 9847,
+      "length": 3,
+      "value": "0.5"
+    },
+    {
+      "filePath": "\/Users\/user249774\/Library\/Mobile Documents\/com~apple~CloudDocs\/MivinaSource\/FirelyticsSDK\/Pushlitica.swift",
+      "kind": "BooleanLiteral",
+      "offset": 9861,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/user249774\/Library\/Mobile Documents\/com~apple~CloudDocs\/MivinaSource\/FirelyticsSDK\/Pushlitica.swift",
+      "kind": "BooleanLiteral",
+      "offset": 9922,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/user249774\/Library\/Mobile Documents\/com~apple~CloudDocs\/MivinaSource\/FirelyticsSDK\/Pushlitica.swift",
+      "kind": "Array",
+      "offset": 10460,
+      "length": 2,
+      "value": "[]"
+    },
+    {
+      "filePath": "\/Users\/user249774\/Library\/Mobile Documents\/com~apple~CloudDocs\/MivinaSource\/FirelyticsSDK\/Pushlitica.swift",
+      "kind": "StringLiteral",
+      "offset": 10649,
+      "length": 15,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/user249774\/Library\/Mobile Documents\/com~apple~CloudDocs\/MivinaSource\/FirelyticsSDK\/Pushlitica.swift",
+      "kind": "StringLiteral",
+      "offset": 10663,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/user249774\/Library\/Mobile Documents\/com~apple~CloudDocs\/MivinaSource\/FirelyticsSDK\/Pushlitica.swift",
+      "kind": "StringLiteral",
+      "offset": 10946,
+      "length": 15,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/user249774\/Library\/Mobile Documents\/com~apple~CloudDocs\/MivinaSource\/FirelyticsSDK\/Pushlitica.swift",
+      "kind": "StringLiteral",
+      "offset": 10960,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/user249774\/Library\/Mobile Documents\/com~apple~CloudDocs\/MivinaSource\/FirelyticsSDK\/Pushlitica.swift",
+      "kind": "StringLiteral",
+      "offset": 11281,
+      "length": 6,
+      "value": "\"uuid\""
+    },
+    {
+      "filePath": "\/Users\/user249774\/Library\/Mobile Documents\/com~apple~CloudDocs\/MivinaSource\/FirelyticsSDK\/Pushlitica.swift",
+      "kind": "StringLiteral",
+      "offset": 11369,
+      "length": 6,
+      "value": "\"idfa\""
+    },
+    {
+      "filePath": "\/Users\/user249774\/Library\/Mobile Documents\/com~apple~CloudDocs\/MivinaSource\/FirelyticsSDK\/Pushlitica.swift",
+      "kind": "StringLiteral",
+      "offset": 11448,
+      "length": 6,
+      "value": "\"apns\""
+    },
+    {
+      "filePath": "\/Users\/user249774\/Library\/Mobile Documents\/com~apple~CloudDocs\/MivinaSource\/FirelyticsSDK\/Pushlitica.swift",
+      "kind": "BooleanLiteral",
+      "offset": 11927,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/user249774\/Library\/Mobile Documents\/com~apple~CloudDocs\/MivinaSource\/FirelyticsSDK\/Pushlitica.swift",
+      "kind": "StringLiteral",
+      "offset": 11983,
+      "length": 17,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/user249774\/Library\/Mobile Documents\/com~apple~CloudDocs\/MivinaSource\/FirelyticsSDK\/Pushlitica.swift",
+      "kind": "StringLiteral",
+      "offset": 11999,
+      "length": 47,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/user249774\/Library\/Mobile Documents\/com~apple~CloudDocs\/MivinaSource\/FirelyticsSDK\/Pushlitica.swift",
+      "kind": "StringLiteral",
+      "offset": 12045,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/user249774\/Library\/Mobile Documents\/com~apple~CloudDocs\/MivinaSource\/FirelyticsSDK\/Pushlitica.swift",
+      "kind": "StringLiteral",
+      "offset": 12122,
+      "length": 8,
+      "value": "\"Cancel\""
+    },
+    {
+      "filePath": "\/Users\/user249774\/Library\/Mobile Documents\/com~apple~CloudDocs\/MivinaSource\/FirelyticsSDK\/Pushlitica.swift",
+      "kind": "StringLiteral",
+      "offset": 12198,
+      "length": 6,
+      "value": "\"Next\""
+    },
+    {
+      "filePath": "\/Users\/user249774\/Library\/Mobile Documents\/com~apple~CloudDocs\/MivinaSource\/FirelyticsSDK\/Pushlitica.swift",
+      "kind": "BooleanLiteral",
+      "offset": 12696,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/user249774\/Library\/Mobile Documents\/com~apple~CloudDocs\/MivinaSource\/FirelyticsSDK\/Pushlitica.swift",
+      "kind": "BooleanLiteral",
+      "offset": 12851,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/user249774\/Library\/Mobile Documents\/com~apple~CloudDocs\/MivinaSource\/FirelyticsSDK\/Pushlitica.swift",
+      "kind": "IntegerLiteral",
+      "offset": 13489,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/user249774\/Library\/Mobile Documents\/com~apple~CloudDocs\/MivinaSource\/FirelyticsSDK\/Pushlitica.swift",
+      "kind": "IntegerLiteral",
+      "offset": 13504,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/user249774\/Library\/Mobile Documents\/com~apple~CloudDocs\/MivinaSource\/FirelyticsSDK\/Pushlitica.swift",
+      "kind": "IntegerLiteral",
+      "offset": 13517,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/user249774\/Library\/Mobile Documents\/com~apple~CloudDocs\/MivinaSource\/FirelyticsSDK\/Pushlitica.swift",
+      "kind": "IntegerLiteral",
+      "offset": 13546,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/user249774\/Library\/Mobile Documents\/com~apple~CloudDocs\/MivinaSource\/FirelyticsSDK\/Pushlitica.swift",
+      "kind": "IntegerLiteral",
+      "offset": 13873,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/user249774\/Library\/Mobile Documents\/com~apple~CloudDocs\/MivinaSource\/FirelyticsSDK\/Pushlitica.swift",
+      "kind": "IntegerLiteral",
+      "offset": 14099,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/user249774\/Library\/Mobile Documents\/com~apple~CloudDocs\/MivinaSource\/FirelyticsSDK\/Pushlitica.swift",
+      "kind": "BooleanLiteral",
+      "offset": 14185,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/user249774\/Library\/Mobile Documents\/com~apple~CloudDocs\/MivinaSource\/FirelyticsSDK\/Pushlitica.swift",
+      "kind": "BooleanLiteral",
+      "offset": 14216,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/user249774\/Library\/Mobile Documents\/com~apple~CloudDocs\/MivinaSource\/FirelyticsSDK\/Pushlitica.swift",
+      "kind": "IntegerLiteral",
+      "offset": 14367,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/user249774\/Library\/Mobile Documents\/com~apple~CloudDocs\/MivinaSource\/FirelyticsSDK\/Pushlitica.swift",
+      "kind": "IntegerLiteral",
+      "offset": 14467,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/user249774\/Library\/Mobile Documents\/com~apple~CloudDocs\/MivinaSource\/FirelyticsSDK\/Pushlitica.swift",
+      "kind": "IntegerLiteral",
+      "offset": 14676,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/user249774\/Library\/Mobile Documents\/com~apple~CloudDocs\/MivinaSource\/FirelyticsSDK\/Pushlitica.swift",
+      "kind": "IntegerLiteral",
+      "offset": 14682,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/user249774\/Library\/Mobile Documents\/com~apple~CloudDocs\/MivinaSource\/FirelyticsSDK\/Pushlitica.swift",
+      "kind": "IntegerLiteral",
+      "offset": 14692,
+      "length": 3,
+      "value": "200"
+    },
+    {
+      "filePath": "\/Users\/user249774\/Library\/Mobile Documents\/com~apple~CloudDocs\/MivinaSource\/FirelyticsSDK\/Pushlitica.swift",
+      "kind": "IntegerLiteral",
+      "offset": 14705,
+      "length": 2,
+      "value": "50"
+    },
+    {
+      "filePath": "\/Users\/user249774\/Library\/Mobile Documents\/com~apple~CloudDocs\/MivinaSource\/FirelyticsSDK\/Pushlitica.swift",
+      "kind": "Array",
+      "offset": 15660,
+      "length": 90,
+      "value": "[\"UILaunchStoryboardName~ipad\", \"UILaunchStoryboardName~iphone\", \"UILaunchStoryboardName\"]"
+    },
+    {
+      "filePath": "\/Users\/user249774\/Library\/Mobile Documents\/com~apple~CloudDocs\/MivinaSource\/FirelyticsSDK\/Pushlitica.swift",
+      "kind": "StringLiteral",
+      "offset": 16416,
+      "length": 3,
+      "value": "\".\""
+    },
+    {
+      "filePath": "\/Users\/user249774\/Library\/Mobile Documents\/com~apple~CloudDocs\/MivinaSource\/FirelyticsSDK\/Pushlitica.swift",
+      "kind": "IntegerLiteral",
+      "offset": 17145,
+      "length": 3,
+      "value": "100"
+    },
+    {
+      "filePath": "\/Users\/user249774\/Library\/Mobile Documents\/com~apple~CloudDocs\/MivinaSource\/FirelyticsSDK\/Pushlitica.swift",
+      "kind": "StringLiteral",
+      "offset": 17705,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/user249774\/Library\/Mobile Documents\/com~apple~CloudDocs\/MivinaSource\/FirelyticsSDK\/Pushlitica.swift",
+      "kind": "IntegerLiteral",
+      "offset": 17872,
+      "length": 1,
+      "value": "5"
+    },
+    {
+      "filePath": "\/Users\/user249774\/Library\/Mobile Documents\/com~apple~CloudDocs\/MivinaSource\/FirelyticsSDK\/Pushlitica.swift",
+      "kind": "IntegerLiteral",
+      "offset": 17875,
+      "length": 1,
+      "value": "5"
+    },
+    {
+      "filePath": "\/Users\/user249774\/Library\/Mobile Documents\/com~apple~CloudDocs\/MivinaSource\/FirelyticsSDK\/Pushlitica.swift",
+      "kind": "StringLiteral",
+      "offset": 18227,
+      "length": 8,
+      "value": "\"target\""
+    },
+    {
+      "filePath": "\/Users\/user249774\/Library\/Mobile Documents\/com~apple~CloudDocs\/MivinaSource\/FirelyticsSDK\/Pushlitica.swift",
+      "kind": "Dictionary",
+      "offset": 18764,
+      "length": 3,
+      "value": "[]"
+    },
+    {
+      "filePath": "\/Users\/user249774\/Library\/Mobile Documents\/com~apple~CloudDocs\/MivinaSource\/FirelyticsSDK\/Classes\/UIView+Grow.swift",
+      "kind": "IntegerLiteral",
+      "offset": 561,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/user249774\/Library\/Mobile Documents\/com~apple~CloudDocs\/MivinaSource\/FirelyticsSDK\/Classes\/UIView+Grow.swift",
+      "kind": "IntegerLiteral",
+      "offset": 567,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/user249774\/Library\/Mobile Documents\/com~apple~CloudDocs\/MivinaSource\/FirelyticsSDK\/Classes\/UIView+Grow.swift",
+      "kind": "FloatLiteral",
+      "offset": 586,
+      "length": 3,
+      "value": "2.0"
+    },
+    {
+      "filePath": "\/Users\/user249774\/Library\/Mobile Documents\/com~apple~CloudDocs\/MivinaSource\/FirelyticsSDK\/Classes\/UIView+Grow.swift",
+      "kind": "FloatLiteral",
+      "offset": 608,
+      "length": 3,
+      "value": "2.0"
+    },
+    {
+      "filePath": "\/Users\/user249774\/Library\/Mobile Documents\/com~apple~CloudDocs\/MivinaSource\/FirelyticsSDK\/Classes\/UIView+Grow.swift",
+      "kind": "FloatLiteral",
+      "offset": 707,
+      "length": 3,
+      "value": "1.0"
+    },
+    {
+      "filePath": "\/Users\/user249774\/Library\/Mobile Documents\/com~apple~CloudDocs\/MivinaSource\/FirelyticsSDK\/Classes\/UIView+Grow.swift",
+      "kind": "IntegerLiteral",
+      "offset": 719,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/user249774\/Library\/Mobile Documents\/com~apple~CloudDocs\/MivinaSource\/FirelyticsSDK\/Classes\/UIView+Grow.swift",
+      "kind": "IntegerLiteral",
+      "offset": 765,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/user249774\/Library\/Mobile Documents\/com~apple~CloudDocs\/MivinaSource\/FirelyticsSDK\/Classes\/UIView+Grow.swift",
+      "kind": "IntegerLiteral",
+      "offset": 771,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/user249774\/Library\/Mobile Documents\/com~apple~CloudDocs\/MivinaSource\/FirelyticsSDK\/Classes\/UIView+Grow.swift",
+      "kind": "FloatLiteral",
+      "offset": 790,
+      "length": 3,
+      "value": "2.0"
+    },
+    {
+      "filePath": "\/Users\/user249774\/Library\/Mobile Documents\/com~apple~CloudDocs\/MivinaSource\/FirelyticsSDK\/Classes\/UIView+Grow.swift",
+      "kind": "FloatLiteral",
+      "offset": 812,
+      "length": 3,
+      "value": "2.0"
+    },
+    {
+      "filePath": "\/Users\/user249774\/Library\/Mobile Documents\/com~apple~CloudDocs\/MivinaSource\/FirelyticsSDK\/Classes\/UIView+Grow.swift",
+      "kind": "FloatLiteral",
+      "offset": 850,
+      "length": 4,
+      "value": "0.25"
+    },
+    {
+      "filePath": "\/Users\/user249774\/Library\/Mobile Documents\/com~apple~CloudDocs\/MivinaSource\/FirelyticsSDK\/Classes\/UIView+Grow.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1302,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/user249774\/Library\/Mobile Documents\/com~apple~CloudDocs\/MivinaSource\/FirelyticsSDK\/Classes\/UIView+Grow.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1334,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/user249774\/Library\/Mobile Documents\/com~apple~CloudDocs\/MivinaSource\/FirelyticsSDK\/Classes\/UIView+Grow.swift",
+      "kind": "FloatLiteral",
+      "offset": 1592,
+      "length": 3,
+      "value": "1.0"
+    },
+    {
+      "filePath": "\/Users\/user249774\/Library\/Mobile Documents\/com~apple~CloudDocs\/MivinaSource\/FirelyticsSDK\/Classes\/UIView+Grow.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1633,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/user249774\/Library\/Mobile Documents\/com~apple~CloudDocs\/MivinaSource\/FirelyticsSDK\/Classes\/UIView+Grow.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1719,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/user249774\/Library\/Mobile Documents\/com~apple~CloudDocs\/MivinaSource\/FirelyticsSDK\/Classes\/UIView+Grow.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1754,
+      "length": 5,
+      "value": "false"
+    }
+  ]
+}

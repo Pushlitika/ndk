@@ -52,7 +52,7 @@ SDK init by api key, so you need **api key** ask your manager about it, example 
 Navigate to project **main.mm** file and update code by adding SDK:
 
 ```objective-c
-#include <FirelyticsSDK/Pushlitic-Swift.h>
+#include <Pushlitica/Pushlitica-Swift.h>
 ```
 
 and init call:
@@ -64,7 +64,7 @@ You need replace key value with propper sdk api key.
 
 ```objective-c
 #include <UnityFramework/UnityFramework.h>
-#include <FirelyticsSDK/FirelyticsSDK-Swift.h>
+#include <Pushlitica/Pushlitica-Swift.h>
 
 UnityFramework* UnityFrameworkLoad()
 {

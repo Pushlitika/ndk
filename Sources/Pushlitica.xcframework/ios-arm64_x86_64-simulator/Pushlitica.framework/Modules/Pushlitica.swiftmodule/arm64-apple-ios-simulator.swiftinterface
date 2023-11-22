@@ -15,7 +15,7 @@ import Foundation
 import OneSignalFramework
 import OneSignalNotifications
 import OneSignalUser
-import Sentry
+ 
 import Swift
 import SwiftUI
 import SystemConfiguration

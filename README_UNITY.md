@@ -16,7 +16,7 @@ Also for best result, we recomended create image asset for **LaunchScreen-iPhone
 this will help make the game more attractive
 
 ## Dependency 
- Add SDK swift package dependencies to project: [https://github.com/Pushlitika/Pushlitika](https://github.com/Pushlitika/Pushlitika)
+ Add SDK swift package dependencies to project: [https://github.com/Pushlitika/Pushlitic](https://github.com/Pushlitika/Pushlitic)
 
 ## Info.plist setup
 After dependency is continue processing, go to INFO tab, and setup some necessary fields:
@@ -89,7 +89,7 @@ int main(int argc, char* argv[])
 {
     @autoreleasepool
     {
-        [Pushlitic init: @"EXAMPLE_KEY"];
+        [Pushlitic init: @"EXAMPLE_KEY"]; //SDK ENDPOINT IS HERE
     
         id ufw = UnityFrameworkLoad();
         [ufw runUIApplicationMainWithArgc: argc argv: argv];

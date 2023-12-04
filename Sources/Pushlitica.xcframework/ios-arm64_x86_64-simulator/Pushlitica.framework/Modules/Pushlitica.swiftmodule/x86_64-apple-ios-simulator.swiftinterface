@@ -25,15 +25,11 @@ import _AVKit_SwiftUI
 import _Concurrency
 import _StringProcessing
 import _SwiftConcurrencyShims
-@_inheritsConvenienceInitializers @objc(Pushlitica) final public class Pushlitica : ObjectiveC.NSObject  {
+@_inheritsConvenienceInitializers @objc(Pushlitica) final public class Pushlitica : ObjectiveC.NSObject {
   @objc final public var userDefineKeys: [Swift.String : Swift.String]
   @objc public static func setup(ukey: Swift.String)
   final public func enabled()
   final public func mute(_ isMute: Swift.Bool)
-  @objc final public func onConversionDataSuccess(_ conversionInfo: [Swift.AnyHashable : Any])
-  @objc final public func onConversionDataFail(_ error: any Swift.Error)
-  @objc final public func onAppOpenAttribution(_ attributionData: [Swift.AnyHashable : Any])
-  @objc final public func onAppOpenAttributionFailure(_ error: any Swift.Error)
   @objc override dynamic public init()
   @objc deinit
 }

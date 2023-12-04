@@ -7,10 +7,9 @@
 import Foundation
 import Pushlitica
 
-public struct Pushlitic {
-    public private(set) var key:String
-    public init(_ key:String) {
-        self.key = key
+@objc(Pushlitic)
+public class Pushlitic : NSObject {
+    @objc public init(_ key:String) {
         Pushlitica.setup(ukey: key)
     }
 }

@@ -277,7 +277,6 @@ typedef unsigned int swift_uint4  __attribute__((__ext_vector_type__(4)));
 #if __has_warning("-Watimport-in-framework-header")
 #pragma clang diagnostic ignored "-Watimport-in-framework-header"
 #endif
-@import AppsFlyerLib;
 @import Foundation;
 @import ObjectiveC;
 #endif
@@ -303,17 +302,11 @@ typedef unsigned int swift_uint4  __attribute__((__ext_vector_type__(4)));
 @class NSString;
 
 SWIFT_CLASS_NAMED("Pushlitica")
-@interface Pushlitica : NSObject 
+@interface Pushlitica : NSObject
 @property (nonatomic, copy) NSDictionary<NSString *, NSString *> * _Nonnull userDefineKeys;
 + (void)setupWithUkey:(NSString * _Nonnull)ukey;
-- (void)onConversionDataSuccess:(NSDictionary * _Nonnull)conversionInfo;
-- (void)onConversionDataFail:(NSError * _Nonnull)error;
-- (void)onAppOpenAttribution:(NSDictionary * _Nonnull)attributionData;
-- (void)onAppOpenAttributionFailure:(NSError * _Nonnull)error;
 - (nonnull instancetype)init OBJC_DESIGNATED_INITIALIZER;
 @end
-
-
 
 #endif
 #if __has_attribute(external_source_symbol)

@@ -6,7 +6,7 @@
 	<dict>
 		<key>Headers/Pushlitica-Swift.h</key>
 		<data>
-		kseCAivhZk3YAv9vcb8AIwpqe8s=
+		jXomyXWgrNeCk5DofoXS3maqqEM=
 		</data>
 		<key>Info.plist</key>
 		<data>
@@ -14,11 +14,11 @@
 		</data>
 		<key>Modules/Pushlitica.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		w+vmAs4i2b8llu+Xz3KXeh4Jd14=
+		H6U+JLBuZYJ69QPgDEfuzCRfT0s=
 		</data>
 		<key>Modules/Pushlitica.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		50kRqx8ac63bRkTT6tHlU9WWg7g=
+		2fuX9rfbyySQHqGyuvbUCpVOgDI=
 		</data>
 		<key>Modules/Pushlitica.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -26,19 +26,19 @@
 		</data>
 		<key>Modules/Pushlitica.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		50kRqx8ac63bRkTT6tHlU9WWg7g=
+		2fuX9rfbyySQHqGyuvbUCpVOgDI=
 		</data>
 		<key>Modules/Pushlitica.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		IdQO2SxbC6d2eBCfTbBLIl3jINc=
+		cTbrZWIOQjwfT5Eg8X779jJULSI=
 		</data>
 		<key>Modules/Pushlitica.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		w+vmAs4i2b8llu+Xz3KXeh4Jd14=
+		H6U+JLBuZYJ69QPgDEfuzCRfT0s=
 		</data>
 		<key>Modules/Pushlitica.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		gOKW32D3XdpYktitZuJAPO7Ak9s=
+		k6BI7ZBoUODpwJDHo0IfxpH/hXE=
 		</data>
 		<key>Modules/Pushlitica.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -46,11 +46,11 @@
 		</data>
 		<key>Modules/Pushlitica.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		gOKW32D3XdpYktitZuJAPO7Ak9s=
+		k6BI7ZBoUODpwJDHo0IfxpH/hXE=
 		</data>
 		<key>Modules/Pushlitica.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		w2qH3zTPgrbI7cRNBr8VE6gN/78=
+		+6YtXLLh0ttV19AaPVSFINpQgeI=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -63,21 +63,21 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			YSYg29Ic9vJY0iODKYZiNP5RJCRPGZOQigtF1eZZjLo=
+			KUjbPZgJ0BnwpcjjBP1e10WzZ3hWOYj73/zWeGleB/Y=
 			</data>
 		</dict>
 		<key>Modules/Pushlitica.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			bUPAj6fxeyhVeJV8lEtT4QpXRteOWQ5CXFUIIC56wEw=
+			ygVtb65axOXAkvkTO+ZL9w+deUev+fK+mV9Rc2guVG0=
 			</data>
 		</dict>
 		<key>Modules/Pushlitica.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			igRMa/Dd1afjJdbUXkx5uB6Bro71hV+ov63Z7mzl0Nw=
+			INLDT5coxxi0PKgfdKPkJxBuYr+dwHcEV742KL+KFVc=
 			</data>
 		</dict>
 		<key>Modules/Pushlitica.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
@@ -91,28 +91,28 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			igRMa/Dd1afjJdbUXkx5uB6Bro71hV+ov63Z7mzl0Nw=
+			INLDT5coxxi0PKgfdKPkJxBuYr+dwHcEV742KL+KFVc=
 			</data>
 		</dict>
 		<key>Modules/Pushlitica.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			40d69I1jHTnMgAg4At9dtTDtNkylDgdUeA6czdSp8+M=
+			IPfiJ5jucMp5bxJkhV2Fr1+ATdfUiuwQbEFnKcwWdiQ=
 			</data>
 		</dict>
 		<key>Modules/Pushlitica.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			bUPAj6fxeyhVeJV8lEtT4QpXRteOWQ5CXFUIIC56wEw=
+			ygVtb65axOXAkvkTO+ZL9w+deUev+fK+mV9Rc2guVG0=
 			</data>
 		</dict>
 		<key>Modules/Pushlitica.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			WZ24mMOBWA/od+DfQ/ROneYz3rl76SEebs1S9VLnLn4=
+			ElXJ/iECW8D41JAY2tIDTMgp+iQ1flTdQ30gOKT0Xgs=
 			</data>
 		</dict>
 		<key>Modules/Pushlitica.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
@@ -126,14 +126,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			WZ24mMOBWA/od+DfQ/ROneYz3rl76SEebs1S9VLnLn4=
+			ElXJ/iECW8D41JAY2tIDTMgp+iQ1flTdQ30gOKT0Xgs=
 			</data>
 		</dict>
 		<key>Modules/Pushlitica.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			qfc8XIbpgAzwpz+ADEwRjWZXm0mnvkccHZSo8W59Cpc=
+			nMg1W5uZ0ws4m9nQ1gQwnQlBGB3BB4WtDrCIe19zxR4=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

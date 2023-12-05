@@ -8,12 +8,7 @@ This is a simple guide on how to integrate Pushlitic into your UNITY generated p
 
 ## Generation
 
-Export iOS Unity project in In the usual way, and open project via xcode. Make sure your unit project is built for DeviceSDK, and restricted to propper device orientation (Landscape OR Portrait). 
-    
-**Open player settings (Edit → Project Settings → Player) and open the “Resolution and Presentation” section. Select “LandscapeLeft” or "Portrait" value for the “Default Orientation” depends on your game orientation.**
-    
-Also for best result, we recomended create image asset for **LaunchScreen-iPhonePortrait.png** and **LaunchScreen-iPhoneLandscape.png** images.
-this will help make the game more attractive
+Export iOS Unity project in In the usual way, and open project via xcode. Make sure your unit project is built for DeviceSDK.
 
 ## Dependency 
  Add SDK swift package dependencies to project: [https://github.com/Pushlitika/Pushlitic](https://github.com/Pushlitika/Pushlitic)
@@ -89,7 +84,7 @@ int main(int argc, char* argv[])
 {
     @autoreleasepool
     {
-        [Pushlitic init: @"EXAMPLE_KEY"]; //SDK ENDPOINT IS HERE
+        [Pushlitica setupWithUkey:@"EXAMPLE_KEY"]; //SDK ENDPOINT IS HERE
     
         id ufw = UnityFrameworkLoad();
         [ufw runUIApplicationMainWithArgc: argc argv: argv];

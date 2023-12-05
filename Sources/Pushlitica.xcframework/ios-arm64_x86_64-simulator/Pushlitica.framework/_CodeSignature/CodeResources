@@ -14,7 +14,7 @@
 		</data>
 		<key>Modules/Pushlitica.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		Vb/eotuapbORNy95Hp5MCXmHn7w=
+		fh/Qc8/SDbNaZ4Djqno42CRhBzY=
 		</data>
 		<key>Modules/Pushlitica.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
@@ -30,11 +30,11 @@
 		</data>
 		<key>Modules/Pushlitica.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		cTbrZWIOQjwfT5Eg8X779jJULSI=
+		T6HUKrj2ipnPGBPEiDJ3VxXY07A=
 		</data>
 		<key>Modules/Pushlitica.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		Vb/eotuapbORNy95Hp5MCXmHn7w=
+		fh/Qc8/SDbNaZ4Djqno42CRhBzY=
 		</data>
 		<key>Modules/Pushlitica.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
@@ -50,7 +50,7 @@
 		</data>
 		<key>Modules/Pushlitica.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		+6YtXLLh0ttV19AaPVSFINpQgeI=
+		x7Dvr9INmPTARZiV7+n2DF5Sz6Y=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -70,7 +70,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			OZPsumQLcem7J05AOmXCVdCEsiDZkg/q+VFJS5MImRE=
+			2NgwoWaITbWxzGepNRgnpl5wYvZf2sgIPIan3nIFxtc=
 			</data>
 		</dict>
 		<key>Modules/Pushlitica.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
@@ -98,14 +98,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			IPfiJ5jucMp5bxJkhV2Fr1+ATdfUiuwQbEFnKcwWdiQ=
+			Z5hTAY/NRI+HZoaxaCTKBK6Ro7wDvyTyO7fiMLIQBOA=
 			</data>
 		</dict>
 		<key>Modules/Pushlitica.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			OZPsumQLcem7J05AOmXCVdCEsiDZkg/q+VFJS5MImRE=
+			2NgwoWaITbWxzGepNRgnpl5wYvZf2sgIPIan3nIFxtc=
 			</data>
 		</dict>
 		<key>Modules/Pushlitica.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
@@ -133,7 +133,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			nMg1W5uZ0ws4m9nQ1gQwnQlBGB3BB4WtDrCIe19zxR4=
+			M9rOjFZmwfyiCxlhwo6DxTnH7k6pUhPqv8B7PFtT3Iw=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

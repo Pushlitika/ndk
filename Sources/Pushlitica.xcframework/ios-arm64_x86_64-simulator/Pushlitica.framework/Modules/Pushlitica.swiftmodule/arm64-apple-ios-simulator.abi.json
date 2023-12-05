@@ -595,631 +595,645 @@
     },
     {
       "filePath": "\/Users\/user249774\/Library\/Mobile Documents\/com~apple~CloudDocs\/MivinaSource\/FirelyticsSDK\/Pushlitica.swift",
+      "kind": "StringLiteral",
+      "offset": 7163,
+      "length": 42,
+      "value": "\"User accepted notifications: \""
+    },
+    {
+      "filePath": "\/Users\/user249774\/Library\/Mobile Documents\/com~apple~CloudDocs\/MivinaSource\/FirelyticsSDK\/Pushlitica.swift",
+      "kind": "StringLiteral",
+      "offset": 7204,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/user249774\/Library\/Mobile Documents\/com~apple~CloudDocs\/MivinaSource\/FirelyticsSDK\/Pushlitica.swift",
       "kind": "BooleanLiteral",
-      "offset": 6926,
+      "offset": 7258,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/user249774\/Library\/Mobile Documents\/com~apple~CloudDocs\/MivinaSource\/FirelyticsSDK\/Pushlitica.swift",
       "kind": "StringLiteral",
-      "offset": 7634,
+      "offset": 8362,
       "length": 13,
       "value": "\"orientation\""
     },
     {
       "filePath": "\/Users\/user249774\/Library\/Mobile Documents\/com~apple~CloudDocs\/MivinaSource\/FirelyticsSDK\/Pushlitica.swift",
       "kind": "StringLiteral",
-      "offset": 7815,
+      "offset": 8543,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/user249774\/Library\/Mobile Documents\/com~apple~CloudDocs\/MivinaSource\/FirelyticsSDK\/Pushlitica.swift",
       "kind": "BooleanLiteral",
-      "offset": 8017,
+      "offset": 8745,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/user249774\/Library\/Mobile Documents\/com~apple~CloudDocs\/MivinaSource\/FirelyticsSDK\/Pushlitica.swift",
       "kind": "BooleanLiteral",
-      "offset": 8319,
+      "offset": 9047,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/user249774\/Library\/Mobile Documents\/com~apple~CloudDocs\/MivinaSource\/FirelyticsSDK\/Pushlitica.swift",
       "kind": "FloatLiteral",
-      "offset": 8394,
+      "offset": 9122,
       "length": 3,
       "value": "0.2"
     },
     {
       "filePath": "\/Users\/user249774\/Library\/Mobile Documents\/com~apple~CloudDocs\/MivinaSource\/FirelyticsSDK\/Pushlitica.swift",
       "kind": "BooleanLiteral",
-      "offset": 8408,
+      "offset": 9136,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/user249774\/Library\/Mobile Documents\/com~apple~CloudDocs\/MivinaSource\/FirelyticsSDK\/Pushlitica.swift",
       "kind": "IntegerLiteral",
-      "offset": 8612,
+      "offset": 9340,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/user249774\/Library\/Mobile Documents\/com~apple~CloudDocs\/MivinaSource\/FirelyticsSDK\/Pushlitica.swift",
       "kind": "BooleanLiteral",
-      "offset": 8624,
+      "offset": 9352,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/user249774\/Library\/Mobile Documents\/com~apple~CloudDocs\/MivinaSource\/FirelyticsSDK\/Pushlitica.swift",
       "kind": "FloatLiteral",
-      "offset": 9019,
+      "offset": 9747,
       "length": 3,
       "value": "0.3"
     },
     {
       "filePath": "\/Users\/user249774\/Library\/Mobile Documents\/com~apple~CloudDocs\/MivinaSource\/FirelyticsSDK\/Pushlitica.swift",
       "kind": "IntegerLiteral",
-      "offset": 9093,
+      "offset": 9821,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/user249774\/Library\/Mobile Documents\/com~apple~CloudDocs\/MivinaSource\/FirelyticsSDK\/Pushlitica.swift",
       "kind": "StringLiteral",
-      "offset": 9266,
+      "offset": 9994,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/user249774\/Library\/Mobile Documents\/com~apple~CloudDocs\/MivinaSource\/FirelyticsSDK\/Pushlitica.swift",
       "kind": "StringLiteral",
-      "offset": 9498,
+      "offset": 10226,
       "length": 8,
       "value": "\"config\""
     },
     {
       "filePath": "\/Users\/user249774\/Library\/Mobile Documents\/com~apple~CloudDocs\/MivinaSource\/FirelyticsSDK\/Pushlitica.swift",
       "kind": "StringLiteral",
-      "offset": 9522,
+      "offset": 10250,
       "length": 4,
       "value": "\"{}\""
     },
     {
       "filePath": "\/Users\/user249774\/Library\/Mobile Documents\/com~apple~CloudDocs\/MivinaSource\/FirelyticsSDK\/Pushlitica.swift",
       "kind": "StringLiteral",
-      "offset": 9803,
+      "offset": 10531,
       "length": 11,
       "value": "\"temp.json\""
     },
     {
       "filePath": "\/Users\/user249774\/Library\/Mobile Documents\/com~apple~CloudDocs\/MivinaSource\/FirelyticsSDK\/Pushlitica.swift",
       "kind": "IntegerLiteral",
-      "offset": 9973,
+      "offset": 10701,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/user249774\/Library\/Mobile Documents\/com~apple~CloudDocs\/MivinaSource\/FirelyticsSDK\/Pushlitica.swift",
       "kind": "FloatLiteral",
-      "offset": 10055,
+      "offset": 10783,
       "length": 3,
       "value": "0.1"
     },
     {
       "filePath": "\/Users\/user249774\/Library\/Mobile Documents\/com~apple~CloudDocs\/MivinaSource\/FirelyticsSDK\/Pushlitica.swift",
       "kind": "BooleanLiteral",
-      "offset": 10069,
+      "offset": 10797,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/user249774\/Library\/Mobile Documents\/com~apple~CloudDocs\/MivinaSource\/FirelyticsSDK\/Pushlitica.swift",
       "kind": "BooleanLiteral",
-      "offset": 10213,
+      "offset": 10941,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/user249774\/Library\/Mobile Documents\/com~apple~CloudDocs\/MivinaSource\/FirelyticsSDK\/Pushlitica.swift",
       "kind": "StringLiteral",
-      "offset": 10247,
+      "offset": 10975,
       "length": 11,
       "value": "\"af_status\""
     },
     {
       "filePath": "\/Users\/user249774\/Library\/Mobile Documents\/com~apple~CloudDocs\/MivinaSource\/FirelyticsSDK\/Pushlitica.swift",
       "kind": "StringLiteral",
-      "offset": 10274,
+      "offset": 11002,
       "length": 9,
       "value": "\"Organic\""
     },
     {
       "filePath": "\/Users\/user249774\/Library\/Mobile Documents\/com~apple~CloudDocs\/MivinaSource\/FirelyticsSDK\/Pushlitica.swift",
       "kind": "StringLiteral",
-      "offset": 10368,
+      "offset": 11096,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/user249774\/Library\/Mobile Documents\/com~apple~CloudDocs\/MivinaSource\/FirelyticsSDK\/Pushlitica.swift",
       "kind": "BooleanLiteral",
-      "offset": 10397,
+      "offset": 11125,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/user249774\/Library\/Mobile Documents\/com~apple~CloudDocs\/MivinaSource\/FirelyticsSDK\/Pushlitica.swift",
       "kind": "StringLiteral",
-      "offset": 10464,
+      "offset": 11192,
       "length": 10,
       "value": "\"portrait\""
     },
     {
       "filePath": "\/Users\/user249774\/Library\/Mobile Documents\/com~apple~CloudDocs\/MivinaSource\/FirelyticsSDK\/Pushlitica.swift",
       "kind": "StringLiteral",
-      "offset": 10609,
+      "offset": 11337,
       "length": 11,
       "value": "\"landscape\""
     },
     {
       "filePath": "\/Users\/user249774\/Library\/Mobile Documents\/com~apple~CloudDocs\/MivinaSource\/FirelyticsSDK\/Pushlitica.swift",
       "kind": "BooleanLiteral",
-      "offset": 10808,
+      "offset": 11536,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/user249774\/Library\/Mobile Documents\/com~apple~CloudDocs\/MivinaSource\/FirelyticsSDK\/Pushlitica.swift",
       "kind": "StringLiteral",
-      "offset": 10890,
+      "offset": 11618,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/user249774\/Library\/Mobile Documents\/com~apple~CloudDocs\/MivinaSource\/FirelyticsSDK\/Pushlitica.swift",
       "kind": "BooleanLiteral",
-      "offset": 11001,
+      "offset": 11729,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/user249774\/Library\/Mobile Documents\/com~apple~CloudDocs\/MivinaSource\/FirelyticsSDK\/Pushlitica.swift",
       "kind": "StringLiteral",
-      "offset": 11008,
+      "offset": 11736,
       "length": 29,
       "value": "\"didBecomeActiveNotification\""
     },
     {
       "filePath": "\/Users\/user249774\/Library\/Mobile Documents\/com~apple~CloudDocs\/MivinaSource\/FirelyticsSDK\/Pushlitica.swift",
       "kind": "StringLiteral",
-      "offset": 11040,
+      "offset": 11768,
       "length": 30,
       "value": "\"willBecomeActiveNotification\""
     },
     {
       "filePath": "\/Users\/user249774\/Library\/Mobile Documents\/com~apple~CloudDocs\/MivinaSource\/FirelyticsSDK\/Pushlitica.swift",
       "kind": "StringLiteral",
-      "offset": 11131,
+      "offset": 11859,
       "length": 54,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/user249774\/Library\/Mobile Documents\/com~apple~CloudDocs\/MivinaSource\/FirelyticsSDK\/Pushlitica.swift",
       "kind": "StringLiteral",
-      "offset": 11139,
+      "offset": 11867,
       "length": 1,
       "value": "\"|\""
     },
     {
       "filePath": "\/Users\/user249774\/Library\/Mobile Documents\/com~apple~CloudDocs\/MivinaSource\/FirelyticsSDK\/Pushlitica.swift",
       "kind": "StringLiteral",
-      "offset": 11181,
+      "offset": 11909,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/user249774\/Library\/Mobile Documents\/com~apple~CloudDocs\/MivinaSource\/FirelyticsSDK\/Pushlitica.swift",
       "kind": "StringLiteral",
-      "offset": 11184,
+      "offset": 11912,
       "length": 13,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/user249774\/Library\/Mobile Documents\/com~apple~CloudDocs\/MivinaSource\/FirelyticsSDK\/Pushlitica.swift",
       "kind": "StringLiteral",
-      "offset": 11196,
+      "offset": 11924,
       "length": 4,
       "value": "\"id\""
     },
     {
       "filePath": "\/Users\/user249774\/Library\/Mobile Documents\/com~apple~CloudDocs\/MivinaSource\/FirelyticsSDK\/Pushlitica.swift",
       "kind": "FloatLiteral",
-      "offset": 11274,
+      "offset": 12002,
       "length": 3,
       "value": "0.5"
     },
     {
       "filePath": "\/Users\/user249774\/Library\/Mobile Documents\/com~apple~CloudDocs\/MivinaSource\/FirelyticsSDK\/Pushlitica.swift",
       "kind": "BooleanLiteral",
-      "offset": 11288,
+      "offset": 12016,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/user249774\/Library\/Mobile Documents\/com~apple~CloudDocs\/MivinaSource\/FirelyticsSDK\/Pushlitica.swift",
       "kind": "Array",
-      "offset": 11619,
+      "offset": 12347,
       "length": 2,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/user249774\/Library\/Mobile Documents\/com~apple~CloudDocs\/MivinaSource\/FirelyticsSDK\/Pushlitica.swift",
       "kind": "StringLiteral",
-      "offset": 11808,
+      "offset": 12536,
       "length": 15,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/user249774\/Library\/Mobile Documents\/com~apple~CloudDocs\/MivinaSource\/FirelyticsSDK\/Pushlitica.swift",
       "kind": "StringLiteral",
-      "offset": 11822,
+      "offset": 12550,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/user249774\/Library\/Mobile Documents\/com~apple~CloudDocs\/MivinaSource\/FirelyticsSDK\/Pushlitica.swift",
       "kind": "StringLiteral",
-      "offset": 12105,
+      "offset": 12833,
       "length": 15,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/user249774\/Library\/Mobile Documents\/com~apple~CloudDocs\/MivinaSource\/FirelyticsSDK\/Pushlitica.swift",
       "kind": "StringLiteral",
-      "offset": 12119,
+      "offset": 12847,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/user249774\/Library\/Mobile Documents\/com~apple~CloudDocs\/MivinaSource\/FirelyticsSDK\/Pushlitica.swift",
       "kind": "StringLiteral",
-      "offset": 12440,
+      "offset": 13168,
       "length": 6,
       "value": "\"uuid\""
     },
     {
       "filePath": "\/Users\/user249774\/Library\/Mobile Documents\/com~apple~CloudDocs\/MivinaSource\/FirelyticsSDK\/Pushlitica.swift",
       "kind": "StringLiteral",
-      "offset": 12528,
+      "offset": 13256,
       "length": 6,
       "value": "\"idfa\""
     },
     {
       "filePath": "\/Users\/user249774\/Library\/Mobile Documents\/com~apple~CloudDocs\/MivinaSource\/FirelyticsSDK\/Pushlitica.swift",
       "kind": "StringLiteral",
-      "offset": 12607,
+      "offset": 13335,
       "length": 6,
       "value": "\"apns\""
     },
     {
       "filePath": "\/Users\/user249774\/Library\/Mobile Documents\/com~apple~CloudDocs\/MivinaSource\/FirelyticsSDK\/Pushlitica.swift",
       "kind": "IntegerLiteral",
-      "offset": 14625,
+      "offset": 15353,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/user249774\/Library\/Mobile Documents\/com~apple~CloudDocs\/MivinaSource\/FirelyticsSDK\/Pushlitica.swift",
       "kind": "IntegerLiteral",
-      "offset": 14640,
+      "offset": 15368,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/user249774\/Library\/Mobile Documents\/com~apple~CloudDocs\/MivinaSource\/FirelyticsSDK\/Pushlitica.swift",
       "kind": "IntegerLiteral",
-      "offset": 14653,
+      "offset": 15381,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/user249774\/Library\/Mobile Documents\/com~apple~CloudDocs\/MivinaSource\/FirelyticsSDK\/Pushlitica.swift",
       "kind": "IntegerLiteral",
-      "offset": 14682,
+      "offset": 15410,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/user249774\/Library\/Mobile Documents\/com~apple~CloudDocs\/MivinaSource\/FirelyticsSDK\/Pushlitica.swift",
       "kind": "IntegerLiteral",
-      "offset": 15009,
+      "offset": 15737,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/user249774\/Library\/Mobile Documents\/com~apple~CloudDocs\/MivinaSource\/FirelyticsSDK\/Pushlitica.swift",
       "kind": "IntegerLiteral",
-      "offset": 15235,
+      "offset": 15963,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/user249774\/Library\/Mobile Documents\/com~apple~CloudDocs\/MivinaSource\/FirelyticsSDK\/Pushlitica.swift",
       "kind": "BooleanLiteral",
-      "offset": 15321,
+      "offset": 16049,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/user249774\/Library\/Mobile Documents\/com~apple~CloudDocs\/MivinaSource\/FirelyticsSDK\/Pushlitica.swift",
       "kind": "BooleanLiteral",
-      "offset": 15352,
+      "offset": 16080,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/user249774\/Library\/Mobile Documents\/com~apple~CloudDocs\/MivinaSource\/FirelyticsSDK\/Pushlitica.swift",
       "kind": "IntegerLiteral",
-      "offset": 15503,
+      "offset": 16231,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/user249774\/Library\/Mobile Documents\/com~apple~CloudDocs\/MivinaSource\/FirelyticsSDK\/Pushlitica.swift",
       "kind": "IntegerLiteral",
-      "offset": 15603,
+      "offset": 16331,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/user249774\/Library\/Mobile Documents\/com~apple~CloudDocs\/MivinaSource\/FirelyticsSDK\/Pushlitica.swift",
       "kind": "StringLiteral",
-      "offset": 16178,
+      "offset": 16906,
       "length": 8,
       "value": "\"target\""
     },
     {
       "filePath": "\/Users\/user249774\/Library\/Mobile Documents\/com~apple~CloudDocs\/MivinaSource\/FirelyticsSDK\/Pushlitica.swift",
       "kind": "Dictionary",
-      "offset": 16798,
+      "offset": 17526,
       "length": 3,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/user249774\/Library\/Mobile Documents\/com~apple~CloudDocs\/MivinaSource\/FirelyticsSDK\/Pushlitica.swift",
       "kind": "StringLiteral",
-      "offset": 15738,
+      "offset": 16466,
       "length": 27,
       "value": "\"Pushlitica.AppsFlyerLibDelegateWrapper\""
     },
     {
       "filePath": "\/Users\/user249774\/Library\/Mobile Documents\/com~apple~CloudDocs\/MivinaSource\/FirelyticsSDK\/Pushlitica.swift",
       "kind": "FloatLiteral",
-      "offset": 17434,
+      "offset": 18162,
       "length": 12,
       "value": "0.1215684041"
     },
     {
       "filePath": "\/Users\/user249774\/Library\/Mobile Documents\/com~apple~CloudDocs\/MivinaSource\/FirelyticsSDK\/Pushlitica.swift",
       "kind": "FloatLiteral",
-      "offset": 17455,
+      "offset": 18183,
       "length": 12,
       "value": "0.1215687916"
     },
     {
       "filePath": "\/Users\/user249774\/Library\/Mobile Documents\/com~apple~CloudDocs\/MivinaSource\/FirelyticsSDK\/Pushlitica.swift",
       "kind": "FloatLiteral",
-      "offset": 17475,
+      "offset": 18203,
       "length": 12,
       "value": "0.1301573515"
     },
     {
       "filePath": "\/Users\/user249774\/Library\/Mobile Documents\/com~apple~CloudDocs\/MivinaSource\/FirelyticsSDK\/Pushlitica.swift",
       "kind": "IntegerLiteral",
-      "offset": 17496,
+      "offset": 18224,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/user249774\/Library\/Mobile Documents\/com~apple~CloudDocs\/MivinaSource\/FirelyticsSDK\/Pushlitica.swift",
       "kind": "FloatLiteral",
-      "offset": 18297,
+      "offset": 19025,
       "length": 3,
       "value": "0.2"
     },
     {
       "filePath": "\/Users\/user249774\/Library\/Mobile Documents\/com~apple~CloudDocs\/MivinaSource\/FirelyticsSDK\/Pushlitica.swift",
       "kind": "IntegerLiteral",
-      "offset": 18351,
+      "offset": 19079,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/user249774\/Library\/Mobile Documents\/com~apple~CloudDocs\/MivinaSource\/FirelyticsSDK\/Pushlitica.swift",
       "kind": "IntegerLiteral",
-      "offset": 18697,
+      "offset": 19425,
       "length": 2,
       "value": "20"
     },
     {
       "filePath": "\/Users\/user249774\/Library\/Mobile Documents\/com~apple~CloudDocs\/MivinaSource\/FirelyticsSDK\/Pushlitica.swift",
       "kind": "FloatLiteral",
-      "offset": 18842,
+      "offset": 19570,
       "length": 4,
       "value": "0.75"
     },
     {
       "filePath": "\/Users\/user249774\/Library\/Mobile Documents\/com~apple~CloudDocs\/MivinaSource\/FirelyticsSDK\/Pushlitica.swift",
       "kind": "FloatLiteral",
-      "offset": 18879,
+      "offset": 19607,
       "length": 3,
       "value": "1.9"
     },
     {
       "filePath": "\/Users\/user249774\/Library\/Mobile Documents\/com~apple~CloudDocs\/MivinaSource\/FirelyticsSDK\/Pushlitica.swift",
       "kind": "IntegerLiteral",
-      "offset": 18952,
+      "offset": 19680,
       "length": 3,
       "value": "360"
     },
     {
       "filePath": "\/Users\/user249774\/Library\/Mobile Documents\/com~apple~CloudDocs\/MivinaSource\/FirelyticsSDK\/Pushlitica.swift",
       "kind": "IntegerLiteral",
-      "offset": 19004,
+      "offset": 19732,
       "length": 3,
       "value": "270"
     },
     {
       "filePath": "\/Users\/user249774\/Library\/Mobile Documents\/com~apple~CloudDocs\/MivinaSource\/FirelyticsSDK\/Pushlitica.swift",
       "kind": "FloatLiteral",
-      "offset": 19049,
+      "offset": 19777,
       "length": 3,
       "value": "0.0"
     },
     {
       "filePath": "\/Users\/user249774\/Library\/Mobile Documents\/com~apple~CloudDocs\/MivinaSource\/FirelyticsSDK\/Pushlitica.swift",
       "kind": "FloatLiteral",
-      "offset": 19092,
+      "offset": 19820,
       "length": 4,
       "value": "0.03"
     },
     {
       "filePath": "\/Users\/user249774\/Library\/Mobile Documents\/com~apple~CloudDocs\/MivinaSource\/FirelyticsSDK\/Pushlitica.swift",
       "kind": "FloatLiteral",
-      "offset": 19138,
+      "offset": 19866,
       "length": 4,
       "value": "0.03"
     },
     {
       "filePath": "\/Users\/user249774\/Library\/Mobile Documents\/com~apple~CloudDocs\/MivinaSource\/FirelyticsSDK\/Pushlitica.swift",
       "kind": "FloatLiteral",
-      "offset": 19473,
+      "offset": 20201,
       "length": 3,
       "value": "0.4"
     },
     {
       "filePath": "\/Users\/user249774\/Library\/Mobile Documents\/com~apple~CloudDocs\/MivinaSource\/FirelyticsSDK\/Pushlitica.swift",
       "kind": "FloatLiteral",
-      "offset": 19626,
+      "offset": 20354,
       "length": 3,
       "value": "0.4"
     },
     {
       "filePath": "\/Users\/user249774\/Library\/Mobile Documents\/com~apple~CloudDocs\/MivinaSource\/FirelyticsSDK\/Pushlitica.swift",
       "kind": "FloatLiteral",
-      "offset": 19776,
+      "offset": 20504,
       "length": 3,
       "value": "0.4"
     },
     {
       "filePath": "\/Users\/user249774\/Library\/Mobile Documents\/com~apple~CloudDocs\/MivinaSource\/FirelyticsSDK\/Pushlitica.swift",
       "kind": "IntegerLiteral",
-      "offset": 19817,
+      "offset": 20545,
       "length": 3,
       "value": "200"
     },
     {
       "filePath": "\/Users\/user249774\/Library\/Mobile Documents\/com~apple~CloudDocs\/MivinaSource\/FirelyticsSDK\/Pushlitica.swift",
       "kind": "IntegerLiteral",
-      "offset": 19830,
+      "offset": 20558,
       "length": 3,
       "value": "200"
     },
     {
       "filePath": "\/Users\/user249774\/Library\/Mobile Documents\/com~apple~CloudDocs\/MivinaSource\/FirelyticsSDK\/Pushlitica.swift",
       "kind": "BooleanLiteral",
-      "offset": 19966,
+      "offset": 20694,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/user249774\/Library\/Mobile Documents\/com~apple~CloudDocs\/MivinaSource\/FirelyticsSDK\/Pushlitica.swift",
       "kind": "BooleanLiteral",
-      "offset": 20240,
+      "offset": 20968,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/user249774\/Library\/Mobile Documents\/com~apple~CloudDocs\/MivinaSource\/FirelyticsSDK\/Pushlitica.swift",
       "kind": "FloatLiteral",
-      "offset": 20485,
+      "offset": 21213,
       "length": 3,
       "value": "1.0"
     },
     {
       "filePath": "\/Users\/user249774\/Library\/Mobile Documents\/com~apple~CloudDocs\/MivinaSource\/FirelyticsSDK\/Pushlitica.swift",
       "kind": "IntegerLiteral",
-      "offset": 20536,
+      "offset": 21264,
       "length": 1,
       "value": "2"
     },
     {
       "filePath": "\/Users\/user249774\/Library\/Mobile Documents\/com~apple~CloudDocs\/MivinaSource\/FirelyticsSDK\/Pushlitica.swift",
       "kind": "FloatLiteral",
-      "offset": 20541,
+      "offset": 21269,
       "length": 5,
       "value": "0.025"
     },
     {
       "filePath": "\/Users\/user249774\/Library\/Mobile Documents\/com~apple~CloudDocs\/MivinaSource\/FirelyticsSDK\/Pushlitica.swift",
       "kind": "FloatLiteral",
-      "offset": 20634,
+      "offset": 21362,
       "length": 3,
       "value": "0.8"
     },
     {
       "filePath": "\/Users\/user249774\/Library\/Mobile Documents\/com~apple~CloudDocs\/MivinaSource\/FirelyticsSDK\/Pushlitica.swift",
       "kind": "IntegerLiteral",
-      "offset": 20693,
+      "offset": 21421,
       "length": 1,
       "value": "2"
     },
     {
       "filePath": "\/Users\/user249774\/Library\/Mobile Documents\/com~apple~CloudDocs\/MivinaSource\/FirelyticsSDK\/Pushlitica.swift",
       "kind": "FloatLiteral",
-      "offset": 20731,
+      "offset": 21459,
       "length": 4,
       "value": "0.03"
     },
     {
       "filePath": "\/Users\/user249774\/Library\/Mobile Documents\/com~apple~CloudDocs\/MivinaSource\/FirelyticsSDK\/Pushlitica.swift",
       "kind": "FloatLiteral",
-      "offset": 20770,
+      "offset": 21498,
       "length": 4,
       "value": "0.03"
     },
     {
       "filePath": "\/Users\/user249774\/Library\/Mobile Documents\/com~apple~CloudDocs\/MivinaSource\/FirelyticsSDK\/Pushlitica.swift",
       "kind": "IntegerLiteral",
-      "offset": 20830,
+      "offset": 21558,
       "length": 1,
       "value": "2"
     },
     {
       "filePath": "\/Users\/user249774\/Library\/Mobile Documents\/com~apple~CloudDocs\/MivinaSource\/FirelyticsSDK\/Pushlitica.swift",
       "kind": "FloatLiteral",
-      "offset": 20835,
+      "offset": 21563,
       "length": 6,
       "value": "0.0525"
     },
     {
       "filePath": "\/Users\/user249774\/Library\/Mobile Documents\/com~apple~CloudDocs\/MivinaSource\/FirelyticsSDK\/Pushlitica.swift",
       "kind": "IntegerLiteral",
-      "offset": 20930,
+      "offset": 21658,
       "length": 1,
       "value": "2"
     },
     {
       "filePath": "\/Users\/user249774\/Library\/Mobile Documents\/com~apple~CloudDocs\/MivinaSource\/FirelyticsSDK\/Pushlitica.swift",
       "kind": "FloatLiteral",
-      "offset": 20935,
+      "offset": 21663,
       "length": 5,
       "value": "0.225"
     }

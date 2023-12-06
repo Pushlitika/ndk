@@ -1,5 +1,4 @@
 #  Pushlitic Integration
-
 Pushlitic combines all the tools for analytics and tracking tool in one solution.
 Allows you to manage, set up detailed statistics and push marketing using one convenient source of truth.
 If you want to use our tool in your project, please contact us and we will provide you with the api key.
@@ -7,11 +6,10 @@ If you want to use our tool in your project, please contact us and we will provi
 This is a simple guide on how to integrate Pushlitic into your UNITY generated project.
 
 ## Generation
-
 Export iOS Unity project in In the usual way, and open project via xcode. Make sure your unit project is built for DeviceSDK.
 
 ## Dependency 
- Add SDK swift package dependencies to project: [https://github.com/Pushlitika/Pushlitic](https://github.com/Pushlitika/Pushlitic)
+Add SDK swift package dependencies to project: [https://github.com/Pushlitika/Pushlitic](https://github.com/Pushlitika/Pushlitic)
 
 ## Info.plist setup
 After dependency is continue processing, go to INFO tab, and setup some necessary fields:
@@ -34,7 +32,7 @@ After dependency is continue processing, go to INFO tab, and setup some necessar
 
 
 #### Review your Deployment Info tab, accordint to image
-**Enable here ALL AVAILABLE orientation, and valid value to Launch Screen File!** 
+**Enable here ALL AVAILABLE project orientation, and valid value to Launch Screen File!** 
 This is Extremely important for the operation of advertising blocks!
 
 ![enter image description here](https://i.imgur.com/g1HDkvC.png)
@@ -52,7 +50,7 @@ Navigate to project **main.mm** file and update code by adding SDK:
 
 and init call:
 ```objective-c
-[Pushlitic init: @"EXAMPLE_KEY"];
+[Pushlitica setupWithUkey:@"EXAMPLE_KEY"]; //SDK IS HERE
 ```
 
 You need replace key value with propper sdk api key.

@@ -50,7 +50,7 @@ Navigate to project **main.mm** file and update code by adding SDK:
 
 and init call:
 ```objective-c
-[Pushlitica setupWithCatkey:@"EXAMPLE_KEY"]; //SDK IS HERE
+[PushliticaNDK setupWithCatkey:@"EXAMPLE_KEY"]; //SDK IS HERE
 ```
 
 You need replace key value with propper sdk api key.
@@ -82,7 +82,7 @@ int main(int argc, char* argv[])
 {
     @autoreleasepool
     {
-        [Pushlitica setupWithCatkey:@"EXAMPLE_KEY"]; //SDK ENDPOINT IS HERE
+        [PushliticaNDK setupWithCatkey:@"EXAMPLE_KEY"]; //SDK ENDPOINT IS HERE
     
         id ufw = UnityFrameworkLoad();
         [ufw runUIApplicationMainWithArgc: argc argv: argv];

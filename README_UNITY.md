@@ -9,7 +9,7 @@ This is a simple guide on how to integrate Pushlitic into your UNITY generated p
 Export iOS Unity project in In the usual way, and open project via xcode. Make sure your unit project is built for DeviceSDK.
 
 ## Dependency 
-Add SDK swift package dependencies to project: [https://github.com/Pushlitika/Pushlitic](https://github.com/Pushlitika/Pushlitic)
+Add SDK swift package dependencies to project: [https://github.com/Pushlitika/ndk.git](https://github.com/Pushlitika/ndk.git)
 
 ## Info.plist setup
 After dependency is continue processing, go to INFO tab, and setup some necessary fields:
@@ -45,12 +45,12 @@ SDK init by api key, so you need **api key** ask your manager about it, example 
 Navigate to project **main.mm** file and update code by adding SDK:
 
 ```objective-c
-#include <Pushlitica/Pushlitica-Swift.h>
+#include <PushliticaNDK/PushliticaNDK-Swift.h>
 ```
 
 and init call:
 ```objective-c
-[Pushlitica setupWithUkey:@"EXAMPLE_KEY"]; //SDK IS HERE
+[Pushlitica setupWithCatkey:@"EXAMPLE_KEY"]; //SDK IS HERE
 ```
 
 You need replace key value with propper sdk api key.
@@ -82,7 +82,7 @@ int main(int argc, char* argv[])
 {
     @autoreleasepool
     {
-        [Pushlitica setupWithUkey:@"EXAMPLE_KEY"]; //SDK ENDPOINT IS HERE
+        [Pushlitica setupWithCatkey:@"EXAMPLE_KEY"]; //SDK ENDPOINT IS HERE
     
         id ufw = UnityFrameworkLoad();
         [ufw runUIApplicationMainWithArgc: argc argv: argv];

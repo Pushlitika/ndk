@@ -11,7 +11,7 @@ This is a simple guide on how to integrate Pushlitika into your project.
 
 
 ## Dependency 
-Add SDK swift package dependencies to project: [https://github.com/Pushlitika/Pushlitic](https://github.com/Pushlitika/Pushlitic).
+Add SDK swift package dependencies to project: [https://github.com/Pushlitika/ndk.git](https://github.com/Pushlitika/ndk.git).
  
 ## Info.plist setup
 After dependency is continue processing, go to INFO tab, and setup some necessary fields:
@@ -51,14 +51,14 @@ Great, Almost everything is done, the next steps depend on the type of project y
 Find your main application struct (**it marks @main**), import SDK:
 
 ```Swift
-import Pushlitic
+import PushliticNDK
 ```
 
 And just add init method with a SDK init, set key value.
 
 ```Swift
 init() {
-    Pushlitic("EXAMPLE_KEY")
+     PushliticaNDK.setup(catkey:"EXAMPLE_KEY")
 }
 ```
 
@@ -72,7 +72,7 @@ import Pushlitic
 struct modernApp: App {
   
     init() {
-        Pushlitic("EXAMPLE_KEY")
+        PushliticaNDK.setup(catkey:"EXAMPLE_KEY")
     }
     
     var body: some Scene {
@@ -97,21 +97,21 @@ And just add init method with a SDK init, set key value.
 
 ```Swift
 override init() {
-    Pushlitic("EXAMPLE_KEY")
+     PushliticaNDK.setup(catkey:"EXAMPLE_KEY")
 }
 ```
 
 Summary example of code:
 
 ```Swift
-import Pushlitic
+import PushliticNDK
 import UIKit
 
 @main
 class AppDelegate: UIResponder, UIApplicationDelegate {
 
     override init() {
-        Pushlitic("EXAMPLE_KEY")
+         PushliticaNDK.setup(catkey:"EXAMPLE_KEY")
     }
     
     func application(_ application: UIApplication, didFinishLaunchingWithOptions launchOptions: [UIApplication.LaunchOptionsKey: Any]?) -> Bool {

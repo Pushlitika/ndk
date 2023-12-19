@@ -456,672 +456,707 @@
     {
       "filePath": "\/Users\/user249774\/Desktop\/4.0\/FirelyticsSDK\/PushliticaNDK.swift",
       "kind": "Dictionary",
-      "offset": 571,
+      "offset": 572,
       "length": 3,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/user249774\/Desktop\/4.0\/FirelyticsSDK\/PushliticaNDK.swift",
       "kind": "StringLiteral",
-      "offset": 686,
+      "offset": 687,
       "length": 3,
       "value": "\"#\""
     },
     {
       "filePath": "\/Users\/user249774\/Desktop\/4.0\/FirelyticsSDK\/PushliticaNDK.swift",
       "kind": "IntegerLiteral",
-      "offset": 700,
+      "offset": 701,
       "length": 1,
       "value": "2"
     },
     {
       "filePath": "\/Users\/user249774\/Desktop\/4.0\/FirelyticsSDK\/PushliticaNDK.swift",
       "kind": "StringLiteral",
-      "offset": 824,
+      "offset": 825,
       "length": 3,
       "value": "\"#\""
     },
     {
       "filePath": "\/Users\/user249774\/Desktop\/4.0\/FirelyticsSDK\/PushliticaNDK.swift",
       "kind": "StringLiteral",
-      "offset": 838,
+      "offset": 839,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/user249774\/Desktop\/4.0\/FirelyticsSDK\/PushliticaNDK.swift",
       "kind": "StringLiteral",
-      "offset": 885,
+      "offset": 886,
       "length": 3,
       "value": "\"#\""
     },
     {
       "filePath": "\/Users\/user249774\/Desktop\/4.0\/FirelyticsSDK\/PushliticaNDK.swift",
       "kind": "StringLiteral",
-      "offset": 898,
+      "offset": 899,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/user249774\/Desktop\/4.0\/FirelyticsSDK\/PushliticaNDK.swift",
       "kind": "StringLiteral",
-      "offset": 1020,
+      "offset": 1021,
       "length": 20,
       "value": "\"GoogleService-Info\""
     },
     {
       "filePath": "\/Users\/user249774\/Desktop\/4.0\/FirelyticsSDK\/PushliticaNDK.swift",
       "kind": "StringLiteral",
-      "offset": 1050,
+      "offset": 1051,
       "length": 7,
       "value": "\"plist\""
     },
     {
       "filePath": "\/Users\/user249774\/Desktop\/4.0\/FirelyticsSDK\/PushliticaNDK.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1849,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/user249774\/Desktop\/4.0\/FirelyticsSDK\/PushliticaNDK.swift",
       "kind": "StringLiteral",
-      "offset": 2029,
+      "offset": 2053,
       "length": 20,
       "value": "\"4.0 Game Analytics\""
     },
     {
       "filePath": "\/Users\/user249774\/Desktop\/4.0\/FirelyticsSDK\/PushliticaNDK.swift",
       "kind": "StringLiteral",
-      "offset": 2342,
+      "offset": 2366,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/user249774\/Desktop\/4.0\/FirelyticsSDK\/PushliticaNDK.swift",
       "kind": "BooleanLiteral",
-      "offset": 2404,
+      "offset": 2428,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/user249774\/Desktop\/4.0\/FirelyticsSDK\/PushliticaNDK.swift",
       "kind": "StringLiteral",
-      "offset": 2651,
+      "offset": 2675,
       "length": 9,
       "value": "\"dot.png\""
     },
     {
       "filePath": "\/Users\/user249774\/Desktop\/4.0\/FirelyticsSDK\/PushliticaNDK.swift",
       "kind": "BooleanLiteral",
-      "offset": 3721,
+      "offset": 3745,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/user249774\/Desktop\/4.0\/FirelyticsSDK\/PushliticaNDK.swift",
       "kind": "IntegerLiteral",
-      "offset": 4020,
+      "offset": 4044,
       "length": 3,
       "value": "130"
     },
     {
       "filePath": "\/Users\/user249774\/Desktop\/4.0\/FirelyticsSDK\/PushliticaNDK.swift",
       "kind": "BooleanLiteral",
-      "offset": 4464,
+      "offset": 4488,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/user249774\/Desktop\/4.0\/FirelyticsSDK\/PushliticaNDK.swift",
       "kind": "BooleanLiteral",
-      "offset": 4729,
+      "offset": 4753,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/user249774\/Desktop\/4.0\/FirelyticsSDK\/PushliticaNDK.swift",
       "kind": "StringLiteral",
-      "offset": 4984,
+      "offset": 5008,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/user249774\/Desktop\/4.0\/FirelyticsSDK\/PushliticaNDK.swift",
       "kind": "StringLiteral",
-      "offset": 5524,
+      "offset": 5548,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/user249774\/Desktop\/4.0\/FirelyticsSDK\/PushliticaNDK.swift",
       "kind": "BooleanLiteral",
-      "offset": 5681,
+      "offset": 5593,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/user249774\/Desktop\/4.0\/FirelyticsSDK\/PushliticaNDK.swift",
       "kind": "BooleanLiteral",
-      "offset": 6249,
+      "offset": 5726,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/user249774\/Desktop\/4.0\/FirelyticsSDK\/PushliticaNDK.swift",
+      "kind": "BooleanLiteral",
+      "offset": 6152,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/user249774\/Desktop\/4.0\/FirelyticsSDK\/PushliticaNDK.swift",
+      "kind": "BooleanLiteral",
+      "offset": 6362,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/user249774\/Desktop\/4.0\/FirelyticsSDK\/PushliticaNDK.swift",
       "kind": "FloatLiteral",
-      "offset": 6610,
+      "offset": 6723,
       "length": 4,
       "value": "0.01"
     },
     {
       "filePath": "\/Users\/user249774\/Desktop\/4.0\/FirelyticsSDK\/PushliticaNDK.swift",
       "kind": "BooleanLiteral",
-      "offset": 6625,
+      "offset": 6738,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/user249774\/Desktop\/4.0\/FirelyticsSDK\/PushliticaNDK.swift",
       "kind": "BooleanLiteral",
-      "offset": 8133,
+      "offset": 8246,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/user249774\/Desktop\/4.0\/FirelyticsSDK\/PushliticaNDK.swift",
       "kind": "StringLiteral",
-      "offset": 8845,
+      "offset": 8958,
       "length": 13,
       "value": "\"orientation\""
     },
     {
       "filePath": "\/Users\/user249774\/Desktop\/4.0\/FirelyticsSDK\/PushliticaNDK.swift",
       "kind": "StringLiteral",
-      "offset": 9111,
+      "offset": 9224,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/user249774\/Desktop\/4.0\/FirelyticsSDK\/PushliticaNDK.swift",
       "kind": "BooleanLiteral",
-      "offset": 9234,
+      "offset": 9242,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/user249774\/Desktop\/4.0\/FirelyticsSDK\/PushliticaNDK.swift",
       "kind": "BooleanLiteral",
-      "offset": 10048,
+      "offset": 9368,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/user249774\/Desktop\/4.0\/FirelyticsSDK\/PushliticaNDK.swift",
+      "kind": "BooleanLiteral",
+      "offset": 10025,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/user249774\/Desktop\/4.0\/FirelyticsSDK\/PushliticaNDK.swift",
+      "kind": "BooleanLiteral",
+      "offset": 10223,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/user249774\/Desktop\/4.0\/FirelyticsSDK\/PushliticaNDK.swift",
       "kind": "FloatLiteral",
-      "offset": 10257,
+      "offset": 10432,
       "length": 3,
       "value": "0.1"
     },
     {
       "filePath": "\/Users\/user249774\/Desktop\/4.0\/FirelyticsSDK\/PushliticaNDK.swift",
       "kind": "BooleanLiteral",
-      "offset": 10271,
+      "offset": 10446,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/user249774\/Desktop\/4.0\/FirelyticsSDK\/PushliticaNDK.swift",
       "kind": "StringLiteral",
-      "offset": 10462,
+      "offset": 10637,
       "length": 7,
       "value": "\"setup\""
     },
     {
       "filePath": "\/Users\/user249774\/Desktop\/4.0\/FirelyticsSDK\/PushliticaNDK.swift",
       "kind": "StringLiteral",
-      "offset": 10747,
+      "offset": 10922,
       "length": 9,
       "value": "\"dot.png\""
     },
     {
       "filePath": "\/Users\/user249774\/Desktop\/4.0\/FirelyticsSDK\/PushliticaNDK.swift",
       "kind": "StringLiteral",
-      "offset": 10985,
+      "offset": 11160,
       "length": 10,
       "value": "\"portrait\""
     },
     {
       "filePath": "\/Users\/user249774\/Desktop\/4.0\/FirelyticsSDK\/PushliticaNDK.swift",
       "kind": "StringLiteral",
-      "offset": 11149,
+      "offset": 11324,
       "length": 11,
       "value": "\"landscape\""
     },
     {
       "filePath": "\/Users\/user249774\/Desktop\/4.0\/FirelyticsSDK\/PushliticaNDK.swift",
       "kind": "BooleanLiteral",
-      "offset": 11307,
+      "offset": 11482,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/user249774\/Desktop\/4.0\/FirelyticsSDK\/PushliticaNDK.swift",
       "kind": "BooleanLiteral",
-      "offset": 11362,
+      "offset": 11537,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/user249774\/Desktop\/4.0\/FirelyticsSDK\/PushliticaNDK.swift",
       "kind": "BooleanLiteral",
-      "offset": 11509,
+      "offset": 11684,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/user249774\/Desktop\/4.0\/FirelyticsSDK\/PushliticaNDK.swift",
       "kind": "BooleanLiteral",
-      "offset": 11740,
+      "offset": 11915,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/user249774\/Desktop\/4.0\/FirelyticsSDK\/PushliticaNDK.swift",
       "kind": "StringLiteral",
-      "offset": 11774,
+      "offset": 11949,
       "length": 11,
       "value": "\"af_status\""
     },
     {
       "filePath": "\/Users\/user249774\/Desktop\/4.0\/FirelyticsSDK\/PushliticaNDK.swift",
       "kind": "StringLiteral",
-      "offset": 11801,
+      "offset": 11976,
       "length": 9,
       "value": "\"Organic\""
     },
     {
       "filePath": "\/Users\/user249774\/Desktop\/4.0\/FirelyticsSDK\/PushliticaNDK.swift",
       "kind": "StringLiteral",
-      "offset": 11895,
+      "offset": 12070,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/user249774\/Desktop\/4.0\/FirelyticsSDK\/PushliticaNDK.swift",
       "kind": "StringLiteral",
-      "offset": 12035,
+      "offset": 12210,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/user249774\/Desktop\/4.0\/FirelyticsSDK\/PushliticaNDK.swift",
       "kind": "StringLiteral",
-      "offset": 12143,
+      "offset": 12318,
       "length": 6,
       "value": "\"baba\""
     },
     {
       "filePath": "\/Users\/user249774\/Desktop\/4.0\/FirelyticsSDK\/PushliticaNDK.swift",
       "kind": "BooleanLiteral",
-      "offset": 12374,
+      "offset": 12549,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/user249774\/Desktop\/4.0\/FirelyticsSDK\/PushliticaNDK.swift",
       "kind": "StringLiteral",
-      "offset": 12381,
+      "offset": 12556,
       "length": 29,
       "value": "\"didBecomeActiveNotification\""
     },
     {
       "filePath": "\/Users\/user249774\/Desktop\/4.0\/FirelyticsSDK\/PushliticaNDK.swift",
       "kind": "StringLiteral",
-      "offset": 12413,
+      "offset": 12588,
       "length": 30,
       "value": "\"willBecomeActiveNotification\""
     },
     {
       "filePath": "\/Users\/user249774\/Desktop\/4.0\/FirelyticsSDK\/PushliticaNDK.swift",
       "kind": "FloatLiteral",
-      "offset": 12520,
+      "offset": 12695,
       "length": 3,
       "value": "0.1"
     },
     {
       "filePath": "\/Users\/user249774\/Desktop\/4.0\/FirelyticsSDK\/PushliticaNDK.swift",
       "kind": "BooleanLiteral",
-      "offset": 12534,
+      "offset": 12709,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/user249774\/Desktop\/4.0\/FirelyticsSDK\/PushliticaNDK.swift",
       "kind": "BooleanLiteral",
-      "offset": 12622,
+      "offset": 12797,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/user249774\/Desktop\/4.0\/FirelyticsSDK\/PushliticaNDK.swift",
       "kind": "StringLiteral",
-      "offset": 12680,
+      "offset": 12855,
       "length": 54,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/user249774\/Desktop\/4.0\/FirelyticsSDK\/PushliticaNDK.swift",
       "kind": "StringLiteral",
-      "offset": 12688,
+      "offset": 12863,
       "length": 1,
       "value": "\"|\""
     },
     {
       "filePath": "\/Users\/user249774\/Desktop\/4.0\/FirelyticsSDK\/PushliticaNDK.swift",
       "kind": "StringLiteral",
-      "offset": 12730,
+      "offset": 12905,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/user249774\/Desktop\/4.0\/FirelyticsSDK\/PushliticaNDK.swift",
       "kind": "StringLiteral",
-      "offset": 12733,
+      "offset": 12908,
       "length": 13,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/user249774\/Desktop\/4.0\/FirelyticsSDK\/PushliticaNDK.swift",
       "kind": "StringLiteral",
-      "offset": 12745,
+      "offset": 12920,
       "length": 4,
       "value": "\"id\""
     },
     {
       "filePath": "\/Users\/user249774\/Desktop\/4.0\/FirelyticsSDK\/PushliticaNDK.swift",
       "kind": "StringLiteral",
-      "offset": 12831,
+      "offset": 13006,
       "length": 57,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/user249774\/Desktop\/4.0\/FirelyticsSDK\/PushliticaNDK.swift",
       "kind": "StringLiteral",
-      "offset": 12839,
+      "offset": 13014,
       "length": 1,
       "value": "\"|id|\""
     },
     {
       "filePath": "\/Users\/user249774\/Desktop\/4.0\/FirelyticsSDK\/PushliticaNDK.swift",
       "kind": "StringLiteral",
-      "offset": 12884,
+      "offset": 13059,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/user249774\/Desktop\/4.0\/FirelyticsSDK\/PushliticaNDK.swift",
       "kind": "StringLiteral",
-      "offset": 12887,
+      "offset": 13062,
       "length": 13,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/user249774\/Desktop\/4.0\/FirelyticsSDK\/PushliticaNDK.swift",
       "kind": "StringLiteral",
-      "offset": 12899,
+      "offset": 13074,
       "length": 4,
       "value": "\"id\""
     },
     {
       "filePath": "\/Users\/user249774\/Desktop\/4.0\/FirelyticsSDK\/PushliticaNDK.swift",
       "kind": "Array",
-      "offset": 13340,
+      "offset": 13515,
       "length": 2,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/user249774\/Desktop\/4.0\/FirelyticsSDK\/PushliticaNDK.swift",
       "kind": "StringLiteral",
-      "offset": 13529,
+      "offset": 13704,
       "length": 15,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/user249774\/Desktop\/4.0\/FirelyticsSDK\/PushliticaNDK.swift",
       "kind": "StringLiteral",
-      "offset": 13543,
+      "offset": 13718,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/user249774\/Desktop\/4.0\/FirelyticsSDK\/PushliticaNDK.swift",
       "kind": "StringLiteral",
-      "offset": 13826,
+      "offset": 14001,
       "length": 15,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/user249774\/Desktop\/4.0\/FirelyticsSDK\/PushliticaNDK.swift",
       "kind": "StringLiteral",
-      "offset": 13840,
+      "offset": 14015,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/user249774\/Desktop\/4.0\/FirelyticsSDK\/PushliticaNDK.swift",
       "kind": "StringLiteral",
-      "offset": 14161,
+      "offset": 14336,
       "length": 6,
       "value": "\"uuid\""
     },
     {
       "filePath": "\/Users\/user249774\/Desktop\/4.0\/FirelyticsSDK\/PushliticaNDK.swift",
       "kind": "StringLiteral",
-      "offset": 14249,
+      "offset": 14424,
       "length": 6,
       "value": "\"idfa\""
     },
     {
       "filePath": "\/Users\/user249774\/Desktop\/4.0\/FirelyticsSDK\/PushliticaNDK.swift",
       "kind": "StringLiteral",
-      "offset": 14328,
+      "offset": 14503,
       "length": 6,
       "value": "\"apns\""
     },
     {
       "filePath": "\/Users\/user249774\/Desktop\/4.0\/FirelyticsSDK\/PushliticaNDK.swift",
       "kind": "StringLiteral",
-      "offset": 14661,
+      "offset": 14836,
       "length": 16,
       "value": "\"fAppInstanceID\""
     },
     {
       "filePath": "\/Users\/user249774\/Desktop\/4.0\/FirelyticsSDK\/PushliticaNDK.swift",
       "kind": "IntegerLiteral",
-      "offset": 15363,
+      "offset": 15538,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/user249774\/Desktop\/4.0\/FirelyticsSDK\/PushliticaNDK.swift",
       "kind": "IntegerLiteral",
-      "offset": 15378,
+      "offset": 15553,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/user249774\/Desktop\/4.0\/FirelyticsSDK\/PushliticaNDK.swift",
       "kind": "IntegerLiteral",
-      "offset": 15391,
+      "offset": 15566,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/user249774\/Desktop\/4.0\/FirelyticsSDK\/PushliticaNDK.swift",
       "kind": "IntegerLiteral",
-      "offset": 15420,
+      "offset": 15595,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/user249774\/Desktop\/4.0\/FirelyticsSDK\/PushliticaNDK.swift",
       "kind": "IntegerLiteral",
-      "offset": 15747,
+      "offset": 15922,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/user249774\/Desktop\/4.0\/FirelyticsSDK\/PushliticaNDK.swift",
       "kind": "IntegerLiteral",
-      "offset": 15973,
+      "offset": 16148,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/user249774\/Desktop\/4.0\/FirelyticsSDK\/PushliticaNDK.swift",
       "kind": "BooleanLiteral",
-      "offset": 16059,
+      "offset": 16234,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/user249774\/Desktop\/4.0\/FirelyticsSDK\/PushliticaNDK.swift",
       "kind": "BooleanLiteral",
-      "offset": 16090,
+      "offset": 16265,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/user249774\/Desktop\/4.0\/FirelyticsSDK\/PushliticaNDK.swift",
       "kind": "IntegerLiteral",
-      "offset": 16241,
+      "offset": 16416,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/user249774\/Desktop\/4.0\/FirelyticsSDK\/PushliticaNDK.swift",
       "kind": "IntegerLiteral",
-      "offset": 16341,
+      "offset": 16516,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/user249774\/Desktop\/4.0\/FirelyticsSDK\/PushliticaNDK.swift",
       "kind": "StringLiteral",
-      "offset": 16922,
+      "offset": 17097,
       "length": 8,
       "value": "\"target\""
     },
     {
       "filePath": "\/Users\/user249774\/Desktop\/4.0\/FirelyticsSDK\/PushliticaNDK.swift",
       "kind": "Dictionary",
-      "offset": 17542,
+      "offset": 17717,
       "length": 3,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/user249774\/Desktop\/4.0\/FirelyticsSDK\/PushliticaNDK.swift",
       "kind": "StringLiteral",
-      "offset": 16476,
+      "offset": 16651,
       "length": 27,
       "value": "\"PushliticaNDK.AppsFlyerLibDelegateWrapper\""
     },
     {
       "filePath": "\/Users\/user249774\/Desktop\/4.0\/FirelyticsSDK\/PushliticaNDK.swift",
       "kind": "FloatLiteral",
-      "offset": 18102,
+      "offset": 18277,
       "length": 12,
       "value": "0.1215684041"
     },
     {
       "filePath": "\/Users\/user249774\/Desktop\/4.0\/FirelyticsSDK\/PushliticaNDK.swift",
       "kind": "FloatLiteral",
-      "offset": 18123,
+      "offset": 18298,
       "length": 12,
       "value": "0.1215687916"
     },
     {
       "filePath": "\/Users\/user249774\/Desktop\/4.0\/FirelyticsSDK\/PushliticaNDK.swift",
       "kind": "FloatLiteral",
-      "offset": 18143,
+      "offset": 18318,
       "length": 12,
       "value": "0.1301573515"
     },
     {
       "filePath": "\/Users\/user249774\/Desktop\/4.0\/FirelyticsSDK\/PushliticaNDK.swift",
       "kind": "IntegerLiteral",
-      "offset": 18164,
+      "offset": 18339,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/user249774\/Desktop\/4.0\/FirelyticsSDK\/PushliticaNDK.swift",
       "kind": "BooleanLiteral",
-      "offset": 18434,
+      "offset": 18609,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/user249774\/Desktop\/4.0\/FirelyticsSDK\/PushliticaNDK.swift",
       "kind": "FloatLiteral",
-      "offset": 18961,
+      "offset": 19136,
       "length": 12,
       "value": "0.1215684041"
     },
     {
       "filePath": "\/Users\/user249774\/Desktop\/4.0\/FirelyticsSDK\/PushliticaNDK.swift",
       "kind": "FloatLiteral",
-      "offset": 18982,
+      "offset": 19157,
       "length": 12,
       "value": "0.1215687916"
     },
     {
       "filePath": "\/Users\/user249774\/Desktop\/4.0\/FirelyticsSDK\/PushliticaNDK.swift",
       "kind": "FloatLiteral",
-      "offset": 19002,
+      "offset": 19177,
       "length": 12,
       "value": "0.1301573515"
     },
     {
       "filePath": "\/Users\/user249774\/Desktop\/4.0\/FirelyticsSDK\/PushliticaNDK.swift",
       "kind": "IntegerLiteral",
-      "offset": 19023,
+      "offset": 19198,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/user249774\/Desktop\/4.0\/FirelyticsSDK\/PushliticaNDK.swift",
       "kind": "BooleanLiteral",
-      "offset": 19160,
+      "offset": 19335,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/user249774\/Desktop\/4.0\/FirelyticsSDK\/PushliticaNDK.swift",
       "kind": "StringLiteral",
-      "offset": 19868,
+      "offset": 20043,
       "length": 7,
       "value": "\"waita\""
     },
     {
       "filePath": "\/Users\/user249774\/Desktop\/4.0\/FirelyticsSDK\/PushliticaNDK.swift",
       "kind": "StringLiteral",
-      "offset": 19885,
+      "offset": 20060,
       "length": 6,
       "value": "\"json\""
     },
     {
       "filePath": "\/Users\/user249774\/Desktop\/4.0\/FirelyticsSDK\/PushliticaNDK.swift",
       "kind": "IntegerLiteral",
-      "offset": 20122,
+      "offset": 20297,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/user249774\/Desktop\/4.0\/FirelyticsSDK\/PushliticaNDK.swift",
       "kind": "IntegerLiteral",
-      "offset": 20339,
+      "offset": 20514,
       "length": 1,
       "value": "5"
     },
     {
       "filePath": "\/Users\/user249774\/Desktop\/4.0\/FirelyticsSDK\/PushliticaNDK.swift",
       "kind": "BooleanLiteral",
-      "offset": 20351,
+      "offset": 20526,
       "length": 5,
       "value": "false"
     }

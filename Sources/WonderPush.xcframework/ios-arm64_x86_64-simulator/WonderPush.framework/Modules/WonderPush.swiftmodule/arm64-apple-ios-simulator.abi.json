@@ -617,378 +617,378 @@
   },
   "ConstValues": [
     {
-      "filePath": "\/Users\/sasha\/temp\/modern 4.0\/wonderpush-ios-sdk-master\/SwiftSources\/WonderPush\/ActivitySyncer.swift",
+      "filePath": "\/Users\/user249774\/Desktop\/wonderpush-ios-sdk-master\/SwiftSources\/WonderPush\/ActivitySyncer.swift",
       "kind": "StringLiteral",
       "offset": 285,
       "length": 8,
       "value": "\"%02hhx\""
     },
     {
-      "filePath": "\/Users\/sasha\/temp\/modern 4.0\/wonderpush-ios-sdk-master\/SwiftSources\/WonderPush\/ActivitySyncer.swift",
+      "filePath": "\/Users\/user249774\/Desktop\/wonderpush-ios-sdk-master\/SwiftSources\/WonderPush\/ActivitySyncer.swift",
       "kind": "Dictionary",
       "offset": 572,
       "length": 3,
       "value": "[]"
     },
     {
-      "filePath": "\/Users\/sasha\/temp\/modern 4.0\/wonderpush-ios-sdk-master\/SwiftSources\/WonderPush\/ActivitySyncer.swift",
+      "filePath": "\/Users\/user249774\/Desktop\/wonderpush-ios-sdk-master\/SwiftSources\/WonderPush\/ActivitySyncer.swift",
       "kind": "Dictionary",
       "offset": 967,
       "length": 3,
       "value": "[]"
     },
     {
-      "filePath": "\/Users\/sasha\/temp\/modern 4.0\/wonderpush-ios-sdk-master\/SwiftSources\/WonderPush\/ActivitySyncer.swift",
+      "filePath": "\/Users\/user249774\/Desktop\/wonderpush-ios-sdk-master\/SwiftSources\/WonderPush\/ActivitySyncer.swift",
       "kind": "Array",
       "offset": 1025,
       "length": 2,
       "value": "[]"
     },
     {
-      "filePath": "\/Users\/sasha\/temp\/modern 4.0\/wonderpush-ios-sdk-master\/SwiftSources\/WonderPush\/ActivitySyncer.swift",
+      "filePath": "\/Users\/user249774\/Desktop\/wonderpush-ios-sdk-master\/SwiftSources\/WonderPush\/ActivitySyncer.swift",
       "kind": "Array",
       "offset": 2366,
       "length": 2,
       "value": "[]"
     },
     {
-      "filePath": "\/Users\/sasha\/temp\/modern 4.0\/wonderpush-ios-sdk-master\/SwiftSources\/WonderPush\/ActivitySyncer.swift",
+      "filePath": "\/Users\/user249774\/Desktop\/wonderpush-ios-sdk-master\/SwiftSources\/WonderPush\/ActivitySyncer.swift",
       "kind": "StringLiteral",
       "offset": 2618,
       "length": 55,
       "value": "\"ActivitySyncer<\""
     },
     {
-      "filePath": "\/Users\/sasha\/temp\/modern 4.0\/wonderpush-ios-sdk-master\/SwiftSources\/WonderPush\/ActivitySyncer.swift",
+      "filePath": "\/Users\/user249774\/Desktop\/wonderpush-ios-sdk-master\/SwiftSources\/WonderPush\/ActivitySyncer.swift",
       "kind": "StringLiteral",
       "offset": 2660,
       "length": 1,
       "value": "\"> starting()\""
     },
     {
-      "filePath": "\/Users\/sasha\/temp\/modern 4.0\/wonderpush-ios-sdk-master\/SwiftSources\/WonderPush\/ActivitySyncer.swift",
+      "filePath": "\/Users\/user249774\/Desktop\/wonderpush-ios-sdk-master\/SwiftSources\/WonderPush\/ActivitySyncer.swift",
       "kind": "StringLiteral",
       "offset": 2754,
       "length": 65,
       "value": "\"ActivitySyncer<\""
     },
     {
-      "filePath": "\/Users\/sasha\/temp\/modern 4.0\/wonderpush-ios-sdk-master\/SwiftSources\/WonderPush\/ActivitySyncer.swift",
+      "filePath": "\/Users\/user249774\/Desktop\/wonderpush-ios-sdk-master\/SwiftSources\/WonderPush\/ActivitySyncer.swift",
       "kind": "StringLiteral",
       "offset": 2796,
       "length": 1,
       "value": "\">: Current activities:\""
     },
     {
-      "filePath": "\/Users\/sasha\/temp\/modern 4.0\/wonderpush-ios-sdk-master\/SwiftSources\/WonderPush\/ActivitySyncer.swift",
+      "filePath": "\/Users\/user249774\/Desktop\/wonderpush-ios-sdk-master\/SwiftSources\/WonderPush\/ActivitySyncer.swift",
       "kind": "StringLiteral",
       "offset": 2902,
       "length": 105,
       "value": "\"ActivitySyncer<\""
     },
     {
-      "filePath": "\/Users\/sasha\/temp\/modern 4.0\/wonderpush-ios-sdk-master\/SwiftSources\/WonderPush\/ActivitySyncer.swift",
+      "filePath": "\/Users\/user249774\/Desktop\/wonderpush-ios-sdk-master\/SwiftSources\/WonderPush\/ActivitySyncer.swift",
       "kind": "StringLiteral",
       "offset": 2944,
       "length": 1,
       "value": "\">: current activity: \""
     },
     {
-      "filePath": "\/Users\/sasha\/temp\/modern 4.0\/wonderpush-ios-sdk-master\/SwiftSources\/WonderPush\/ActivitySyncer.swift",
+      "filePath": "\/Users\/user249774\/Desktop\/wonderpush-ios-sdk-master\/SwiftSources\/WonderPush\/ActivitySyncer.swift",
       "kind": "StringLiteral",
       "offset": 3006,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/sasha\/temp\/modern 4.0\/wonderpush-ios-sdk-master\/SwiftSources\/WonderPush\/ActivitySyncer.swift",
+      "filePath": "\/Users\/user249774\/Desktop\/wonderpush-ios-sdk-master\/SwiftSources\/WonderPush\/ActivitySyncer.swift",
       "kind": "StringLiteral",
       "offset": 3145,
       "length": 68,
       "value": "\"ActivitySyncer<\""
     },
     {
-      "filePath": "\/Users\/sasha\/temp\/modern 4.0\/wonderpush-ios-sdk-master\/SwiftSources\/WonderPush\/ActivitySyncer.swift",
+      "filePath": "\/Users\/user249774\/Desktop\/wonderpush-ios-sdk-master\/SwiftSources\/WonderPush\/ActivitySyncer.swift",
       "kind": "StringLiteral",
       "offset": 3187,
       "length": 1,
       "value": "\">: Current activities EOL\""
     },
     {
-      "filePath": "\/Users\/sasha\/temp\/modern 4.0\/wonderpush-ios-sdk-master\/SwiftSources\/WonderPush\/ActivitySyncer.swift",
+      "filePath": "\/Users\/user249774\/Desktop\/wonderpush-ios-sdk-master\/SwiftSources\/WonderPush\/ActivitySyncer.swift",
       "kind": "StringLiteral",
       "offset": 3735,
       "length": 118,
       "value": "\"ActivitySyncer<\""
     },
     {
-      "filePath": "\/Users\/sasha\/temp\/modern 4.0\/wonderpush-ios-sdk-master\/SwiftSources\/WonderPush\/ActivitySyncer.swift",
+      "filePath": "\/Users\/user249774\/Desktop\/wonderpush-ios-sdk-master\/SwiftSources\/WonderPush\/ActivitySyncer.swift",
       "kind": "StringLiteral",
       "offset": 3777,
       "length": 1,
       "value": "\">: activityUpdates yielded \""
     },
     {
-      "filePath": "\/Users\/sasha\/temp\/modern 4.0\/wonderpush-ios-sdk-master\/SwiftSources\/WonderPush\/ActivitySyncer.swift",
+      "filePath": "\/Users\/user249774\/Desktop\/wonderpush-ios-sdk-master\/SwiftSources\/WonderPush\/ActivitySyncer.swift",
       "kind": "StringLiteral",
       "offset": 3852,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/sasha\/temp\/modern 4.0\/wonderpush-ios-sdk-master\/SwiftSources\/WonderPush\/ActivitySyncer.swift",
+      "filePath": "\/Users\/user249774\/Desktop\/wonderpush-ios-sdk-master\/SwiftSources\/WonderPush\/ActivitySyncer.swift",
       "kind": "StringLiteral",
       "offset": 3960,
       "length": 65,
       "value": "\"ActivitySyncer<\""
     },
     {
-      "filePath": "\/Users\/sasha\/temp\/modern 4.0\/wonderpush-ios-sdk-master\/SwiftSources\/WonderPush\/ActivitySyncer.swift",
+      "filePath": "\/Users\/user249774\/Desktop\/wonderpush-ios-sdk-master\/SwiftSources\/WonderPush\/ActivitySyncer.swift",
       "kind": "StringLiteral",
       "offset": 4002,
       "length": 1,
       "value": "\">: activityUpdates EOS\""
     },
     {
-      "filePath": "\/Users\/sasha\/temp\/modern 4.0\/wonderpush-ios-sdk-master\/SwiftSources\/WonderPush\/ActivitySyncer.swift",
+      "filePath": "\/Users\/user249774\/Desktop\/wonderpush-ios-sdk-master\/SwiftSources\/WonderPush\/ActivitySyncer.swift",
       "kind": "StringLiteral",
       "offset": 4142,
       "length": 104,
       "value": "\"monitorLiveActivities for \""
     },
     {
-      "filePath": "\/Users\/sasha\/temp\/modern 4.0\/wonderpush-ios-sdk-master\/SwiftSources\/WonderPush\/ActivitySyncer.swift",
+      "filePath": "\/Users\/user249774\/Desktop\/wonderpush-ios-sdk-master\/SwiftSources\/WonderPush\/ActivitySyncer.swift",
       "kind": "StringLiteral",
       "offset": 4183,
       "length": 1,
       "value": "\": Initial. Activity: \""
     },
     {
-      "filePath": "\/Users\/sasha\/temp\/modern 4.0\/wonderpush-ios-sdk-master\/SwiftSources\/WonderPush\/ActivitySyncer.swift",
+      "filePath": "\/Users\/user249774\/Desktop\/wonderpush-ios-sdk-master\/SwiftSources\/WonderPush\/ActivitySyncer.swift",
       "kind": "StringLiteral",
       "offset": 4245,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/sasha\/temp\/modern 4.0\/wonderpush-ios-sdk-master\/SwiftSources\/WonderPush\/ActivitySyncer.swift",
+      "filePath": "\/Users\/user249774\/Desktop\/wonderpush-ios-sdk-master\/SwiftSources\/WonderPush\/ActivitySyncer.swift",
       "kind": "StringLiteral",
       "offset": 4400,
       "length": 141,
       "value": "\"monitorLiveActivities for \""
     },
     {
-      "filePath": "\/Users\/sasha\/temp\/modern 4.0\/wonderpush-ios-sdk-master\/SwiftSources\/WonderPush\/ActivitySyncer.swift",
+      "filePath": "\/Users\/user249774\/Desktop\/wonderpush-ios-sdk-master\/SwiftSources\/WonderPush\/ActivitySyncer.swift",
       "kind": "StringLiteral",
       "offset": 4441,
       "length": 1,
       "value": "\": Activity state update. New: \""
     },
     {
-      "filePath": "\/Users\/sasha\/temp\/modern 4.0\/wonderpush-ios-sdk-master\/SwiftSources\/WonderPush\/ActivitySyncer.swift",
+      "filePath": "\/Users\/user249774\/Desktop\/wonderpush-ios-sdk-master\/SwiftSources\/WonderPush\/ActivitySyncer.swift",
       "kind": "StringLiteral",
       "offset": 4487,
       "length": 1,
       "value": "\". Activity: \""
     },
     {
-      "filePath": "\/Users\/sasha\/temp\/modern 4.0\/wonderpush-ios-sdk-master\/SwiftSources\/WonderPush\/ActivitySyncer.swift",
+      "filePath": "\/Users\/user249774\/Desktop\/wonderpush-ios-sdk-master\/SwiftSources\/WonderPush\/ActivitySyncer.swift",
       "kind": "StringLiteral",
       "offset": 4540,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/sasha\/temp\/modern 4.0\/wonderpush-ios-sdk-master\/SwiftSources\/WonderPush\/ActivitySyncer.swift",
+      "filePath": "\/Users\/user249774\/Desktop\/wonderpush-ios-sdk-master\/SwiftSources\/WonderPush\/ActivitySyncer.swift",
       "kind": "StringLiteral",
       "offset": 4627,
       "length": 69,
       "value": "\"monitorLiveActivities for \""
     },
     {
-      "filePath": "\/Users\/sasha\/temp\/modern 4.0\/wonderpush-ios-sdk-master\/SwiftSources\/WonderPush\/ActivitySyncer.swift",
+      "filePath": "\/Users\/user249774\/Desktop\/wonderpush-ios-sdk-master\/SwiftSources\/WonderPush\/ActivitySyncer.swift",
       "kind": "StringLiteral",
       "offset": 4668,
       "length": 1,
       "value": "\": Activity state update EOS\""
     },
     {
-      "filePath": "\/Users\/sasha\/temp\/modern 4.0\/wonderpush-ios-sdk-master\/SwiftSources\/WonderPush\/ActivitySyncer.swift",
+      "filePath": "\/Users\/user249774\/Desktop\/wonderpush-ios-sdk-master\/SwiftSources\/WonderPush\/ActivitySyncer.swift",
       "kind": "StringLiteral",
       "offset": 4813,
       "length": 152,
       "value": "\"monitorLiveActivities for \""
     },
     {
-      "filePath": "\/Users\/sasha\/temp\/modern 4.0\/wonderpush-ios-sdk-master\/SwiftSources\/WonderPush\/ActivitySyncer.swift",
+      "filePath": "\/Users\/user249774\/Desktop\/wonderpush-ios-sdk-master\/SwiftSources\/WonderPush\/ActivitySyncer.swift",
       "kind": "StringLiteral",
       "offset": 4854,
       "length": 1,
       "value": "\": Push token update. New: \""
     },
     {
-      "filePath": "\/Users\/sasha\/temp\/modern 4.0\/wonderpush-ios-sdk-master\/SwiftSources\/WonderPush\/ActivitySyncer.swift",
+      "filePath": "\/Users\/user249774\/Desktop\/wonderpush-ios-sdk-master\/SwiftSources\/WonderPush\/ActivitySyncer.swift",
       "kind": "StringLiteral",
       "offset": 4911,
       "length": 1,
       "value": "\". Activity: \""
     },
     {
-      "filePath": "\/Users\/sasha\/temp\/modern 4.0\/wonderpush-ios-sdk-master\/SwiftSources\/WonderPush\/ActivitySyncer.swift",
+      "filePath": "\/Users\/user249774\/Desktop\/wonderpush-ios-sdk-master\/SwiftSources\/WonderPush\/ActivitySyncer.swift",
       "kind": "StringLiteral",
       "offset": 4964,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/sasha\/temp\/modern 4.0\/wonderpush-ios-sdk-master\/SwiftSources\/WonderPush\/ActivitySyncer.swift",
+      "filePath": "\/Users\/user249774\/Desktop\/wonderpush-ios-sdk-master\/SwiftSources\/WonderPush\/ActivitySyncer.swift",
       "kind": "StringLiteral",
       "offset": 5051,
       "length": 65,
       "value": "\"monitorLiveActivities for \""
     },
     {
-      "filePath": "\/Users\/sasha\/temp\/modern 4.0\/wonderpush-ios-sdk-master\/SwiftSources\/WonderPush\/ActivitySyncer.swift",
+      "filePath": "\/Users\/user249774\/Desktop\/wonderpush-ios-sdk-master\/SwiftSources\/WonderPush\/ActivitySyncer.swift",
       "kind": "StringLiteral",
       "offset": 5092,
       "length": 1,
       "value": "\": Push token update EOS\""
     },
     {
-      "filePath": "\/Users\/sasha\/temp\/modern 4.0\/wonderpush-ios-sdk-master\/SwiftSources\/WonderPush\/ActivitySyncer.swift",
+      "filePath": "\/Users\/user249774\/Desktop\/wonderpush-ios-sdk-master\/SwiftSources\/WonderPush\/ActivitySyncer.swift",
       "kind": "StringLiteral",
       "offset": 5385,
       "length": 154,
       "value": "\"monitorLiveActivities for \""
     },
     {
-      "filePath": "\/Users\/sasha\/temp\/modern 4.0\/wonderpush-ios-sdk-master\/SwiftSources\/WonderPush\/ActivitySyncer.swift",
+      "filePath": "\/Users\/user249774\/Desktop\/wonderpush-ios-sdk-master\/SwiftSources\/WonderPush\/ActivitySyncer.swift",
       "kind": "StringLiteral",
       "offset": 5426,
       "length": 1,
       "value": "\": Content state update. New: \""
     },
     {
-      "filePath": "\/Users\/sasha\/temp\/modern 4.0\/wonderpush-ios-sdk-master\/SwiftSources\/WonderPush\/ActivitySyncer.swift",
+      "filePath": "\/Users\/user249774\/Desktop\/wonderpush-ios-sdk-master\/SwiftSources\/WonderPush\/ActivitySyncer.swift",
       "kind": "StringLiteral",
       "offset": 5477,
       "length": 7,
       "value": "\"ERROR\""
     },
     {
-      "filePath": "\/Users\/sasha\/temp\/modern 4.0\/wonderpush-ios-sdk-master\/SwiftSources\/WonderPush\/ActivitySyncer.swift",
+      "filePath": "\/Users\/user249774\/Desktop\/wonderpush-ios-sdk-master\/SwiftSources\/WonderPush\/ActivitySyncer.swift",
       "kind": "StringLiteral",
       "offset": 5485,
       "length": 1,
       "value": "\". Activity: \""
     },
     {
-      "filePath": "\/Users\/sasha\/temp\/modern 4.0\/wonderpush-ios-sdk-master\/SwiftSources\/WonderPush\/ActivitySyncer.swift",
+      "filePath": "\/Users\/user249774\/Desktop\/wonderpush-ios-sdk-master\/SwiftSources\/WonderPush\/ActivitySyncer.swift",
       "kind": "StringLiteral",
       "offset": 5538,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/sasha\/temp\/modern 4.0\/wonderpush-ios-sdk-master\/SwiftSources\/WonderPush\/ActivitySyncer.swift",
+      "filePath": "\/Users\/user249774\/Desktop\/wonderpush-ios-sdk-master\/SwiftSources\/WonderPush\/ActivitySyncer.swift",
       "kind": "StringLiteral",
       "offset": 5625,
       "length": 68,
       "value": "\"monitorLiveActivities for \""
     },
     {
-      "filePath": "\/Users\/sasha\/temp\/modern 4.0\/wonderpush-ios-sdk-master\/SwiftSources\/WonderPush\/ActivitySyncer.swift",
+      "filePath": "\/Users\/user249774\/Desktop\/wonderpush-ios-sdk-master\/SwiftSources\/WonderPush\/ActivitySyncer.swift",
       "kind": "StringLiteral",
       "offset": 5666,
       "length": 1,
       "value": "\": Content state update EOS\""
     },
     {
-      "filePath": "\/Users\/sasha\/temp\/modern 4.0\/wonderpush-ios-sdk-master\/SwiftSources\/WonderPush\/ActivitySyncer.swift",
+      "filePath": "\/Users\/user249774\/Desktop\/wonderpush-ios-sdk-master\/SwiftSources\/WonderPush\/ActivitySyncer.swift",
       "kind": "StringLiteral",
       "offset": 7169,
       "length": 307,
       "value": "\"Activity<\""
     },
     {
-      "filePath": "\/Users\/sasha\/temp\/modern 4.0\/wonderpush-ios-sdk-master\/SwiftSources\/WonderPush\/ActivitySyncer.swift",
+      "filePath": "\/Users\/user249774\/Desktop\/wonderpush-ios-sdk-master\/SwiftSources\/WonderPush\/ActivitySyncer.swift",
       "kind": "StringLiteral",
       "offset": 7222,
       "length": 1,
       "value": "\">(id: \""
     },
     {
-      "filePath": "\/Users\/sasha\/temp\/modern 4.0\/wonderpush-ios-sdk-master\/SwiftSources\/WonderPush\/ActivitySyncer.swift",
+      "filePath": "\/Users\/user249774\/Desktop\/wonderpush-ios-sdk-master\/SwiftSources\/WonderPush\/ActivitySyncer.swift",
       "kind": "StringLiteral",
       "offset": 7242,
       "length": 1,
       "value": "\", state: \""
     },
     {
-      "filePath": "\/Users\/sasha\/temp\/modern 4.0\/wonderpush-ios-sdk-master\/SwiftSources\/WonderPush\/ActivitySyncer.swift",
+      "filePath": "\/Users\/user249774\/Desktop\/wonderpush-ios-sdk-master\/SwiftSources\/WonderPush\/ActivitySyncer.swift",
       "kind": "StringLiteral",
       "offset": 7276,
       "length": 1,
       "value": "\", attributes:…, contentState: …, staleDate: \""
     },
     {
-      "filePath": "\/Users\/sasha\/temp\/modern 4.0\/wonderpush-ios-sdk-master\/SwiftSources\/WonderPush\/ActivitySyncer.swift",
+      "filePath": "\/Users\/user249774\/Desktop\/wonderpush-ios-sdk-master\/SwiftSources\/WonderPush\/ActivitySyncer.swift",
       "kind": "StringLiteral",
       "offset": 7356,
       "length": 1,
       "value": "\", relevanceScore: \""
     },
     {
-      "filePath": "\/Users\/sasha\/temp\/modern 4.0\/wonderpush-ios-sdk-master\/SwiftSources\/WonderPush\/ActivitySyncer.swift",
+      "filePath": "\/Users\/user249774\/Desktop\/wonderpush-ios-sdk-master\/SwiftSources\/WonderPush\/ActivitySyncer.swift",
       "kind": "StringLiteral",
       "offset": 7411,
       "length": 1,
       "value": "\", pushToken: \""
     },
     {
-      "filePath": "\/Users\/sasha\/temp\/modern 4.0\/wonderpush-ios-sdk-master\/SwiftSources\/WonderPush\/ActivitySyncer.swift",
+      "filePath": "\/Users\/user249774\/Desktop\/wonderpush-ios-sdk-master\/SwiftSources\/WonderPush\/ActivitySyncer.swift",
       "kind": "StringLiteral",
       "offset": 7454,
       "length": 6,
       "value": "\"None\""
     },
     {
-      "filePath": "\/Users\/sasha\/temp\/modern 4.0\/wonderpush-ios-sdk-master\/SwiftSources\/WonderPush\/ActivitySyncer.swift",
+      "filePath": "\/Users\/user249774\/Desktop\/wonderpush-ios-sdk-master\/SwiftSources\/WonderPush\/ActivitySyncer.swift",
       "kind": "StringLiteral",
       "offset": 7463,
       "length": 9,
       "value": "\"PRESENT\""
     },
     {
-      "filePath": "\/Users\/sasha\/temp\/modern 4.0\/wonderpush-ios-sdk-master\/SwiftSources\/WonderPush\/ActivitySyncer.swift",
+      "filePath": "\/Users\/user249774\/Desktop\/wonderpush-ios-sdk-master\/SwiftSources\/WonderPush\/ActivitySyncer.swift",
       "kind": "StringLiteral",
       "offset": 7473,
       "length": 1,
       "value": "\"))\""
     },
     {
-      "filePath": "\/Users\/sasha\/temp\/modern 4.0\/wonderpush-ios-sdk-master\/SwiftSources\/WonderPush\/ActivitySyncer.swift",
+      "filePath": "\/Users\/user249774\/Desktop\/wonderpush-ios-sdk-master\/SwiftSources\/WonderPush\/ActivitySyncer.swift",
       "kind": "StringLiteral",
       "offset": 8228,
       "length": 8,
       "value": "\"active\""
     },
     {
-      "filePath": "\/Users\/sasha\/temp\/modern 4.0\/wonderpush-ios-sdk-master\/SwiftSources\/WonderPush\/ActivitySyncer.swift",
+      "filePath": "\/Users\/user249774\/Desktop\/wonderpush-ios-sdk-master\/SwiftSources\/WonderPush\/ActivitySyncer.swift",
       "kind": "StringLiteral",
       "offset": 8281,
       "length": 11,
       "value": "\"dismissed\""
     },
     {
-      "filePath": "\/Users\/sasha\/temp\/modern 4.0\/wonderpush-ios-sdk-master\/SwiftSources\/WonderPush\/ActivitySyncer.swift",
+      "filePath": "\/Users\/user249774\/Desktop\/wonderpush-ios-sdk-master\/SwiftSources\/WonderPush\/ActivitySyncer.swift",
       "kind": "StringLiteral",
       "offset": 8333,
       "length": 7,
       "value": "\"ended\""
     },
     {
-      "filePath": "\/Users\/sasha\/temp\/modern 4.0\/wonderpush-ios-sdk-master\/SwiftSources\/WonderPush\/ActivitySyncer.swift",
+      "filePath": "\/Users\/user249774\/Desktop\/wonderpush-ios-sdk-master\/SwiftSources\/WonderPush\/ActivitySyncer.swift",
       "kind": "StringLiteral",
       "offset": 8381,
       "length": 7,

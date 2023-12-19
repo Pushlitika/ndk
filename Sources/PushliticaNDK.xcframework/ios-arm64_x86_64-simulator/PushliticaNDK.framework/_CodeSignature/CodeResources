@@ -6,51 +6,51 @@
 	<dict>
 		<key>Headers/PushliticaNDK-Swift.h</key>
 		<data>
-		fJOVvayfFzXt/RggULSZL2Pykx0=
+		rgh6s/1+3clnH7bHmfOAeb9JmdI=
 		</data>
 		<key>Info.plist</key>
 		<data>
-		028uQrslXHo6PmBSD7tThH0saHE=
+		k8gr4ZxQeT5wtbdlY7eybSEoBGc=
 		</data>
 		<key>Modules/PushliticaNDK.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		5QEQwCrM6uJLDorgWYO28RCaPOk=
+		ubkcL9toV3n+V1WcPwzuKy89Aoc=
 		</data>
 		<key>Modules/PushliticaNDK.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		ABXq0uj0E9nO2CMa28TIVyEHK9k=
+		kQKvL2GHdigNbni1biYuHF6TB2s=
 		</data>
 		<key>Modules/PushliticaNDK.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		1+PSTiHmAHZb7Uj624khjmS83KQ=
+		F+rk77+lLeBEK0EJA5qVc1j9sxA=
 		</data>
 		<key>Modules/PushliticaNDK.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		ABXq0uj0E9nO2CMa28TIVyEHK9k=
+		kQKvL2GHdigNbni1biYuHF6TB2s=
 		</data>
 		<key>Modules/PushliticaNDK.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		OMD4mXvpO3O4vdCUJl8M4AOZzTo=
+		NSbUtOU5k2GOBbG7SvNfuPs/i3c=
 		</data>
 		<key>Modules/PushliticaNDK.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		5QEQwCrM6uJLDorgWYO28RCaPOk=
+		ubkcL9toV3n+V1WcPwzuKy89Aoc=
 		</data>
 		<key>Modules/PushliticaNDK.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		xYi++Eb+N4Dti9jQ6vd3eqCNgVU=
+		xAiTWWlowQnD9VWcZkl0Rqb/8uw=
 		</data>
 		<key>Modules/PushliticaNDK.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		Pp7qlDfh35ZY1xtFl/giQxFEudY=
+		xUF0vfmtgkX68boO+KNcjH/TjlY=
 		</data>
 		<key>Modules/PushliticaNDK.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		xYi++Eb+N4Dti9jQ6vd3eqCNgVU=
+		xAiTWWlowQnD9VWcZkl0Rqb/8uw=
 		</data>
 		<key>Modules/PushliticaNDK.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		BJiW2ilWaaK4G4nymA4SMrNzcLY=
+		Omq0Xud+GHuhuxD54XTJslMiF7M=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -67,77 +67,77 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			zyelNIknQAeSRhWQQyLTd+ClbL1R7osKuXYTR5r3qaQ=
+			KOefVDnNFsxmDgxzS/K5nOKjJ8UgWj2g9GvMZuHUtmI=
 			</data>
 		</dict>
 		<key>Modules/PushliticaNDK.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			gKM5FLqRQWH810f6Kt2oveq20aiNInu27m0ABUagfBY=
+			JvuBhfTYe74xKiS14x/2nD0gUZAOQbUlBg2YiuPrE58=
 			</data>
 		</dict>
 		<key>Modules/PushliticaNDK.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			KQd115aU9P9Ih4tzTmF2pycdrArE9vUks5kHf5GTkCg=
+			8u5kERs67QNoFUw0mS8mz/0rEi8QxpVVe9ncyWXAfNU=
 			</data>
 		</dict>
 		<key>Modules/PushliticaNDK.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			hb0/Dpm44JSaaU6CyUyn+6Sulnp4jjPxwl5HisajgDM=
+			o0I4DYmpYuAZR5JVYkr6f2csLCAHiGrjP/8Puy80030=
 			</data>
 		</dict>
 		<key>Modules/PushliticaNDK.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			KQd115aU9P9Ih4tzTmF2pycdrArE9vUks5kHf5GTkCg=
+			8u5kERs67QNoFUw0mS8mz/0rEi8QxpVVe9ncyWXAfNU=
 			</data>
 		</dict>
 		<key>Modules/PushliticaNDK.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			C/ucqzCaugET8bZZFmMNEiIbnaPqThngWm6jQlfrjH4=
+			1jLdEldk+p3qs2AcMIW9epbQGERDWzkqy198Gy2oEvU=
 			</data>
 		</dict>
 		<key>Modules/PushliticaNDK.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			gKM5FLqRQWH810f6Kt2oveq20aiNInu27m0ABUagfBY=
+			JvuBhfTYe74xKiS14x/2nD0gUZAOQbUlBg2YiuPrE58=
 			</data>
 		</dict>
 		<key>Modules/PushliticaNDK.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			oPINN/b02Ej6faUpbRQYopq3U41pOpVVUtyX5kZfXCs=
+			0BfarnHfgkeHNc79zX/y/qVOC2AxZAbADdZWniKEekI=
 			</data>
 		</dict>
 		<key>Modules/PushliticaNDK.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			3ImXpjMR8w0cM17K07cEXxeIQUVAP1kCfZRfRc5c8LY=
+			sKQF4yAskdAiaBbHL3r8GjBZ+9vkREHzmOY3Ema40hg=
 			</data>
 		</dict>
 		<key>Modules/PushliticaNDK.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			oPINN/b02Ej6faUpbRQYopq3U41pOpVVUtyX5kZfXCs=
+			0BfarnHfgkeHNc79zX/y/qVOC2AxZAbADdZWniKEekI=
 			</data>
 		</dict>
 		<key>Modules/PushliticaNDK.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			QN6hg5Qou1jF1LpWqZAlLFOakvb+gyuyy0J/n1kmKTM=
+			fsbEmJ208S8PtgoKpS8q8ET6Rgqf++ToVD7+6ofrfrw=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

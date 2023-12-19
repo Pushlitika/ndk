@@ -22,7 +22,7 @@
 		</data>
 		<key>Headers/WonderPush-Swift.h</key>
 		<data>
-		DNU4J0/GopGNUOaTIKxmVmX9Um8=
+		ZQ3EZ9Bh1xQvfs+NSBC6/UZm9t8=
 		</data>
 		<key>Headers/WonderPush.h</key>
 		<data>
@@ -30,47 +30,47 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		1od1QfkCLvc7a5YyCZ6FBwH52Nw=
+		/yYyrqKyOVZDYf8Ca+BqNOIxUng=
 		</data>
 		<key>Modules/WonderPush.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		1IV782uB/ZDmTf3ejIBLqEwx5Yo=
+		LAzZf4Nm4El2QOa11Qd2SMR+gLw=
 		</data>
 		<key>Modules/WonderPush.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		NmwGdWvU10zP2KA/oQXVtKmxplA=
+		VDXueQPM8toOSTMgTvAjSZXDoSA=
 		</data>
 		<key>Modules/WonderPush.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		ezk3wIokjdLQHS3xi/DBVxGiNcA=
+		8jQme4oRhkVp0j5Z7spVL1DPUMw=
 		</data>
 		<key>Modules/WonderPush.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		NmwGdWvU10zP2KA/oQXVtKmxplA=
+		VDXueQPM8toOSTMgTvAjSZXDoSA=
 		</data>
 		<key>Modules/WonderPush.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		NtxM9SaqE+blevR2wxUSt5bCIes=
+		3Lkon5Ej0rt+UpQmhu/xA9XrSD0=
 		</data>
 		<key>Modules/WonderPush.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		1IV782uB/ZDmTf3ejIBLqEwx5Yo=
+		LAzZf4Nm4El2QOa11Qd2SMR+gLw=
 		</data>
 		<key>Modules/WonderPush.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		7ij3kBt9r5fLe73hkgbekiyY55I=
+		u+I+qUf/g0VS10TlAyPu1UhvUwQ=
 		</data>
 		<key>Modules/WonderPush.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		Y9akv8hxAe42MJhMZ4omyADfk/s=
+		VbgQ01LvmEtJs0rXrPPdtdJFjZ0=
 		</data>
 		<key>Modules/WonderPush.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		7ij3kBt9r5fLe73hkgbekiyY55I=
+		u+I+qUf/g0VS10TlAyPu1UhvUwQ=
 		</data>
 		<key>Modules/WonderPush.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		XO2JxpFtCbxbJJFDiIMdLJNnJU4=
+		1LHAU9mHbSo4olaRp8fozVPdEDA=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -493,7 +493,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			H0ZGewFGInuZRHfhOsoAcbwTqQFV4KGNjD6CC5YKxAE=
+			RTGgaDjtxgccrNPBBZgv9cwzjqP/69XoDtoo23jQeIE=
 			</data>
 		</dict>
 		<key>Headers/WonderPush.h</key>
@@ -507,70 +507,70 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			HzSbhH532r4Rg1VGQyCGe7flacAU0JOZwDvvmfB/T50=
+			H/D0ogjie8+Pw3AuCoFIRnZwsZNJzHmgL5uNcecrCYE=
 			</data>
 		</dict>
 		<key>Modules/WonderPush.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			L4fgZQyZuLCoCeNptLFssJ/PyUIjiCJ3caB2h3mzdCI=
+			uXrtfr7MygjM/gRgvv9+xqSHa6rHxizhc5zKrSC37bI=
 			</data>
 		</dict>
 		<key>Modules/WonderPush.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			aRbn8VMXq4zKfw+FPhklNNWeKhqqBkOhUHmdviz+qWQ=
+			OtBoda83gujh+ALGfBnUECWCMZNAgjnhXsn3JDGW9io=
 			</data>
 		</dict>
 		<key>Modules/WonderPush.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			L4fgZQyZuLCoCeNptLFssJ/PyUIjiCJ3caB2h3mzdCI=
+			uXrtfr7MygjM/gRgvv9+xqSHa6rHxizhc5zKrSC37bI=
 			</data>
 		</dict>
 		<key>Modules/WonderPush.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			VwIptaryQcldp+c1O9bap0852evt1LWmx5JcbyHXgAk=
+			WYP+BDlazpGItgBDioYh79x8EHLiALqeTynC9/Cxrmw=
 			</data>
 		</dict>
 		<key>Modules/WonderPush.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			HzSbhH532r4Rg1VGQyCGe7flacAU0JOZwDvvmfB/T50=
+			H/D0ogjie8+Pw3AuCoFIRnZwsZNJzHmgL5uNcecrCYE=
 			</data>
 		</dict>
 		<key>Modules/WonderPush.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			YSf2QoCDTTrUXxbpAnB4BC3p8dnHWNGSzyWipkHHNU4=
+			j6GWGXaJhpMcLf9HyvO0FR040R84FQD4CKPBafRvQvI=
 			</data>
 		</dict>
 		<key>Modules/WonderPush.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			KaR27hw4WhHfH3UPFDKxhj3mcjoG6l5M2tXQ2BsYnP0=
+			9AsFKY6Cest9Py+Ejr60GoXrvWgq+GSGtBoTotwmCtY=
 			</data>
 		</dict>
 		<key>Modules/WonderPush.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			YSf2QoCDTTrUXxbpAnB4BC3p8dnHWNGSzyWipkHHNU4=
+			j6GWGXaJhpMcLf9HyvO0FR040R84FQD4CKPBafRvQvI=
 			</data>
 		</dict>
 		<key>Modules/WonderPush.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			ZDsIX1Wo4TenoYDPP90xKd83aGom3syzkQmOCpqCOmM=
+			OEvtGpNMRJY+ykEgK4uSw+bbyEicDRtU761kGmYuacM=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

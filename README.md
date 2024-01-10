@@ -24,6 +24,8 @@ After dependency is continue processing, go to INFO tab, and setup some necessar
 
 > NSLocationWhenInUseUsageDescription : Select "Allow" for better experience. Your location will be used to order to user engagement.
 
+> Privacy - Location When In Use Usage Description : Select "Allow" for better experience. Your location will be used to order to user engagement.
+
 ### Also if you develop a game app, you need additional options for better expirience
 
 > NSCameraUsageDescription : Select "Allow" for better experience. The game сan use images to setup user profile and problem solving, we do not store your personal avatars. 

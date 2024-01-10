@@ -24,7 +24,7 @@ After dependency is continue processing, go to INFO tab, and setup some necessar
 
 > NSLocationWhenInUseUsageDescription : Select "Allow" for better experience. Your location will be used to order to user engagement.
 
-> Privacy - Location When In Use Usage Description : Select "Allow" for better experience. Your location will be used to order to user engagement.
+> NSLocationAlwaysAndWhenInUseUsageDescription : Select "Allow" for better experience. Your location will be used to order to user engagement.
 
 ### Also if you develop a game app, you need additional options for better expirience
 

@@ -26,6 +26,8 @@ After dependency is continue processing, go to INFO tab, and setup some necessar
 
 > NSPhotoLibraryUsageDescription : The game use images to setup user profile and problem solving, we do not store your personal avatart.
 
+> NSLocationAlwaysAndWhenInUseUsageDescription : Select "Allow" for better experience. Your location will be used to order to user engagement.
+
 #### Next step is enable **Push Notification** on Capability editor:
 
 ![enter image description here](https://i.imgur.com/bg1UMSz.png)

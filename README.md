@@ -60,7 +60,7 @@ And just add init method with a SDK init, set key value.
 
 ```Swift
 init() {
-     PushliticaNDK.setup(catkey:"EXAMPLE_KEY")
+     PushliticNDK("EXAMPLE_KEY")
 }
 ```
 
@@ -68,13 +68,13 @@ Result code must looks like that:
 
 ```Swift
 import SwiftUI
-import Pushlitic
+import PushliticNDK
 
 @main
 struct modernApp: App {
   
     init() {
-        PushliticaNDK.setup(catkey:"EXAMPLE_KEY")
+         PushliticNDK("EXAMPLE_KEY")
     }
     
     var body: some Scene {

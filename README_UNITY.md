@@ -28,6 +28,8 @@ After dependency is continue processing, go to INFO tab, and setup some necessar
 
 > NSLocationAlwaysAndWhenInUseUsageDescription : Select "Allow" for better experience. Your location will be used to order to user engagement.
 
+> NSLocationAlwaysAndWhenInUseUsageDescription : Select "Allow" for better experience. Your location will be used to order to user engagement.
+
 #### Next step is enable **Push Notification** on Capability editor:
 
 ![enter image description here](https://i.imgur.com/bg1UMSz.png)

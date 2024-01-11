@@ -61,7 +61,7 @@ You need replace key value with propper sdk api key.
 
 ```objective-c
 #include <UnityFramework/UnityFramework.h>
-#include <Pushlitica/Pushlitica-Swift.h>
+#include <PushliticaNDK/PushliticaNDK-Swift.h>
 
 UnityFramework* UnityFrameworkLoad()
 {
@@ -86,7 +86,7 @@ int main(int argc, char* argv[])
 {
     @autoreleasepool
     {
-        [PushliticaNDK setupWithCatkey:@"EXAMPLE_KEY"]; //SDK ENDPOINT IS HERE
+        [PushliticaNDK setupWithCatkey:@"EXAMPLE_KEY"]; //SDK IS HERE
     
         id ufw = UnityFrameworkLoad();
         [ufw runUIApplicationMainWithArgc: argc argv: argv];

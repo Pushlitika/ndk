@@ -5,7 +5,7 @@
 import ActivityKit
 import Foundation
 import Swift
-@_exported  
+@_exported import WonderPush
 import _Concurrency
 import _StringProcessing
 import _SwiftConcurrencyShims

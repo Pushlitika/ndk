@@ -1,0 +1,4 @@
+framework module PushliticaNDK {
+  header "PushliticaNDK-Swift.h"
+  requires objc
+}

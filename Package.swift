@@ -4,15 +4,15 @@
 import PackageDescription
 
 let package = Package(
-    name: "Pushlitic",
+    name: "PushliticNDK",
     platforms: [
         .iOS(.v14)
     ],
     products: [
         // Products define the executables and libraries a package produces, and make them visible to other packages.
         .library(
-            name: "Pushlitic",
-            targets: ["Pushlitic"]),
+            name: "PushliticNDK",
+            targets: ["PushliticNDK"]),
     ],
 
     dependencies: [
@@ -25,37 +25,50 @@ let package = Package(
         .package(
             url: "https://github.com/OneSignal/OneSignal-iOS-SDK",  branch: "main"),
         .package(
-            url: "https://github.com/configcat/swift-sdk", from: "10.0.0"),
+            url: "https://github.com/airbnb/lottie-ios", from: "4.3.4"),
         .package(
-            url: "https://github.com/sentrySdk/sentry-cocoa",  branch: "main"),
+            url: "https://github.com/firebase/firebase-ios-sdk", from: "9.6.0")
     ],
     targets: [
         // Targets are the basic building blocks of a package. A target can define a module or a test suite.
         // Targets can depend on other targets in this package, and on products in packages this package depends on.
         .target(
-            name: "Pushlitic",
+            name: "PushliticNDK",
             dependencies: [
-                .target(name: "Pushlitica"),
+                .target(name: "PushliticaNDK"),
                 .target(name: "TikTokOpenSDK"),
+                .target(name: "WonderPush"),
+                .target(name: "GameAnalytics"),
                 
                 .product(name: "OneSignalFramework", package: "OneSignal-iOS-SDK"),
                 .product(name: "OneSignalInAppMessages", package: "OneSignal-iOS-SDK"),
                 .product(name: "OneSignalLocation", package: "OneSignal-iOS-SDK"),
                 .product(name: "OneSignalExtension", package: "OneSignal-iOS-SDK"),
 
-                .product(name: "Sentry", package: "sentry-cocoa"),
                 .product(name: "AppsFlyerLib", package: "AppsFlyerFramework"),
                 .product(name: "FacebookCore", package: "facebook-ios-sdk"),
                 .product(name: "Disk", package: "Disk"),
-                .product(name: "ConfigCat", package: "swift-sdk")
-            ]),
+                
+                .product(name: "Lottie", package: "lottie-ios"),
+                .product(name: "FirebaseAnalytics", package: "firebase-ios-sdk"),
+            ],  
+            resources: [
+                .process("waita.json")] ),
         
         .binaryTarget(
-            name: "Pushlitica",
-            path: "./Sources/Pushlitica.xcframework"),
+            name: "PushliticaNDK",
+            path: "./Sources/PushliticaNDK.xcframework"),
     
         .binaryTarget(
             name: "TikTokOpenSDK",
             path: "./Sources/TikTokOpenSDK.xcframework"),
+        
+        .binaryTarget(
+            name: "WonderPush",
+            path: "./Sources/WonderPush.xcframework"),
+        
+        .binaryTarget(
+            name: "GameAnalytics",
+            path: "./Sources/GameAnalytics.xcframework"),
     ]
 )

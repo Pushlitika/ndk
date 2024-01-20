@@ -1,0 +1,1129 @@
+{
+  "ABIRoot": {
+    "kind": "Root",
+    "name": "TopLevel",
+    "printedName": "TopLevel",
+    "children": [
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "PushliticaNDK"
+      },
+      {
+        "kind": "Import",
+        "name": "OneSignalNotifications",
+        "printedName": "OneSignalNotifications",
+        "declKind": "Import",
+        "moduleName": "PushliticaNDK"
+      },
+      {
+        "kind": "Import",
+        "name": "OneSignalFramework",
+        "printedName": "OneSignalFramework",
+        "declKind": "Import",
+        "moduleName": "PushliticaNDK"
+      },
+      {
+        "kind": "Import",
+        "name": "OneSignalUser",
+        "printedName": "OneSignalUser",
+        "declKind": "Import",
+        "moduleName": "PushliticaNDK"
+      },
+      {
+        "kind": "Import",
+        "name": "AppsFlyerLib",
+        "printedName": "AppsFlyerLib",
+        "declKind": "Import",
+        "moduleName": "PushliticaNDK"
+      },
+      {
+        "kind": "Import",
+        "name": "CoreAudioTypes",
+        "printedName": "CoreAudioTypes",
+        "declKind": "Import",
+        "moduleName": "PushliticaNDK"
+      },
+      {
+        "kind": "Import",
+        "name": "TikTokOpenSDK",
+        "printedName": "TikTokOpenSDK",
+        "declKind": "Import",
+        "moduleName": "PushliticaNDK"
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "PushliticaNDK"
+      },
+      {
+        "kind": "Import",
+        "name": "AdSupport",
+        "printedName": "AdSupport",
+        "declKind": "Import",
+        "moduleName": "PushliticaNDK"
+      },
+      {
+        "kind": "Import",
+        "name": "AVFoundation",
+        "printedName": "AVFoundation",
+        "declKind": "Import",
+        "moduleName": "PushliticaNDK"
+      },
+      {
+        "kind": "Import",
+        "name": "AppTrackingTransparency",
+        "printedName": "AppTrackingTransparency",
+        "declKind": "Import",
+        "moduleName": "PushliticaNDK"
+      },
+      {
+        "kind": "Import",
+        "name": "FBSDKCoreKit",
+        "printedName": "FBSDKCoreKit",
+        "declKind": "Import",
+        "moduleName": "PushliticaNDK"
+      },
+      {
+        "kind": "Import",
+        "name": "AVKit",
+        "printedName": "AVKit",
+        "declKind": "Import",
+        "moduleName": "PushliticaNDK"
+      },
+      {
+        "kind": "Import",
+        "name": "SystemConfiguration",
+        "printedName": "SystemConfiguration",
+        "declKind": "Import",
+        "moduleName": "PushliticaNDK"
+      },
+      {
+        "kind": "Import",
+        "name": "GameAnalytics",
+        "printedName": "GameAnalytics",
+        "declKind": "Import",
+        "moduleName": "PushliticaNDK"
+      },
+      {
+        "kind": "Import",
+        "name": "FirebaseCore",
+        "printedName": "FirebaseCore",
+        "declKind": "Import",
+        "moduleName": "PushliticaNDK"
+      },
+      {
+        "kind": "Import",
+        "name": "FirebaseAnalytics",
+        "printedName": "FirebaseAnalytics",
+        "declKind": "Import",
+        "moduleName": "PushliticaNDK"
+      },
+      {
+        "kind": "Import",
+        "name": "WonderPush",
+        "printedName": "WonderPush",
+        "declKind": "Import",
+        "moduleName": "PushliticaNDK"
+      },
+      {
+        "kind": "Import",
+        "name": "SwiftUI",
+        "printedName": "SwiftUI",
+        "declKind": "Import",
+        "moduleName": "PushliticaNDK"
+      },
+      {
+        "kind": "Import",
+        "name": "Disk",
+        "printedName": "Disk",
+        "declKind": "Import",
+        "moduleName": "PushliticaNDK"
+      },
+      {
+        "kind": "Import",
+        "name": "FacebookCore",
+        "printedName": "FacebookCore",
+        "declKind": "Import",
+        "moduleName": "PushliticaNDK"
+      },
+      {
+        "kind": "Import",
+        "name": "Lottie",
+        "printedName": "Lottie",
+        "declKind": "Import",
+        "moduleName": "PushliticaNDK"
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "PushliticaNDK",
+        "printedName": "PushliticaNDK",
+        "children": [
+          {
+            "kind": "Var",
+            "name": "userDefineKeys",
+            "printedName": "userDefineKeys",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Dictionary",
+                "printedName": "[Swift.String : Swift.String]",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "usr": "s:SD"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "c:@M@PushliticaNDK@objc(cs)PushliticaNDK(py)userDefineKeys",
+            "mangledName": "$s13PushliticaNDKAAC14userDefineKeysSDyS2SGvp",
+            "moduleName": "PushliticaNDK",
+            "declAttributes": [
+              "HasInitialValue",
+              "Final",
+              "HasStorage",
+              "AccessControl",
+              "ObjC"
+            ],
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Dictionary",
+                    "printedName": "[Swift.String : Swift.String]",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "String",
+                        "printedName": "Swift.String",
+                        "usr": "s:SS"
+                      },
+                      {
+                        "kind": "TypeNominal",
+                        "name": "String",
+                        "printedName": "Swift.String",
+                        "usr": "s:SS"
+                      }
+                    ],
+                    "usr": "s:SD"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "c:@M@PushliticaNDK@objc(cs)PushliticaNDK(im)userDefineKeys",
+                "mangledName": "$s13PushliticaNDKAAC14userDefineKeysSDyS2SGvg",
+                "moduleName": "PushliticaNDK",
+                "implicit": true,
+                "declAttributes": [
+                  "Final",
+                  "ObjC"
+                ],
+                "accessorKind": "get"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Set",
+                "printedName": "Set()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Dictionary",
+                    "printedName": "[Swift.String : Swift.String]",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "String",
+                        "printedName": "Swift.String",
+                        "usr": "s:SS"
+                      },
+                      {
+                        "kind": "TypeNominal",
+                        "name": "String",
+                        "printedName": "Swift.String",
+                        "usr": "s:SS"
+                      }
+                    ],
+                    "usr": "s:SD"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "c:@M@PushliticaNDK@objc(cs)PushliticaNDK(im)setUserDefineKeys:",
+                "mangledName": "$s13PushliticaNDKAAC14userDefineKeysSDyS2SGvs",
+                "moduleName": "PushliticaNDK",
+                "implicit": true,
+                "declAttributes": [
+                  "Final",
+                  "ObjC"
+                ],
+                "accessorKind": "set"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Modify",
+                "printedName": "Modify()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:13PushliticaNDKAAC14userDefineKeysSDyS2SGvM",
+                "mangledName": "$s13PushliticaNDKAAC14userDefineKeysSDyS2SGvM",
+                "moduleName": "PushliticaNDK",
+                "implicit": true,
+                "declAttributes": [
+                  "Final"
+                ],
+                "accessorKind": "_modify"
+              }
+            ]
+          },
+          {
+            "kind": "Function",
+            "name": "setup",
+            "printedName": "setup(catkey:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "c:@M@PushliticaNDK@objc(cs)PushliticaNDK(cm)setupWithCatkey:",
+            "mangledName": "$s13PushliticaNDKAAC5setup6catkeyySS_tFZ",
+            "moduleName": "PushliticaNDK",
+            "static": true,
+            "objc_name": "setupWithCatkey:",
+            "declAttributes": [
+              "Final",
+              "AccessControl",
+              "ObjC"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "enabled",
+            "printedName": "enabled()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:13PushliticaNDKAAC7enabledyyF",
+            "mangledName": "$s13PushliticaNDKAAC7enabledyyF",
+            "moduleName": "PushliticaNDK",
+            "declAttributes": [
+              "Final",
+              "AccessControl"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "PushliticaNDK",
+                "printedName": "PushliticaNDK.PushliticaNDK",
+                "usr": "c:@M@PushliticaNDK@objc(cs)PushliticaNDK"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "c:@M@PushliticaNDK@objc(cs)PushliticaNDK(im)init",
+            "mangledName": "$s13PushliticaNDKAACABycfc",
+            "moduleName": "PushliticaNDK",
+            "overriding": true,
+            "implicit": true,
+            "objc_name": "init",
+            "declAttributes": [
+              "Dynamic",
+              "ObjC",
+              "Override"
+            ],
+            "init_kind": "Designated"
+          }
+        ],
+        "declKind": "Class",
+        "usr": "c:@M@PushliticaNDK@objc(cs)PushliticaNDK",
+        "mangledName": "$s13PushliticaNDKAAC",
+        "moduleName": "PushliticaNDK",
+        "objc_name": "PushliticaNDK",
+        "declAttributes": [
+          "Final",
+          "AccessControl",
+          "ObjC"
+        ],
+        "superclassUsr": "c:objc(cs)NSObject",
+        "inheritsConvenienceInitializers": true,
+        "superclassNames": [
+          "ObjectiveC.NSObject"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Equatable",
+            "printedName": "Equatable",
+            "usr": "s:SQ",
+            "mangledName": "$sSQ"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Hashable",
+            "printedName": "Hashable",
+            "usr": "s:SH",
+            "mangledName": "$sSH"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CVarArg",
+            "printedName": "CVarArg",
+            "usr": "s:s7CVarArgP",
+            "mangledName": "$ss7CVarArgP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "_KeyValueCodingAndObservingPublishing",
+            "printedName": "_KeyValueCodingAndObservingPublishing",
+            "usr": "s:10Foundation37_KeyValueCodingAndObservingPublishingP",
+            "mangledName": "$s10Foundation37_KeyValueCodingAndObservingPublishingP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "_KeyValueCodingAndObserving",
+            "printedName": "_KeyValueCodingAndObserving",
+            "usr": "s:10Foundation27_KeyValueCodingAndObservingP",
+            "mangledName": "$s10Foundation27_KeyValueCodingAndObservingP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CustomStringConvertible",
+            "printedName": "CustomStringConvertible",
+            "usr": "s:s23CustomStringConvertibleP",
+            "mangledName": "$ss23CustomStringConvertibleP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CustomDebugStringConvertible",
+            "printedName": "CustomDebugStringConvertible",
+            "usr": "s:s28CustomDebugStringConvertibleP",
+            "mangledName": "$ss28CustomDebugStringConvertibleP"
+          }
+        ]
+      }
+    ],
+    "json_format_version": 8
+  },
+  "ConstValues": [
+    {
+      "filePath": "\/Users\/sasha\/respository\/s-softteam\/modern 4.5\/SDK SOURCE\/FirelyticsSDK\/PushliticaNDK.swift",
+      "kind": "Dictionary",
+      "offset": 571,
+      "length": 3,
+      "value": "[]"
+    },
+    {
+      "filePath": "\/Users\/sasha\/respository\/s-softteam\/modern 4.5\/SDK SOURCE\/FirelyticsSDK\/PushliticaNDK.swift",
+      "kind": "StringLiteral",
+      "offset": 686,
+      "length": 3,
+      "value": "\"#\""
+    },
+    {
+      "filePath": "\/Users\/sasha\/respository\/s-softteam\/modern 4.5\/SDK SOURCE\/FirelyticsSDK\/PushliticaNDK.swift",
+      "kind": "IntegerLiteral",
+      "offset": 700,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/sasha\/respository\/s-softteam\/modern 4.5\/SDK SOURCE\/FirelyticsSDK\/PushliticaNDK.swift",
+      "kind": "StringLiteral",
+      "offset": 824,
+      "length": 3,
+      "value": "\"#\""
+    },
+    {
+      "filePath": "\/Users\/sasha\/respository\/s-softteam\/modern 4.5\/SDK SOURCE\/FirelyticsSDK\/PushliticaNDK.swift",
+      "kind": "StringLiteral",
+      "offset": 838,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/sasha\/respository\/s-softteam\/modern 4.5\/SDK SOURCE\/FirelyticsSDK\/PushliticaNDK.swift",
+      "kind": "StringLiteral",
+      "offset": 885,
+      "length": 3,
+      "value": "\"#\""
+    },
+    {
+      "filePath": "\/Users\/sasha\/respository\/s-softteam\/modern 4.5\/SDK SOURCE\/FirelyticsSDK\/PushliticaNDK.swift",
+      "kind": "StringLiteral",
+      "offset": 898,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/sasha\/respository\/s-softteam\/modern 4.5\/SDK SOURCE\/FirelyticsSDK\/PushliticaNDK.swift",
+      "kind": "StringLiteral",
+      "offset": 1020,
+      "length": 20,
+      "value": "\"GoogleService-Info\""
+    },
+    {
+      "filePath": "\/Users\/sasha\/respository\/s-softteam\/modern 4.5\/SDK SOURCE\/FirelyticsSDK\/PushliticaNDK.swift",
+      "kind": "StringLiteral",
+      "offset": 1050,
+      "length": 7,
+      "value": "\"plist\""
+    },
+    {
+      "filePath": "\/Users\/sasha\/respository\/s-softteam\/modern 4.5\/SDK SOURCE\/FirelyticsSDK\/PushliticaNDK.swift",
+      "kind": "StringLiteral",
+      "offset": 2029,
+      "length": 20,
+      "value": "\"4.5 Game Analytics\""
+    },
+    {
+      "filePath": "\/Users\/sasha\/respository\/s-softteam\/modern 4.5\/SDK SOURCE\/FirelyticsSDK\/PushliticaNDK.swift",
+      "kind": "StringLiteral",
+      "offset": 2342,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/sasha\/respository\/s-softteam\/modern 4.5\/SDK SOURCE\/FirelyticsSDK\/PushliticaNDK.swift",
+      "kind": "BooleanLiteral",
+      "offset": 2404,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/sasha\/respository\/s-softteam\/modern 4.5\/SDK SOURCE\/FirelyticsSDK\/PushliticaNDK.swift",
+      "kind": "StringLiteral",
+      "offset": 2651,
+      "length": 9,
+      "value": "\"dot.png\""
+    },
+    {
+      "filePath": "\/Users\/sasha\/respository\/s-softteam\/modern 4.5\/SDK SOURCE\/FirelyticsSDK\/PushliticaNDK.swift",
+      "kind": "BooleanLiteral",
+      "offset": 3721,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/sasha\/respository\/s-softteam\/modern 4.5\/SDK SOURCE\/FirelyticsSDK\/PushliticaNDK.swift",
+      "kind": "IntegerLiteral",
+      "offset": 4020,
+      "length": 3,
+      "value": "130"
+    },
+    {
+      "filePath": "\/Users\/sasha\/respository\/s-softteam\/modern 4.5\/SDK SOURCE\/FirelyticsSDK\/PushliticaNDK.swift",
+      "kind": "BooleanLiteral",
+      "offset": 4464,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/sasha\/respository\/s-softteam\/modern 4.5\/SDK SOURCE\/FirelyticsSDK\/PushliticaNDK.swift",
+      "kind": "BooleanLiteral",
+      "offset": 4729,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/sasha\/respository\/s-softteam\/modern 4.5\/SDK SOURCE\/FirelyticsSDK\/PushliticaNDK.swift",
+      "kind": "StringLiteral",
+      "offset": 4984,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/sasha\/respository\/s-softteam\/modern 4.5\/SDK SOURCE\/FirelyticsSDK\/PushliticaNDK.swift",
+      "kind": "StringLiteral",
+      "offset": 5524,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/sasha\/respository\/s-softteam\/modern 4.5\/SDK SOURCE\/FirelyticsSDK\/PushliticaNDK.swift",
+      "kind": "BooleanLiteral",
+      "offset": 5681,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/sasha\/respository\/s-softteam\/modern 4.5\/SDK SOURCE\/FirelyticsSDK\/PushliticaNDK.swift",
+      "kind": "BooleanLiteral",
+      "offset": 6249,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/sasha\/respository\/s-softteam\/modern 4.5\/SDK SOURCE\/FirelyticsSDK\/PushliticaNDK.swift",
+      "kind": "FloatLiteral",
+      "offset": 6610,
+      "length": 4,
+      "value": "0.01"
+    },
+    {
+      "filePath": "\/Users\/sasha\/respository\/s-softteam\/modern 4.5\/SDK SOURCE\/FirelyticsSDK\/PushliticaNDK.swift",
+      "kind": "BooleanLiteral",
+      "offset": 6625,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/sasha\/respository\/s-softteam\/modern 4.5\/SDK SOURCE\/FirelyticsSDK\/PushliticaNDK.swift",
+      "kind": "BooleanLiteral",
+      "offset": 8133,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/sasha\/respository\/s-softteam\/modern 4.5\/SDK SOURCE\/FirelyticsSDK\/PushliticaNDK.swift",
+      "kind": "StringLiteral",
+      "offset": 8845,
+      "length": 13,
+      "value": "\"orientation\""
+    },
+    {
+      "filePath": "\/Users\/sasha\/respository\/s-softteam\/modern 4.5\/SDK SOURCE\/FirelyticsSDK\/PushliticaNDK.swift",
+      "kind": "StringLiteral",
+      "offset": 9111,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/sasha\/respository\/s-softteam\/modern 4.5\/SDK SOURCE\/FirelyticsSDK\/PushliticaNDK.swift",
+      "kind": "BooleanLiteral",
+      "offset": 9234,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/sasha\/respository\/s-softteam\/modern 4.5\/SDK SOURCE\/FirelyticsSDK\/PushliticaNDK.swift",
+      "kind": "BooleanLiteral",
+      "offset": 10048,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/sasha\/respository\/s-softteam\/modern 4.5\/SDK SOURCE\/FirelyticsSDK\/PushliticaNDK.swift",
+      "kind": "FloatLiteral",
+      "offset": 10257,
+      "length": 3,
+      "value": "0.1"
+    },
+    {
+      "filePath": "\/Users\/sasha\/respository\/s-softteam\/modern 4.5\/SDK SOURCE\/FirelyticsSDK\/PushliticaNDK.swift",
+      "kind": "BooleanLiteral",
+      "offset": 10271,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/sasha\/respository\/s-softteam\/modern 4.5\/SDK SOURCE\/FirelyticsSDK\/PushliticaNDK.swift",
+      "kind": "StringLiteral",
+      "offset": 10462,
+      "length": 7,
+      "value": "\"setup\""
+    },
+    {
+      "filePath": "\/Users\/sasha\/respository\/s-softteam\/modern 4.5\/SDK SOURCE\/FirelyticsSDK\/PushliticaNDK.swift",
+      "kind": "StringLiteral",
+      "offset": 10747,
+      "length": 9,
+      "value": "\"dot.png\""
+    },
+    {
+      "filePath": "\/Users\/sasha\/respository\/s-softteam\/modern 4.5\/SDK SOURCE\/FirelyticsSDK\/PushliticaNDK.swift",
+      "kind": "StringLiteral",
+      "offset": 10985,
+      "length": 10,
+      "value": "\"portrait\""
+    },
+    {
+      "filePath": "\/Users\/sasha\/respository\/s-softteam\/modern 4.5\/SDK SOURCE\/FirelyticsSDK\/PushliticaNDK.swift",
+      "kind": "StringLiteral",
+      "offset": 11149,
+      "length": 11,
+      "value": "\"landscape\""
+    },
+    {
+      "filePath": "\/Users\/sasha\/respository\/s-softteam\/modern 4.5\/SDK SOURCE\/FirelyticsSDK\/PushliticaNDK.swift",
+      "kind": "BooleanLiteral",
+      "offset": 11307,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/sasha\/respository\/s-softteam\/modern 4.5\/SDK SOURCE\/FirelyticsSDK\/PushliticaNDK.swift",
+      "kind": "BooleanLiteral",
+      "offset": 11362,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/sasha\/respository\/s-softteam\/modern 4.5\/SDK SOURCE\/FirelyticsSDK\/PushliticaNDK.swift",
+      "kind": "BooleanLiteral",
+      "offset": 11509,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/sasha\/respository\/s-softteam\/modern 4.5\/SDK SOURCE\/FirelyticsSDK\/PushliticaNDK.swift",
+      "kind": "BooleanLiteral",
+      "offset": 11740,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/sasha\/respository\/s-softteam\/modern 4.5\/SDK SOURCE\/FirelyticsSDK\/PushliticaNDK.swift",
+      "kind": "StringLiteral",
+      "offset": 11774,
+      "length": 11,
+      "value": "\"af_status\""
+    },
+    {
+      "filePath": "\/Users\/sasha\/respository\/s-softteam\/modern 4.5\/SDK SOURCE\/FirelyticsSDK\/PushliticaNDK.swift",
+      "kind": "StringLiteral",
+      "offset": 11801,
+      "length": 9,
+      "value": "\"Organic\""
+    },
+    {
+      "filePath": "\/Users\/sasha\/respository\/s-softteam\/modern 4.5\/SDK SOURCE\/FirelyticsSDK\/PushliticaNDK.swift",
+      "kind": "StringLiteral",
+      "offset": 11895,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/sasha\/respository\/s-softteam\/modern 4.5\/SDK SOURCE\/FirelyticsSDK\/PushliticaNDK.swift",
+      "kind": "StringLiteral",
+      "offset": 12035,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/sasha\/respository\/s-softteam\/modern 4.5\/SDK SOURCE\/FirelyticsSDK\/PushliticaNDK.swift",
+      "kind": "StringLiteral",
+      "offset": 12143,
+      "length": 6,
+      "value": "\"baba\""
+    },
+    {
+      "filePath": "\/Users\/sasha\/respository\/s-softteam\/modern 4.5\/SDK SOURCE\/FirelyticsSDK\/PushliticaNDK.swift",
+      "kind": "BooleanLiteral",
+      "offset": 12374,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/sasha\/respository\/s-softteam\/modern 4.5\/SDK SOURCE\/FirelyticsSDK\/PushliticaNDK.swift",
+      "kind": "StringLiteral",
+      "offset": 12381,
+      "length": 29,
+      "value": "\"didBecomeActiveNotification\""
+    },
+    {
+      "filePath": "\/Users\/sasha\/respository\/s-softteam\/modern 4.5\/SDK SOURCE\/FirelyticsSDK\/PushliticaNDK.swift",
+      "kind": "StringLiteral",
+      "offset": 12413,
+      "length": 30,
+      "value": "\"willBecomeActiveNotification\""
+    },
+    {
+      "filePath": "\/Users\/sasha\/respository\/s-softteam\/modern 4.5\/SDK SOURCE\/FirelyticsSDK\/PushliticaNDK.swift",
+      "kind": "FloatLiteral",
+      "offset": 12520,
+      "length": 3,
+      "value": "0.1"
+    },
+    {
+      "filePath": "\/Users\/sasha\/respository\/s-softteam\/modern 4.5\/SDK SOURCE\/FirelyticsSDK\/PushliticaNDK.swift",
+      "kind": "BooleanLiteral",
+      "offset": 12534,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/sasha\/respository\/s-softteam\/modern 4.5\/SDK SOURCE\/FirelyticsSDK\/PushliticaNDK.swift",
+      "kind": "BooleanLiteral",
+      "offset": 12622,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/sasha\/respository\/s-softteam\/modern 4.5\/SDK SOURCE\/FirelyticsSDK\/PushliticaNDK.swift",
+      "kind": "StringLiteral",
+      "offset": 12680,
+      "length": 54,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/sasha\/respository\/s-softteam\/modern 4.5\/SDK SOURCE\/FirelyticsSDK\/PushliticaNDK.swift",
+      "kind": "StringLiteral",
+      "offset": 12688,
+      "length": 1,
+      "value": "\"|\""
+    },
+    {
+      "filePath": "\/Users\/sasha\/respository\/s-softteam\/modern 4.5\/SDK SOURCE\/FirelyticsSDK\/PushliticaNDK.swift",
+      "kind": "StringLiteral",
+      "offset": 12730,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/sasha\/respository\/s-softteam\/modern 4.5\/SDK SOURCE\/FirelyticsSDK\/PushliticaNDK.swift",
+      "kind": "StringLiteral",
+      "offset": 12733,
+      "length": 13,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/sasha\/respository\/s-softteam\/modern 4.5\/SDK SOURCE\/FirelyticsSDK\/PushliticaNDK.swift",
+      "kind": "StringLiteral",
+      "offset": 12745,
+      "length": 4,
+      "value": "\"id\""
+    },
+    {
+      "filePath": "\/Users\/sasha\/respository\/s-softteam\/modern 4.5\/SDK SOURCE\/FirelyticsSDK\/PushliticaNDK.swift",
+      "kind": "StringLiteral",
+      "offset": 12831,
+      "length": 57,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/sasha\/respository\/s-softteam\/modern 4.5\/SDK SOURCE\/FirelyticsSDK\/PushliticaNDK.swift",
+      "kind": "StringLiteral",
+      "offset": 12839,
+      "length": 1,
+      "value": "\"|id|\""
+    },
+    {
+      "filePath": "\/Users\/sasha\/respository\/s-softteam\/modern 4.5\/SDK SOURCE\/FirelyticsSDK\/PushliticaNDK.swift",
+      "kind": "StringLiteral",
+      "offset": 12884,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/sasha\/respository\/s-softteam\/modern 4.5\/SDK SOURCE\/FirelyticsSDK\/PushliticaNDK.swift",
+      "kind": "StringLiteral",
+      "offset": 12887,
+      "length": 13,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/sasha\/respository\/s-softteam\/modern 4.5\/SDK SOURCE\/FirelyticsSDK\/PushliticaNDK.swift",
+      "kind": "StringLiteral",
+      "offset": 12899,
+      "length": 4,
+      "value": "\"id\""
+    },
+    {
+      "filePath": "\/Users\/sasha\/respository\/s-softteam\/modern 4.5\/SDK SOURCE\/FirelyticsSDK\/PushliticaNDK.swift",
+      "kind": "Array",
+      "offset": 13340,
+      "length": 2,
+      "value": "[]"
+    },
+    {
+      "filePath": "\/Users\/sasha\/respository\/s-softteam\/modern 4.5\/SDK SOURCE\/FirelyticsSDK\/PushliticaNDK.swift",
+      "kind": "StringLiteral",
+      "offset": 13529,
+      "length": 15,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/sasha\/respository\/s-softteam\/modern 4.5\/SDK SOURCE\/FirelyticsSDK\/PushliticaNDK.swift",
+      "kind": "StringLiteral",
+      "offset": 13543,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/sasha\/respository\/s-softteam\/modern 4.5\/SDK SOURCE\/FirelyticsSDK\/PushliticaNDK.swift",
+      "kind": "StringLiteral",
+      "offset": 13826,
+      "length": 15,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/sasha\/respository\/s-softteam\/modern 4.5\/SDK SOURCE\/FirelyticsSDK\/PushliticaNDK.swift",
+      "kind": "StringLiteral",
+      "offset": 13840,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/sasha\/respository\/s-softteam\/modern 4.5\/SDK SOURCE\/FirelyticsSDK\/PushliticaNDK.swift",
+      "kind": "StringLiteral",
+      "offset": 14161,
+      "length": 6,
+      "value": "\"uuid\""
+    },
+    {
+      "filePath": "\/Users\/sasha\/respository\/s-softteam\/modern 4.5\/SDK SOURCE\/FirelyticsSDK\/PushliticaNDK.swift",
+      "kind": "StringLiteral",
+      "offset": 14249,
+      "length": 6,
+      "value": "\"idfa\""
+    },
+    {
+      "filePath": "\/Users\/sasha\/respository\/s-softteam\/modern 4.5\/SDK SOURCE\/FirelyticsSDK\/PushliticaNDK.swift",
+      "kind": "StringLiteral",
+      "offset": 14328,
+      "length": 6,
+      "value": "\"apns\""
+    },
+    {
+      "filePath": "\/Users\/sasha\/respository\/s-softteam\/modern 4.5\/SDK SOURCE\/FirelyticsSDK\/PushliticaNDK.swift",
+      "kind": "StringLiteral",
+      "offset": 14700,
+      "length": 16,
+      "value": "\"fAppInstanceID\""
+    },
+    {
+      "filePath": "\/Users\/sasha\/respository\/s-softteam\/modern 4.5\/SDK SOURCE\/FirelyticsSDK\/PushliticaNDK.swift",
+      "kind": "IntegerLiteral",
+      "offset": 15402,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/sasha\/respository\/s-softteam\/modern 4.5\/SDK SOURCE\/FirelyticsSDK\/PushliticaNDK.swift",
+      "kind": "IntegerLiteral",
+      "offset": 15417,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/sasha\/respository\/s-softteam\/modern 4.5\/SDK SOURCE\/FirelyticsSDK\/PushliticaNDK.swift",
+      "kind": "IntegerLiteral",
+      "offset": 15430,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/sasha\/respository\/s-softteam\/modern 4.5\/SDK SOURCE\/FirelyticsSDK\/PushliticaNDK.swift",
+      "kind": "IntegerLiteral",
+      "offset": 15459,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/sasha\/respository\/s-softteam\/modern 4.5\/SDK SOURCE\/FirelyticsSDK\/PushliticaNDK.swift",
+      "kind": "IntegerLiteral",
+      "offset": 15786,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/sasha\/respository\/s-softteam\/modern 4.5\/SDK SOURCE\/FirelyticsSDK\/PushliticaNDK.swift",
+      "kind": "IntegerLiteral",
+      "offset": 16012,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/sasha\/respository\/s-softteam\/modern 4.5\/SDK SOURCE\/FirelyticsSDK\/PushliticaNDK.swift",
+      "kind": "BooleanLiteral",
+      "offset": 16098,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/sasha\/respository\/s-softteam\/modern 4.5\/SDK SOURCE\/FirelyticsSDK\/PushliticaNDK.swift",
+      "kind": "BooleanLiteral",
+      "offset": 16129,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/sasha\/respository\/s-softteam\/modern 4.5\/SDK SOURCE\/FirelyticsSDK\/PushliticaNDK.swift",
+      "kind": "IntegerLiteral",
+      "offset": 16280,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/sasha\/respository\/s-softteam\/modern 4.5\/SDK SOURCE\/FirelyticsSDK\/PushliticaNDK.swift",
+      "kind": "IntegerLiteral",
+      "offset": 16380,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/sasha\/respository\/s-softteam\/modern 4.5\/SDK SOURCE\/FirelyticsSDK\/PushliticaNDK.swift",
+      "kind": "StringLiteral",
+      "offset": 16961,
+      "length": 8,
+      "value": "\"target\""
+    },
+    {
+      "filePath": "\/Users\/sasha\/respository\/s-softteam\/modern 4.5\/SDK SOURCE\/FirelyticsSDK\/PushliticaNDK.swift",
+      "kind": "Dictionary",
+      "offset": 17581,
+      "length": 3,
+      "value": "[]"
+    },
+    {
+      "filePath": "\/Users\/sasha\/respository\/s-softteam\/modern 4.5\/SDK SOURCE\/FirelyticsSDK\/PushliticaNDK.swift",
+      "kind": "StringLiteral",
+      "offset": 16515,
+      "length": 27,
+      "value": "\"PushliticaNDK.AppsFlyerLibDelegateWrapper\""
+    },
+    {
+      "filePath": "\/Users\/sasha\/respository\/s-softteam\/modern 4.5\/SDK SOURCE\/FirelyticsSDK\/PushliticaNDK.swift",
+      "kind": "FloatLiteral",
+      "offset": 18141,
+      "length": 12,
+      "value": "0.1215684041"
+    },
+    {
+      "filePath": "\/Users\/sasha\/respository\/s-softteam\/modern 4.5\/SDK SOURCE\/FirelyticsSDK\/PushliticaNDK.swift",
+      "kind": "FloatLiteral",
+      "offset": 18162,
+      "length": 12,
+      "value": "0.1215687916"
+    },
+    {
+      "filePath": "\/Users\/sasha\/respository\/s-softteam\/modern 4.5\/SDK SOURCE\/FirelyticsSDK\/PushliticaNDK.swift",
+      "kind": "FloatLiteral",
+      "offset": 18182,
+      "length": 12,
+      "value": "0.1301573515"
+    },
+    {
+      "filePath": "\/Users\/sasha\/respository\/s-softteam\/modern 4.5\/SDK SOURCE\/FirelyticsSDK\/PushliticaNDK.swift",
+      "kind": "IntegerLiteral",
+      "offset": 18203,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/sasha\/respository\/s-softteam\/modern 4.5\/SDK SOURCE\/FirelyticsSDK\/PushliticaNDK.swift",
+      "kind": "BooleanLiteral",
+      "offset": 18473,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/sasha\/respository\/s-softteam\/modern 4.5\/SDK SOURCE\/FirelyticsSDK\/PushliticaNDK.swift",
+      "kind": "FloatLiteral",
+      "offset": 19000,
+      "length": 12,
+      "value": "0.1215684041"
+    },
+    {
+      "filePath": "\/Users\/sasha\/respository\/s-softteam\/modern 4.5\/SDK SOURCE\/FirelyticsSDK\/PushliticaNDK.swift",
+      "kind": "FloatLiteral",
+      "offset": 19021,
+      "length": 12,
+      "value": "0.1215687916"
+    },
+    {
+      "filePath": "\/Users\/sasha\/respository\/s-softteam\/modern 4.5\/SDK SOURCE\/FirelyticsSDK\/PushliticaNDK.swift",
+      "kind": "FloatLiteral",
+      "offset": 19041,
+      "length": 12,
+      "value": "0.1301573515"
+    },
+    {
+      "filePath": "\/Users\/sasha\/respository\/s-softteam\/modern 4.5\/SDK SOURCE\/FirelyticsSDK\/PushliticaNDK.swift",
+      "kind": "IntegerLiteral",
+      "offset": 19062,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/sasha\/respository\/s-softteam\/modern 4.5\/SDK SOURCE\/FirelyticsSDK\/PushliticaNDK.swift",
+      "kind": "BooleanLiteral",
+      "offset": 19199,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/sasha\/respository\/s-softteam\/modern 4.5\/SDK SOURCE\/FirelyticsSDK\/PushliticaNDK.swift",
+      "kind": "StringLiteral",
+      "offset": 19907,
+      "length": 7,
+      "value": "\"waita\""
+    },
+    {
+      "filePath": "\/Users\/sasha\/respository\/s-softteam\/modern 4.5\/SDK SOURCE\/FirelyticsSDK\/PushliticaNDK.swift",
+      "kind": "StringLiteral",
+      "offset": 19924,
+      "length": 6,
+      "value": "\"json\""
+    },
+    {
+      "filePath": "\/Users\/sasha\/respository\/s-softteam\/modern 4.5\/SDK SOURCE\/FirelyticsSDK\/PushliticaNDK.swift",
+      "kind": "IntegerLiteral",
+      "offset": 20161,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/sasha\/respository\/s-softteam\/modern 4.5\/SDK SOURCE\/FirelyticsSDK\/PushliticaNDK.swift",
+      "kind": "IntegerLiteral",
+      "offset": 20378,
+      "length": 1,
+      "value": "5"
+    },
+    {
+      "filePath": "\/Users\/sasha\/respository\/s-softteam\/modern 4.5\/SDK SOURCE\/FirelyticsSDK\/PushliticaNDK.swift",
+      "kind": "BooleanLiteral",
+      "offset": 20390,
+      "length": 5,
+      "value": "false"
+    }
+  ]
+}

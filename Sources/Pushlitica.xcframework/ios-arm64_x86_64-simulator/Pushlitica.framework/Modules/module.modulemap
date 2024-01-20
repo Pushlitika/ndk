@@ -1,4 +1,0 @@
-framework module Pushlitica {
-  header "Pushlitica-Swift.h"
-  requires objc
-}

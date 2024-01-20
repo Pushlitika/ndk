@@ -9,7 +9,8 @@ This is a simple guide on how to integrate Pushlitic into your UNITY generated p
 Export iOS Unity project in In the usual way, and open project via xcode. Make sure your unit project is built for DeviceSDK.
 
 ## Dependency 
-Add SDK swift package dependencies to project: [https://github.com/Pushlitika/ndk.git](https://github.com/Pushlitika/ndk.git)
+Add SDK swift package dependencies to project: [https://github.com/Pushlitika/ndk.git](https://github.com/Pushlitika/ndk.git).
+
 And set branch **bottom**
 
 ## Info.plist setup

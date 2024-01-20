@@ -12,7 +12,7 @@ This is a simple guide on how to integrate Pushlitika into your project.
 
 ## Dependency 
 Add SDK swift package dependencies to project: [https://github.com/Pushlitika/ndk.git](https://github.com/Pushlitika/ndk.git).
-You need set branch **botttom**.
+You need set branch **bottom**.
 
 ## Info.plist setup
 After dependency is continue processing, go to INFO tab, and setup some necessary fields:

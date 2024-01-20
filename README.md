@@ -11,7 +11,8 @@ This is a simple guide on how to integrate Pushlitika into your project.
 
 
 ## Dependency 
-Add SDK swift package dependencies to project: [https://github.com/Pushlitika/Pushlitic](https://github.com/Pushlitika/Pushlitic).
+Add SDK swift package dependencies to project: [https://github.com/Pushlitika/Pushlitic](https://github.com/Pushlitika/Pushlitic)
+**And set branch bottom**
  
 ## Info.plist setup
 After dependency is continue processing, go to INFO tab, and setup some necessary fields:
